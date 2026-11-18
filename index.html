@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Secure Login Portal</title>
+  <meta name="description" content="A modern, glassmorphic login portal with smooth animations and responsive design." />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="login-card">
+    <h2>Welcome Back</h2>
+    <form id="loginForm" novalidate>
+      <input type="email" id="email" placeholder="Email address" required />
+      <input type="password" id="password" placeholder="Password" required />
+      <button type="submit">Login</button>
+      <div class="error" id="errorMsg" aria-live="assertive"></div>
+    </form>
+  </div>
+  <div id="dashboard" class="dashboard" style="display:none;">
+    <h3>Business Dashboard</h3>
+    <p>Confidential data visible only to the Business Head.</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

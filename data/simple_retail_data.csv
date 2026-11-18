@@ -1,0 +1,2001 @@
+Order ID,Order Date,Customer Name,Region,Category,Sub-Category,Product Name,Quantity,Sales,Profit,State
+ORD-5426,2023-07-08,Sophia,East,Appliances,Cooking,Washing Machine,21,3591,471.1352645054607,FL
+ORD-7949,2023-05-11,Sophia,West,Appliances,Cleaning,Refrigerator,22,30404,8938.227829026653,CA
+ORD-3558,2023-01-22,Olivia,North,Furniture,Seating,Dining Table,12,10872,1720.4486424466222,NY
+ORD-4556,2023-12-30,Alex,West,Furniture,Seating,Sofa,23,30291,6618.065941080025,CA
+ORD-8513,2024-01-23,Raj,East,Appliances,Cleaning,Air Conditioner,14,4074,721.4373662695236,FL
+ORD-2585,2024-03-03,David,West,Electronics,Laptops,Dell XPS,8,672,189.4126620393883,CA
+ORD-1995,2023-08-06,Raj,South,Furniture,Desks,Sofa,12,2532,453.30407951131883,TX
+ORD-5887,2023-08-01,Sophia,South,Furniture,Seating,Gaming Chair,16,6192,1287.5547367506365,TX
+ORD-3568,2023-06-06,James,West,Furniture,Chairs,Sofa,15,1710,176.34765110548832,CA
+ORD-6892,2024-01-27,Pragathi,East,Electronics,Accessories,MacBook Air,3,1404,356.97271334941354,FL
+ORD-8215,2023-07-20,David,West,Furniture,Desks,Gaming Chair,8,6632,1102.103140164554,CA
+ORD-9110,2023-08-02,Sophia,West,Appliances,Cleaning,Microwave,3,3030,535.0536861007967,CA
+ORD-1206,2023-09-12,Olivia,North,Furniture,Storage,Gaming Chair,14,12880,1392.1569266509991,NY
+ORD-7019,2023-03-04,Alex,West,Appliances,Kitchen,Heater,7,9198,1498.0892627880105,CA
+ORD-3693,2023-01-13,Sarah,East,Furniture,Tables,Dining Table,7,9212,1218.2340996367777,FL
+ORD-7776,2023-08-19,James,East,Furniture,Storage,Office Desk,1,1458,212.2658933972302,FL
+ORD-1663,2024-03-31,Emma,East,Electronics,Phones,MacBook Air,9,3303,477.02441959696444,FL
+ORD-4581,2023-11-14,Pragathi,West,Appliances,Laundry,Air Conditioner,17,8347,2441.4095141763605,CA
+ORD-5737,2023-04-23,John,North,Appliances,Kitchen,Microwave,24,27696,4247.3533942736585,NY
+ORD-6791,2023-05-06,Alex,North,Furniture,Tables,Gaming Chair,2,2252,445.64952322901433,NY
+ORD-8777,2023-09-12,Pragathi,West,Furniture,Seating,Bookshelf,6,1974,383.07469047929595,CA
+ORD-7546,2024-04-08,Emma,North,Furniture,Storage,Gaming Chair,3,2127,351.3629182728818,NY
+ORD-7694,2023-11-04,David,West,Furniture,Storage,Bookshelf,9,8802,1580.0857859224743,CA
+ORD-1262,2024-04-17,James,West,Furniture,Chairs,Bookshelf,18,3600,749.8425411558475,CA
+ORD-5548,2023-01-02,Pragathi,West,Furniture,Chairs,Sofa,1,1377,403.57648934493375,CA
+ORD-7295,2023-05-27,Alex,North,Electronics,Audio,iPhone 15,16,4112,1148.9834777849994,NY
+ORD-9445,2024-03-31,Pragathi,East,Furniture,Chairs,Sofa,4,5980,1398.1099526382175,FL
+ORD-1956,2024-01-19,Raj,North,Appliances,Climate Control,Microwave,14,5418,1068.0110633860352,NY
+ORD-7015,2024-02-02,Pragathi,West,Electronics,Accessories,iPhone 15,21,18165,4528.503274793781,CA
+ORD-4446,2023-06-25,Pragathi,West,Appliances,Laundry,Air Conditioner,22,22088,3833.2213315953536,CA
+ORD-8022,2023-10-10,Sophia,South,Furniture,Tables,Bookshelf,2,2700,541.4240302768037,TX
+ORD-9208,2023-01-04,Alex,North,Electronics,Tablets,Dell XPS,3,3795,869.4134725935404,NY
+ORD-1301,2024-01-15,Alex,South,Furniture,Tables,Dining Table,9,9990,2853.7804880502754,TX
+ORD-4327,2023-07-10,Sarah,North,Electronics,Audio,Dell XPS,21,20517,5544.25421790227,NY
+ORD-8455,2023-02-27,Emma,South,Appliances,Kitchen,Air Conditioner,3,2205,263.3548337529089,TX
+ORD-8343,2024-04-18,Raj,South,Appliances,Kitchen,Microwave,17,20009,4790.217592314863,TX
+ORD-7971,2023-12-21,Olivia,East,Appliances,Cleaning,Heater,18,17460,3881.4058783429564,FL
+ORD-7002,2023-11-17,Sarah,North,Furniture,Chairs,Sofa,8,4488,804.9531633071862,NY
+ORD-1574,2024-03-22,David,South,Appliances,Cooking,Heater,22,2200,424.8631279782825,TX
+ORD-3491,2023-11-01,Emma,South,Furniture,Tables,Office Desk,20,14620,3867.2840393688402,TX
+ORD-8027,2023-04-13,John,West,Electronics,Phones,Sony Headphones,4,3292,363.22724521741134,CA
+ORD-6177,2023-05-04,Raj,West,Furniture,Storage,Sofa,10,7060,1269.13511284005,CA
+ORD-2664,2023-11-14,John,South,Appliances,Kitchen,Washing Machine,23,27600,6601.777617637213,TX
+ORD-8404,2023-04-06,Raj,East,Furniture,Desks,Gaming Chair,22,13398,1829.8077258487406,FL
+ORD-4506,2023-10-05,John,East,Electronics,Phones,Sony Headphones,23,26427,5634.43307234539,FL
+ORD-7617,2023-02-16,John,South,Electronics,Phones,Sony Headphones,17,2431,659.0249359461518,TX
+ORD-8390,2023-01-23,John,South,Electronics,Accessories,iPhone 15,10,11730,1279.2832069252165,TX
+ORD-9527,2023-11-21,Pragathi,South,Furniture,Desks,Bookshelf,13,7345,1639.1853604887833,TX
+ORD-5000,2023-06-01,Sarah,West,Appliances,Kitchen,Air Conditioner,22,16258,3490.160272700458,CA
+ORD-8723,2023-03-06,Alex,North,Electronics,Audio,MacBook Air,1,1241,348.80802933349497,NY
+ORD-9967,2023-09-10,Raj,East,Electronics,Tablets,Dell XPS,19,15257,3609.826868402671,FL
+ORD-6745,2023-04-25,Raj,South,Electronics,Laptops,Samsung S23,9,11421,2724.800157324128,TX
+ORD-6988,2023-08-05,Sarah,West,Electronics,Audio,Sony Headphones,21,22470,3514.4633691354516,CA
+ORD-8357,2024-04-10,Sarah,East,Electronics,Audio,iPhone 15,17,2465,414.5161453447378,FL
+ORD-9787,2023-08-05,David,East,Electronics,Accessories,iPhone 15,3,2766,485.5596198327263,FL
+ORD-5171,2023-04-10,Pragathi,East,Electronics,Tablets,MacBook Air,12,5928,1666.220871242679,FL
+ORD-5491,2024-01-02,Olivia,East,Electronics,Accessories,Dell XPS,16,14944,1768.4853553261482,FL
+ORD-3156,2023-02-22,Sarah,North,Electronics,Accessories,MacBook Air,23,27991,7219.540286992471,NY
+ORD-9010,2023-05-13,Olivia,East,Electronics,Laptops,Samsung S23,3,3864,808.2837071835035,FL
+ORD-7313,2024-02-05,Olivia,South,Furniture,Seating,Gaming Chair,6,7482,1797.1302083154271,TX
+ORD-2365,2023-01-05,Raj,South,Electronics,Laptops,MacBook Air,5,7475,2222.526169859257,TX
+ORD-5186,2023-03-11,Sarah,West,Electronics,Phones,Sony Headphones,19,9386,1648.1583041774961,CA
+ORD-7619,2023-06-22,Alex,East,Furniture,Desks,Bookshelf,13,10439,2022.3696883553368,FL
+ORD-6029,2023-07-10,James,East,Electronics,Phones,iPhone 15,17,25194,6896.097287121052,FL
+ORD-6348,2023-03-21,John,North,Electronics,Laptops,Dell XPS,22,28292,8447.79200236145,NY
+ORD-4486,2023-02-16,Raj,North,Appliances,Laundry,Refrigerator,9,12402,2965.9350481574443,NY
+ORD-6063,2024-03-16,David,West,Electronics,Tablets,MacBook Air,11,11935,3481.9226464825288,CA
+ORD-8483,2023-05-02,Sophia,North,Furniture,Seating,Sofa,4,556,98.7754442996738,NY
+ORD-7132,2023-08-16,James,North,Furniture,Seating,Sofa,22,22176,4595.294604009442,NY
+ORD-2838,2023-09-10,Alex,North,Electronics,Accessories,Sony Headphones,6,5592,1370.8446981815418,NY
+ORD-3193,2023-09-08,Raj,West,Electronics,Laptops,Samsung S23,13,14014,1475.301356120898,CA
+ORD-5000,2023-03-04,Olivia,North,Appliances,Climate Control,Microwave,22,19272,5173.063177334276,NY
+ORD-3000,2024-02-09,Pragathi,East,Furniture,Chairs,Bookshelf,16,13952,3808.1213187021003,FL
+ORD-8245,2023-02-22,David,North,Electronics,Tablets,MacBook Air,5,3815,1029.7809590868649,NY
+ORD-4419,2024-03-21,Sarah,North,Electronics,Phones,MacBook Air,1,930,233.8018385840345,NY
+ORD-2077,2023-04-28,Emma,South,Appliances,Kitchen,Heater,3,4137,1118.79497336356,TX
+ORD-5530,2023-07-26,David,North,Electronics,Audio,iPhone 15,5,4510,1027.7039439907667,NY
+ORD-2331,2023-04-08,Raj,South,Appliances,Cooking,Heater,18,15246,3216.343753566954,TX
+ORD-8043,2023-04-16,David,South,Electronics,Phones,Dell XPS,19,2470,716.0631880868751,TX
+ORD-6569,2024-04-16,Sarah,North,Furniture,Chairs,Office Desk,5,2975,666.8793822311443,NY
+ORD-7090,2023-04-21,Alex,West,Electronics,Audio,MacBook Air,23,28888,6267.3446537318305,CA
+ORD-7777,2023-07-14,James,West,Furniture,Seating,Sofa,3,2148,501.58280446863324,CA
+ORD-7376,2023-04-02,Raj,North,Appliances,Laundry,Washing Machine,10,5830,686.4271543607268,NY
+ORD-6240,2023-10-28,Olivia,South,Furniture,Desks,Gaming Chair,9,7587,1971.7253393045814,TX
+ORD-2276,2023-10-19,Olivia,North,Furniture,Storage,Dining Table,1,57,14.230160470373704,NY
+ORD-6126,2024-01-21,Sophia,East,Appliances,Kitchen,Refrigerator,13,9295,997.6940741736216,FL
+ORD-6750,2023-10-21,Raj,North,Appliances,Laundry,Refrigerator,3,3264,394.8585919124036,NY
+ORD-5632,2023-09-30,James,East,Electronics,Accessories,Samsung S23,7,945,156.39699956162588,FL
+ORD-7371,2024-01-29,Sarah,North,Electronics,Tablets,Dell XPS,3,846,168.9364200587965,NY
+ORD-6401,2023-02-11,Alex,West,Appliances,Kitchen,Air Conditioner,9,5958,1028.4488643886136,CA
+ORD-2605,2023-08-17,Emma,North,Furniture,Storage,Bookshelf,1,711,103.14232383472151,NY
+ORD-3590,2023-11-07,Sophia,South,Appliances,Cooking,Microwave,9,7272,802.2986390206914,TX
+ORD-3551,2023-12-01,Sarah,West,Electronics,Accessories,Samsung S23,6,1002,151.88372653980593,CA
+ORD-7469,2023-01-26,Sophia,South,Furniture,Storage,Gaming Chair,19,4218,1070.944238440718,TX
+ORD-7233,2023-01-20,Pragathi,West,Furniture,Seating,Bookshelf,17,3213,395.09414357741224,CA
+ORD-1009,2023-11-29,Sarah,East,Furniture,Tables,Bookshelf,11,3388,373.91562855087653,FL
+ORD-3832,2023-05-10,Sophia,South,Electronics,Laptops,Dell XPS,20,7400,945.4606646941901,TX
+ORD-4530,2023-03-10,Pragathi,South,Electronics,Audio,MacBook Air,12,4596,1317.1566712782785,TX
+ORD-6951,2023-01-01,Alex,East,Electronics,Laptops,Dell XPS,8,11144,2394.7856746553875,FL
+ORD-1077,2023-08-01,Alex,North,Electronics,Audio,iPhone 15,5,270,39.72735428750999,NY
+ORD-7943,2023-03-30,Olivia,North,Furniture,Seating,Gaming Chair,18,6210,1182.3201628134066,NY
+ORD-5033,2023-06-02,Pragathi,East,Appliances,Cleaning,Air Conditioner,27,35046,6248.576406824367,FL
+ORD-9135,2023-07-17,Alex,East,Furniture,Tables,Bookshelf,6,3768,849.8407887946205,FL
+ORD-2120,2024-04-22,Sarah,North,Furniture,Seating,Dining Table,7,6804,1753.5230850343416,NY
+ORD-5612,2023-09-11,Pragathi,East,Electronics,Tablets,MacBook Air,4,2588,628.3995689589427,FL
+ORD-8863,2024-02-01,Emma,South,Appliances,Kitchen,Air Conditioner,15,4155,795.2671822230747,TX
+ORD-3674,2023-11-28,Sarah,North,Appliances,Cleaning,Washing Machine,13,2327,238.37930985681794,NY
+ORD-7166,2023-05-28,John,South,Appliances,Cooking,Refrigerator,11,14597,4111.830568757395,TX
+ORD-8790,2023-05-21,Olivia,West,Appliances,Kitchen,Microwave,8,8056,968.0002643791963,CA
+ORD-9795,2023-05-13,Sarah,West,Appliances,Cooking,Refrigerator,24,4224,551.264983453968,CA
+ORD-2792,2023-01-29,Alex,South,Appliances,Kitchen,Air Conditioner,14,19166,5138.173197307357,TX
+ORD-5021,2023-07-01,Sarah,South,Furniture,Tables,Dining Table,23,20102,3345.5614374379165,TX
+ORD-5212,2023-11-05,James,East,Appliances,Laundry,Washing Machine,9,2259,588.6291880765816,FL
+ORD-9666,2023-01-25,Sarah,East,Furniture,Chairs,Bookshelf,11,4785,924.1750170591042,FL
+ORD-4572,2023-07-01,Alex,West,Furniture,Storage,Gaming Chair,24,1776,354.6202328770632,CA
+ORD-4432,2023-06-03,Emma,East,Electronics,Phones,Sony Headphones,18,20196,2738.7228773803,FL
+ORD-3482,2023-02-18,Sophia,East,Electronics,Accessories,Dell XPS,7,8498,1525.0818690317335,FL
+ORD-7645,2023-01-19,Sophia,North,Appliances,Laundry,Washing Machine,18,14724,3756.173725643467,NY
+ORD-5873,2024-01-20,Sarah,East,Electronics,Laptops,MacBook Air,8,7792,896.8644421519809,FL
+ORD-1832,2023-03-28,Pragathi,West,Furniture,Storage,Office Desk,23,28773,7866.5022913623125,CA
+ORD-8776,2023-02-23,Sophia,East,Electronics,Audio,MacBook Air,15,19530,2650.3954499842275,FL
+ORD-5547,2023-03-19,Sophia,West,Appliances,Kitchen,Microwave,24,20712,5510.302766982306,CA
+ORD-4695,2023-09-20,Olivia,East,Electronics,Tablets,Samsung S23,1,200,53.92512381867534,FL
+ORD-4594,2023-01-02,Raj,North,Electronics,Audio,Dell XPS,1,864,194.3587476362738,NY
+ORD-2279,2024-01-31,David,East,Furniture,Desks,Bookshelf,20,6200,1048.0382596527818,FL
+ORD-3679,2023-12-08,Alex,North,Furniture,Chairs,Office Desk,12,16236,1994.5533930487127,NY
+ORD-2304,2023-01-14,Pragathi,East,Appliances,Climate Control,Heater,9,5409,1296.9114439494663,FL
+ORD-1074,2023-06-03,Sarah,South,Appliances,Climate Control,Microwave,13,8567,1323.2713732582868,TX
+ORD-8141,2023-02-10,Sarah,South,Furniture,Desks,Dining Table,6,498,104.99612905057303,TX
+ORD-7136,2024-04-13,Emma,South,Furniture,Seating,Dining Table,6,4680,1027.1786636314084,TX
+ORD-2386,2024-04-13,Olivia,North,Electronics,Laptops,Sony Headphones,14,2506,333.94122442054703,NY
+ORD-7819,2023-10-09,Alex,West,Electronics,Audio,Sony Headphones,21,28749,5388.674590374879,CA
+ORD-7212,2023-02-24,Raj,South,Electronics,Audio,MacBook Air,15,10695,3073.3788124156576,TX
+ORD-8101,2024-04-11,Sarah,East,Electronics,Laptops,Dell XPS,3,3951,435.7366778152546,FL
+ORD-6136,2023-06-03,James,South,Appliances,Cleaning,Microwave,2,244,28.06672374870747,TX
+ORD-5203,2023-02-11,Sophia,East,Electronics,Phones,Sony Headphones,7,1260,145.5968667078972,FL
+ORD-4640,2023-02-13,John,East,Appliances,Kitchen,Refrigerator,17,17102,4412.362376491664,FL
+ORD-6604,2023-12-05,Sophia,South,Appliances,Climate Control,Refrigerator,8,5680,1430.2647205321334,TX
+ORD-5806,2023-12-31,Olivia,North,Furniture,Chairs,Office Desk,15,20415,4922.363429381556,NY
+ORD-5232,2024-01-26,Olivia,South,Electronics,Laptops,Sony Headphones,14,5376,1287.4662713438024,TX
+ORD-2466,2023-08-11,Raj,East,Appliances,Kitchen,Microwave,20,19680,3759.4455443023103,FL
+ORD-5278,2023-05-11,Raj,West,Furniture,Chairs,Bookshelf,5,6220,1044.8044549274741,CA
+ORD-9684,2024-02-13,Emma,West,Appliances,Cooking,Air Conditioner,13,10023,2045.0289930629058,CA
+ORD-4810,2023-06-19,Alex,East,Furniture,Seating,Office Desk,2,926,92.64398936625383,FL
+ORD-4511,2024-04-21,Pragathi,South,Appliances,Cooking,Washing Machine,21,16737,3774.211787577172,TX
+ORD-4760,2023-12-25,James,South,Appliances,Climate Control,Heater,20,8760,2158.9402061874985,TX
+ORD-9173,2024-03-21,Raj,West,Appliances,Cleaning,Heater,5,2405,249.09736260677204,CA
+ORD-5805,2024-03-27,Sophia,North,Appliances,Climate Control,Air Conditioner,12,2832,821.2580145894076,NY
+ORD-8827,2023-07-18,James,South,Appliances,Laundry,Washing Machine,20,16420,2402.8098673432282,TX
+ORD-7402,2023-04-17,Olivia,North,Electronics,Tablets,MacBook Air,2,1748,251.88197869093332,NY
+ORD-8657,2023-06-26,David,South,Furniture,Tables,Dining Table,9,10548,2314.8093831990473,TX
+ORD-5876,2023-08-04,Pragathi,South,Appliances,Kitchen,Heater,3,627,120.80794582623872,TX
+ORD-2218,2023-04-08,John,West,Electronics,Phones,iPhone 15,11,11011,1686.0044137888485,CA
+ORD-8291,2024-04-07,James,South,Electronics,Laptops,Dell XPS,8,10672,2636.4378898148575,TX
+ORD-4020,2024-02-06,Olivia,West,Appliances,Laundry,Washing Machine,6,516,74.32290644122054,CA
+ORD-7183,2023-10-28,Sophia,South,Electronics,Tablets,iPhone 15,19,14193,3041.045948532903,TX
+ORD-2704,2023-08-04,Emma,North,Appliances,Cleaning,Washing Machine,19,7315,1694.8150341052765,NY
+ORD-5795,2023-06-19,John,North,Electronics,Audio,Sony Headphones,4,960,230.20622170360085,NY
+ORD-8561,2023-09-06,Olivia,North,Appliances,Cleaning,Microwave,19,20976,5562.066431969293,NY
+ORD-2136,2023-07-25,Raj,West,Appliances,Cleaning,Heater,13,4472,619.938034086875,CA
+ORD-6352,2023-12-31,Sophia,West,Electronics,Phones,Samsung S23,3,3171,384.94712114405706,CA
+ORD-2265,2024-04-21,John,East,Furniture,Seating,Sofa,22,27918,3761.96990472733,FL
+ORD-7353,2024-01-29,Pragathi,South,Appliances,Climate Control,Refrigerator,22,16588,1850.9569199498694,TX
+ORD-8813,2024-03-11,Alex,West,Furniture,Tables,Sofa,12,12960,1466.1029667358416,CA
+ORD-8266,2023-01-26,David,South,Appliances,Laundry,Microwave,2,1574,471.29479264964743,TX
+ORD-6658,2023-10-15,Sarah,North,Electronics,Phones,Sony Headphones,2,2046,298.73796709646274,NY
+ORD-2682,2023-10-30,John,West,Appliances,Climate Control,Refrigerator,16,14688,3344.5338238580175,CA
+ORD-4056,2023-02-27,Pragathi,East,Electronics,Tablets,MacBook Air,6,7410,1056.8211713651735,FL
+ORD-4380,2023-03-01,Sophia,East,Electronics,Accessories,Samsung S23,14,14476,3962.4377958650844,FL
+ORD-5473,2024-01-22,David,West,Appliances,Laundry,Heater,12,8904,2514.1976110566097,CA
+ORD-8099,2023-09-30,David,South,Appliances,Cooking,Air Conditioner,12,6840,958.3178261260606,TX
+ORD-5167,2023-03-13,Sophia,South,Appliances,Cleaning,Washing Machine,11,12507,2389.3876809132175,TX
+ORD-3043,2023-02-01,Emma,South,Electronics,Laptops,Samsung S23,11,15114,3799.838754135206,TX
+ORD-4117,2023-03-29,Alex,South,Furniture,Chairs,Bookshelf,9,4050,488.2618476390592,TX
+ORD-2949,2024-02-28,Olivia,North,Appliances,Cooking,Refrigerator,18,918,189.8868690172753,NY
+ORD-2709,2023-04-13,Emma,South,Electronics,Tablets,Dell XPS,2,2478,529.0732443984282,TX
+ORD-2925,2024-03-03,David,South,Furniture,Desks,Office Desk,17,6222,1501.3383940402998,TX
+ORD-9442,2023-11-24,Sophia,South,Electronics,Phones,iPhone 15,18,25038,6426.86764242523,TX
+ORD-8294,2024-01-25,Sarah,West,Appliances,Laundry,Refrigerator,22,10098,1981.0333779943699,CA
+ORD-2266,2023-01-12,Raj,South,Electronics,Accessories,Samsung S23,23,22034,4315.4863824499835,TX
+ORD-1306,2023-08-09,Sophia,North,Furniture,Storage,Sofa,23,8234,1908.1599646948428,NY
+ORD-9946,2023-12-18,John,South,Furniture,Desks,Bookshelf,24,22128,4395.846013126384,TX
+ORD-1956,2024-01-26,Pragathi,South,Appliances,Cleaning,Washing Machine,12,10932,3193.8505977711266,TX
+ORD-7563,2024-03-19,Sarah,West,Electronics,Accessories,Dell XPS,24,23904,5156.931393302899,CA
+ORD-2394,2023-03-07,Sarah,West,Furniture,Tables,Office Desk,15,22365,5783.39261117099,CA
+ORD-4591,2023-02-09,Raj,East,Furniture,Tables,Sofa,21,20160,2966.713722843534,FL
+ORD-5648,2024-01-10,Raj,South,Furniture,Desks,Sofa,5,4430,504.25164856134484,TX
+ORD-4216,2023-08-19,Sophia,East,Furniture,Seating,Dining Table,20,3580,426.20723969551244,FL
+ORD-6543,2023-06-12,Raj,West,Appliances,Climate Control,Air Conditioner,15,4650,767.4267597289662,CA
+ORD-7276,2023-09-27,Emma,East,Electronics,Audio,Samsung S23,16,14288,3797.4171063461445,FL
+ORD-4568,2024-04-12,Emma,North,Appliances,Cooking,Air Conditioner,11,8096,1884.4322911252268,NY
+ORD-1281,2024-01-05,Sarah,North,Appliances,Cooking,Microwave,14,14252,2939.245622614141,NY
+ORD-2229,2023-09-02,John,South,Electronics,Phones,MacBook Air,5,6170,1242.9277539214763,TX
+ORD-8473,2023-09-08,Sophia,South,Furniture,Seating,Dining Table,11,1925,558.9475373879469,TX
+ORD-2969,2024-03-03,David,South,Electronics,Phones,MacBook Air,6,1200,127.19366156944271,TX
+ORD-2198,2023-09-21,Pragathi,North,Furniture,Seating,Office Desk,6,3396,993.905168851615,NY
+ORD-1302,2024-02-18,Olivia,East,Furniture,Chairs,Office Desk,18,21924,5835.63030859511,FL
+ORD-4124,2023-10-29,James,West,Electronics,Accessories,MacBook Air,4,3400,748.4144889314406,CA
+ORD-8848,2023-07-11,Raj,South,Electronics,Phones,Samsung S23,6,3744,1106.1080291449223,TX
+ORD-2667,2024-04-03,James,North,Electronics,Tablets,iPhone 15,4,5816,1471.6700136512886,NY
+ORD-2367,2023-10-06,James,South,Furniture,Storage,Office Desk,19,27322,7201.173290866789,TX
+ORD-3875,2023-03-17,Pragathi,East,Furniture,Chairs,Dining Table,7,1344,321.3415851582349,FL
+ORD-8010,2023-10-18,Pragathi,North,Electronics,Phones,iPhone 15,12,1812,207.72620277368398,NY
+ORD-2177,2023-01-03,James,South,Furniture,Desks,Office Desk,21,7917,1613.6140985846876,TX
+ORD-6445,2024-04-07,John,South,Electronics,Accessories,Sony Headphones,12,9984,1785.8686786004816,TX
+ORD-6243,2024-02-11,John,East,Furniture,Desks,Sofa,11,11704,3269.428809657759,FL
+ORD-5882,2023-09-28,Alex,East,Appliances,Climate Control,Refrigerator,4,3352,656.4444370189893,FL
+ORD-8311,2023-02-21,John,West,Furniture,Tables,Sofa,14,11200,2312.26287787945,CA
+ORD-4530,2023-03-18,Pragathi,South,Furniture,Seating,Office Desk,4,556,69.15373357906857,TX
+ORD-7441,2024-03-22,David,East,Appliances,Cooking,Heater,24,31536,6731.75163164342,FL
+ORD-2300,2023-02-16,Olivia,West,Furniture,Chairs,Sofa,13,12168,2769.4007968185692,CA
+ORD-7295,2023-09-28,James,South,Furniture,Seating,Gaming Chair,10,10330,1882.184818620652,TX
+ORD-4273,2023-02-19,Sarah,North,Electronics,Laptops,MacBook Air,24,13920,3761.669142214114,NY
+ORD-1482,2024-03-14,Olivia,West,Electronics,Laptops,MacBook Air,18,11340,1515.05622316535,CA
+ORD-8327,2024-03-07,Emma,North,Furniture,Chairs,Dining Table,5,2340,518.1200088895494,NY
+ORD-7780,2023-09-11,James,South,Appliances,Kitchen,Air Conditioner,2,2786,354.62423012461164,TX
+ORD-7764,2023-10-07,David,East,Appliances,Climate Control,Air Conditioner,14,18074,3026.4086394842934,FL
+ORD-6189,2024-01-22,Sarah,North,Furniture,Seating,Dining Table,9,6273,1087.6830969703428,NY
+ORD-8397,2024-03-19,Raj,North,Electronics,Accessories,Sony Headphones,5,2385,349.9806630712765,NY
+ORD-3817,2023-09-16,Olivia,North,Furniture,Storage,Sofa,22,26466,7908.778466815883,NY
+ORD-4374,2023-10-13,David,South,Furniture,Chairs,Bookshelf,20,26740,5778.380335920776,TX
+ORD-1236,2024-02-04,Pragathi,East,Electronics,Laptops,iPhone 15,12,12348,2407.5798078429575,FL
+ORD-1285,2023-01-05,Emma,West,Appliances,Cooking,Microwave,20,26420,5495.133476402477,CA
+ORD-3785,2023-10-15,David,West,Electronics,Accessories,Samsung S23,1,1062,281.65676466563696,CA
+ORD-3496,2023-08-25,Raj,East,Electronics,Accessories,iPhone 15,2,820,96.37341046926953,FL
+ORD-9597,2023-06-03,David,South,Appliances,Laundry,Refrigerator,4,1440,190.58809286940757,TX
+ORD-9785,2023-01-12,Olivia,West,Appliances,Cooking,Washing Machine,15,9150,1127.9505081304212,CA
+ORD-9264,2023-03-08,Emma,South,Electronics,Audio,Samsung S23,16,17280,2780.971104722829,TX
+ORD-6656,2024-02-23,Raj,South,Appliances,Cleaning,Microwave,18,23022,6794.299608839392,TX
+ORD-5917,2023-06-13,Pragathi,South,Furniture,Chairs,Dining Table,14,12348,2732.002255069814,TX
+ORD-3529,2024-02-29,Alex,East,Furniture,Tables,Sofa,6,6588,1536.7259527762483,FL
+ORD-9734,2023-06-22,Sarah,North,Electronics,Laptops,Dell XPS,12,2124,396.12509871464,NY
+ORD-7610,2023-06-09,Emma,North,Furniture,Seating,Office Desk,11,3333,734.9619390176537,NY
+ORD-6175,2023-09-23,Raj,East,Appliances,Laundry,Washing Machine,2,862,257.71495308006786,FL
+ORD-7406,2023-05-29,Alex,North,Appliances,Climate Control,Microwave,9,11061,1777.005281449035,NY
+ORD-4292,2023-09-30,Sophia,East,Electronics,Accessories,Dell XPS,5,7160,1032.1893658530353,FL
+ORD-4716,2023-01-07,Alex,West,Furniture,Desks,Dining Table,22,11088,2735.663250332965,CA
+ORD-8993,2023-08-18,Emma,North,Furniture,Desks,Bookshelf,15,10650,2684.417323250147,NY
+ORD-3385,2024-04-18,John,North,Appliances,Cleaning,Air Conditioner,18,9756,2879.724870580497,NY
+ORD-6887,2023-07-07,Alex,North,Electronics,Tablets,Dell XPS,11,8272,1653.297896588626,NY
+ORD-5839,2023-02-03,Sarah,South,Appliances,Cleaning,Heater,20,13460,3330.965252327957,TX
+ORD-5200,2023-02-11,Emma,West,Appliances,Climate Control,Washing Machine,21,12663,3525.593683210038,CA
+ORD-9433,2023-03-01,Raj,North,Electronics,Phones,iPhone 15,16,1248,194.53018139810519,NY
+ORD-1078,2023-10-17,David,West,Furniture,Seating,Dining Table,8,6200,1409.4704058873372,CA
+ORD-5940,2024-02-20,John,East,Electronics,Accessories,Sony Headphones,12,5976,1127.3999941126124,FL
+ORD-1147,2024-02-12,Alex,North,Electronics,Audio,iPhone 15,3,2139,229.11721691780758,NY
+ORD-9754,2024-02-03,Sarah,East,Electronics,Laptops,Dell XPS,19,27816,7142.273579393922,FL
+ORD-7511,2023-12-18,Emma,North,Appliances,Kitchen,Washing Machine,8,11144,2060.0728992602385,NY
+ORD-9569,2024-03-26,Raj,South,Electronics,Phones,iPhone 15,17,24735,3763.248694703827,TX
+ORD-7303,2023-05-20,Sarah,North,Appliances,Kitchen,Heater,8,6552,1443.9056350594365,NY
+ORD-6784,2023-09-28,Olivia,East,Appliances,Cooking,Heater,17,16745,3678.9822469669402,FL
+ORD-1685,2023-10-05,Raj,North,Appliances,Cooking,Heater,20,9260,2645.244070835565,NY
+ORD-8697,2023-02-08,David,South,Electronics,Tablets,MacBook Air,17,14093,3999.3863277164487,TX
+ORD-9789,2023-10-29,Sophia,South,Electronics,Tablets,Sony Headphones,8,2296,586.1446674326735,TX
+ORD-5082,2023-09-15,Raj,South,Furniture,Storage,Gaming Chair,21,10752,1272.7591569316803,TX
+ORD-2653,2023-07-08,John,South,Appliances,Cooking,Washing Machine,1,745,165.6791352952623,TX
+ORD-8353,2023-05-08,James,East,Appliances,Cleaning,Refrigerator,5,5920,782.4442379659715,FL
+ORD-9033,2024-01-23,Pragathi,East,Electronics,Accessories,Sony Headphones,8,10376,2863.395171626711,FL
+ORD-3547,2023-08-07,David,North,Appliances,Climate Control,Heater,2,1972,345.2025063121876,NY
+ORD-8604,2023-01-12,Emma,South,Furniture,Desks,Office Desk,17,18479,4618.070201500117,TX
+ORD-2124,2023-08-11,Alex,West,Electronics,Accessories,MacBook Air,23,26289,7238.154375540312,CA
+ORD-2828,2024-01-29,Sarah,West,Furniture,Seating,Dining Table,24,25512,5577.149410754647,CA
+ORD-3563,2024-03-05,Emma,South,Furniture,Tables,Dining Table,4,948,245.3798140101352,TX
+ORD-1161,2023-02-24,Olivia,West,Electronics,Audio,Sony Headphones,20,18980,2098.4438339385324,CA
+ORD-1541,2023-11-01,Alex,East,Furniture,Desks,Bookshelf,14,3640,406.62507648961684,FL
+ORD-7256,2024-03-07,Alex,West,Furniture,Tables,Sofa,13,10257,1276.74367997687,CA
+ORD-6237,2023-04-23,Sarah,East,Appliances,Climate Control,Heater,15,15300,3774.864439929476,FL
+ORD-2733,2023-05-28,Sarah,South,Electronics,Phones,iPhone 15,16,17920,2216.11690826942,TX
+ORD-9329,2023-03-31,James,East,Appliances,Cooking,Microwave,16,14176,1940.627072884494,FL
+ORD-2900,2023-12-16,Pragathi,East,Furniture,Storage,Dining Table,22,16698,3399.9758477311484,FL
+ORD-7052,2023-10-29,Alex,South,Appliances,Cleaning,Microwave,19,11970,3212.5889588995897,TX
+ORD-8462,2023-12-22,John,West,Electronics,Tablets,Samsung S23,6,7998,879.5273076415934,CA
+ORD-8531,2023-04-10,James,West,Furniture,Storage,Gaming Chair,6,5148,678.4118494323664,CA
+ORD-5998,2024-02-18,John,West,Electronics,Accessories,iPhone 15,24,22200,2418.0013931759495,CA
+ORD-6347,2024-04-23,Emma,West,Appliances,Cooking,Heater,10,2540,390.2146222085208,CA
+ORD-1671,2023-01-21,James,South,Appliances,Cooking,Heater,4,2956,538.6397202575376,TX
+ORD-7164,2024-01-11,Olivia,South,Appliances,Cooking,Washing Machine,14,19404,3859.3823743299968,TX
+ORD-6976,2024-02-25,Olivia,East,Furniture,Tables,Bookshelf,24,8496,1637.9140813808208,FL
+ORD-7633,2023-06-10,James,North,Electronics,Accessories,iPhone 15,18,12204,1770.3535626249745,NY
+ORD-5624,2023-01-28,Raj,West,Electronics,Phones,iPhone 15,11,5192,1254.2159649633918,CA
+ORD-4137,2023-01-05,John,South,Furniture,Desks,Gaming Chair,2,142,38.339300550050794,TX
+ORD-6413,2023-03-27,David,North,Furniture,Desks,Bookshelf,12,4716,1213.8702312543428,NY
+ORD-3324,2023-11-15,Alex,West,Appliances,Kitchen,Microwave,17,17153,2880.940593940203,CA
+ORD-1781,2023-08-20,Sophia,South,Furniture,Seating,Sofa,21,2688,741.6632052219421,TX
+ORD-6879,2023-10-11,Olivia,West,Appliances,Cleaning,Air Conditioner,17,8432,1774.9589599695878,CA
+ORD-7744,2023-08-15,Olivia,North,Furniture,Storage,Sofa,6,4368,1010.5630994871432,NY
+ORD-1007,2023-11-03,John,East,Appliances,Kitchen,Microwave,11,6083,835.4675616374823,FL
+ORD-3285,2023-02-24,Sophia,North,Electronics,Accessories,Sony Headphones,9,5472,761.5281852951241,NY
+ORD-1258,2023-09-25,Emma,West,Furniture,Desks,Sofa,2,1648,367.0007464954725,CA
+ORD-1612,2024-02-21,Emma,West,Appliances,Kitchen,Microwave,1,1064,145.60304578985196,CA
+ORD-8183,2024-01-01,Emma,South,Appliances,Cleaning,Refrigerator,22,13046,1611.5566939053112,TX
+ORD-9004,2023-09-17,Raj,North,Electronics,Tablets,Sony Headphones,6,1776,223.7143546676501,NY
+ORD-1226,2024-02-08,James,West,Electronics,Audio,iPhone 15,2,2910,511.59378745951466,CA
+ORD-8544,2024-03-09,Sarah,North,Electronics,Accessories,Sony Headphones,6,1560,392.98971195576513,NY
+ORD-1587,2023-08-01,James,West,Appliances,Kitchen,Refrigerator,24,31176,8225.819429894535,CA
+ORD-7450,2023-08-06,Sophia,West,Furniture,Desks,Dining Table,1,1030,189.54445793663135,CA
+ORD-7980,2023-10-06,James,East,Appliances,Kitchen,Heater,16,15120,2577.581838547595,FL
+ORD-1155,2024-01-16,Sarah,North,Appliances,Laundry,Microwave,16,18224,2970.2189165765444,NY
+ORD-7659,2024-03-31,Pragathi,West,Appliances,Climate Control,Refrigerator,23,20792,2399.721204898954,CA
+ORD-7115,2023-04-27,James,East,Furniture,Chairs,Dining Table,21,28875,7272.161433426366,FL
+ORD-3454,2023-04-25,Raj,West,Electronics,Phones,MacBook Air,1,695,162.7317913549109,CA
+ORD-6661,2023-05-22,Emma,West,Appliances,Laundry,Heater,4,2200,460.5252168826269,CA
+ORD-2750,2024-02-28,James,North,Appliances,Laundry,Refrigerator,24,7656,2171.3588167273397,NY
+ORD-6075,2024-01-22,Alex,South,Furniture,Chairs,Bookshelf,10,13480,3518.0286703645183,TX
+ORD-1933,2023-05-01,David,West,Electronics,Phones,MacBook Air,19,18848,3580.5251871733594,CA
+ORD-2762,2023-10-13,Pragathi,West,Electronics,Tablets,Dell XPS,9,3321,708.8148320224559,CA
+ORD-8789,2024-04-20,Sarah,West,Electronics,Audio,iPhone 15,8,4504,1051.958458650347,CA
+ORD-2492,2024-03-07,Pragathi,South,Furniture,Chairs,Dining Table,12,13296,2041.6717354585783,TX
+ORD-4516,2023-12-23,Sarah,West,Appliances,Cleaning,Washing Machine,3,3186,378.4058618894426,CA
+ORD-2447,2023-08-04,Raj,North,Electronics,Accessories,MacBook Air,1,1081,219.97190124943992,NY
+ORD-4740,2023-11-04,Olivia,East,Furniture,Seating,Gaming Chair,22,6182,1790.4411270599712,FL
+ORD-1193,2024-02-10,Sarah,West,Appliances,Cooking,Refrigerator,12,7536,1736.6324039869362,CA
+ORD-7716,2023-03-28,Sophia,North,Furniture,Storage,Gaming Chair,6,8010,2229.150985028858,NY
+ORD-3800,2024-01-15,Alex,West,Furniture,Desks,Bookshelf,10,4900,814.7200669609897,CA
+ORD-2325,2023-06-26,Sophia,West,Appliances,Laundry,Washing Machine,13,9750,985.7363083628208,CA
+ORD-1703,2023-03-31,Pragathi,West,Electronics,Audio,Dell XPS,7,2730,512.4420147414397,CA
+ORD-1855,2023-09-22,James,South,Furniture,Desks,Bookshelf,24,20784,4643.422094198476,TX
+ORD-2517,2023-02-10,David,East,Electronics,Audio,MacBook Air,7,3122,733.9323775924025,FL
+ORD-7132,2023-06-17,Pragathi,East,Appliances,Laundry,Washing Machine,12,816,148.67863948333707,FL
+ORD-5615,2023-10-28,Pragathi,West,Electronics,Accessories,Sony Headphones,7,7259,1918.1156666064192,CA
+ORD-6443,2023-06-26,David,East,Electronics,Audio,Sony Headphones,15,13485,2040.8043337521935,FL
+ORD-4808,2023-05-27,John,South,Furniture,Chairs,Sofa,15,6915,1451.5741972467247,TX
+ORD-5658,2024-03-22,Raj,East,Furniture,Storage,Gaming Chair,9,2259,389.4154518605474,FL
+ORD-2628,2023-03-25,Alex,East,Furniture,Chairs,Gaming Chair,6,4296,1066.251090235918,FL
+ORD-8980,2023-09-25,James,North,Furniture,Storage,Office Desk,3,852,168.01448414311156,NY
+ORD-2819,2023-05-07,Pragathi,North,Appliances,Kitchen,Washing Machine,23,34063,7850.102085197448,NY
+ORD-4259,2024-03-04,Alex,West,Electronics,Audio,Samsung S23,23,2806,452.50313551433294,CA
+ORD-2141,2023-03-04,James,West,Furniture,Storage,Bookshelf,23,9407,2614.4913349192493,CA
+ORD-6906,2023-07-15,David,North,Electronics,Laptops,Dell XPS,5,4410,746.0639203707902,NY
+ORD-2829,2024-03-02,Alex,South,Electronics,Laptops,Dell XPS,15,2625,575.3941421463279,TX
+ORD-4415,2023-11-17,Emma,West,Electronics,Laptops,Dell XPS,4,3544,516.3514060997816,CA
+ORD-3309,2023-06-03,Sarah,North,Appliances,Laundry,Microwave,14,5768,1024.3815262747087,NY
+ORD-7789,2023-05-02,Olivia,South,Appliances,Cleaning,Washing Machine,5,1095,191.5819813442134,TX
+ORD-4236,2024-02-05,Sarah,North,Furniture,Seating,Gaming Chair,13,13741,3499.9395817152886,NY
+ORD-2439,2023-11-05,Emma,South,Electronics,Phones,Sony Headphones,23,22908,3922.700160833969,TX
+ORD-5931,2024-03-05,John,North,Electronics,Audio,Samsung S23,12,4188,1114.5846964116163,NY
+ORD-7652,2023-05-05,Sophia,East,Appliances,Climate Control,Refrigerator,3,2874,647.3594879528274,FL
+ORD-3567,2023-08-02,Sophia,South,Electronics,Audio,Dell XPS,24,19464,3742.7150886749305,TX
+ORD-4630,2023-05-27,Emma,West,Electronics,Phones,Sony Headphones,21,6636,1132.7130948536897,CA
+ORD-1882,2024-04-09,John,East,Furniture,Tables,Bookshelf,24,26232,5072.125489985704,FL
+ORD-6347,2023-12-18,Sarah,West,Appliances,Kitchen,Refrigerator,6,6432,1032.2684360714584,CA
+ORD-7642,2024-02-11,Sophia,South,Furniture,Storage,Gaming Chair,15,11460,3251.7399567098173,TX
+ORD-5258,2023-04-02,Raj,North,Furniture,Chairs,Bookshelf,19,15599,4076.2974301895188,NY
+ORD-8742,2023-12-03,Pragathi,North,Appliances,Climate Control,Refrigerator,17,13362,3722.8942643642263,NY
+ORD-6845,2023-07-27,David,North,Furniture,Storage,Bookshelf,18,9522,2721.8777887649676,NY
+ORD-1695,2024-04-08,John,South,Appliances,Laundry,Heater,12,2916,486.04315028319326,TX
+ORD-2088,2023-09-21,Raj,East,Furniture,Chairs,Bookshelf,17,23800,2391.031528026914,FL
+ORD-8295,2023-05-21,John,East,Electronics,Tablets,iPhone 15,8,5576,1415.1026866064412,FL
+ORD-8427,2023-07-10,Raj,East,Electronics,Phones,Dell XPS,8,10704,2618.518420623479,FL
+ORD-3130,2024-02-02,Alex,West,Furniture,Storage,Bookshelf,13,17719,1793.4773060123416,CA
+ORD-2497,2023-08-22,Raj,East,Appliances,Kitchen,Air Conditioner,16,22896,2519.5949516958285,FL
+ORD-6686,2024-01-27,Alex,East,Electronics,Accessories,Samsung S23,23,23529,3069.732582102211,FL
+ORD-8570,2024-02-05,Pragathi,East,Appliances,Cleaning,Washing Machine,9,4374,466.8537971014959,FL
+ORD-6565,2023-01-31,Emma,North,Electronics,Audio,iPhone 15,17,3944,791.232620375135,NY
+ORD-7555,2023-02-21,Emma,West,Furniture,Desks,Sofa,20,4180,857.9687928427375,CA
+ORD-7919,2023-01-30,Emma,West,Furniture,Seating,Dining Table,4,5112,1448.5278245740674,CA
+ORD-8758,2023-12-20,Sophia,South,Furniture,Seating,Office Desk,11,10142,2532.751992901584,TX
+ORD-7056,2023-10-01,Olivia,North,Electronics,Phones,Samsung S23,22,7546,2106.4307747677803,NY
+ORD-5523,2023-03-06,James,North,Furniture,Tables,Sofa,11,2046,549.4377103640991,NY
+ORD-9662,2023-07-17,Pragathi,East,Furniture,Storage,Dining Table,16,11840,1395.4375940765567,FL
+ORD-4796,2023-04-30,James,West,Furniture,Tables,Gaming Chair,23,21965,2807.6359241785476,CA
+ORD-5888,2023-01-24,Pragathi,North,Electronics,Audio,Sony Headphones,12,6864,1991.620773173581,NY
+ORD-2124,2023-07-30,Alex,West,Furniture,Chairs,Dining Table,12,16392,1797.1730230301825,CA
+ORD-6574,2023-09-13,Raj,East,Furniture,Seating,Gaming Chair,14,3864,672.1916842268901,FL
+ORD-4893,2023-01-31,Sarah,North,Electronics,Tablets,Samsung S23,2,1396,323.1330922218999,NY
+ORD-9967,2023-06-22,David,North,Furniture,Chairs,Sofa,13,2743,490.8512665192727,NY
+ORD-2461,2024-03-03,Emma,East,Appliances,Cooking,Heater,21,12369,3001.2311878645396,FL
+ORD-7708,2023-01-13,Alex,West,Electronics,Accessories,Sony Headphones,17,2839,727.9283071749387,CA
+ORD-1674,2023-04-12,John,South,Appliances,Cleaning,Heater,24,22008,6377.240359186303,TX
+ORD-9931,2024-01-07,Emma,West,Electronics,Audio,iPhone 15,24,14160,2730.317491572323,CA
+ORD-3745,2023-12-06,Pragathi,South,Furniture,Seating,Office Desk,23,28267,4337.586017275112,TX
+ORD-2524,2023-06-11,James,East,Appliances,Cleaning,Heater,5,6035,1129.157703944934,FL
+ORD-5579,2023-11-09,Sarah,East,Electronics,Phones,Samsung S23,12,9228,1476.1118536743993,FL
+ORD-9835,2023-08-13,Sophia,North,Electronics,Accessories,MacBook Air,23,17894,2831.3470339735986,NY
+ORD-9707,2023-08-14,Raj,North,Appliances,Cleaning,Air Conditioner,13,14976,1676.462827765608,NY
+ORD-1277,2024-03-09,Sarah,West,Furniture,Chairs,Dining Table,11,13376,2839.172486095567,CA
+ORD-7410,2023-12-28,David,South,Electronics,Phones,MacBook Air,10,5560,1199.067820155441,TX
+ORD-8605,2023-02-18,Pragathi,East,Electronics,Tablets,Dell XPS,15,9195,1539.8685193303063,FL
+ORD-6685,2024-01-05,Pragathi,South,Electronics,Phones,Samsung S23,5,2050,388.5461044182715,TX
+ORD-3645,2023-10-04,Olivia,South,Electronics,Laptops,MacBook Air,14,7028,1575.5491144100104,TX
+ORD-1492,2024-04-22,Alex,South,Furniture,Desks,Office Desk,6,6996,1373.0816604487025,TX
+ORD-3743,2023-01-11,Raj,North,Appliances,Cooking,Air Conditioner,12,3852,875.5893734587842,NY
+ORD-1619,2023-03-30,John,West,Appliances,Kitchen,Air Conditioner,18,19656,2657.866516894834,CA
+ORD-1929,2023-09-30,Raj,North,Appliances,Cleaning,Microwave,11,3234,939.7336476513947,NY
+ORD-4667,2023-04-04,Sarah,West,Appliances,Cleaning,Heater,1,1112,284.971982152644,CA
+ORD-9148,2023-03-15,John,North,Furniture,Tables,Sofa,4,4916,716.4350097062681,NY
+ORD-5444,2024-03-07,Sophia,East,Furniture,Seating,Office Desk,22,14564,2172.3879092109623,FL
+ORD-3176,2023-08-16,Olivia,North,Appliances,Cooking,Washing Machine,9,11880,3372.8057145827743,NY
+ORD-3765,2024-02-08,Sarah,East,Electronics,Tablets,iPhone 15,21,30072,6478.246081468877,FL
+ORD-9345,2023-06-30,Sarah,West,Electronics,Laptops,Sony Headphones,18,6714,1809.1163954169128,CA
+ORD-2913,2023-11-11,Olivia,East,Electronics,Accessories,Dell XPS,11,12254,1320.809554118546,FL
+ORD-3871,2023-08-09,James,West,Electronics,Phones,Samsung S23,4,3032,739.2985615071866,CA
+ORD-8470,2024-01-06,Olivia,West,Appliances,Cleaning,Microwave,19,22458,3831.561138911918,CA
+ORD-4180,2023-10-06,Sarah,North,Appliances,Kitchen,Washing Machine,10,1330,265.3456006708632,NY
+ORD-1270,2023-02-15,David,West,Electronics,Phones,MacBook Air,14,7336,834.8479398815241,CA
+ORD-4607,2023-10-10,Sophia,East,Appliances,Cleaning,Air Conditioner,8,1904,467.1461045632493,FL
+ORD-1278,2024-03-08,James,South,Furniture,Seating,Bookshelf,23,28842,4513.613944272729,TX
+ORD-7534,2023-11-09,James,South,Electronics,Tablets,Sony Headphones,22,30778,3414.107635757985,TX
+ORD-4109,2024-01-19,Alex,West,Appliances,Cleaning,Washing Machine,19,7429,1826.560495055945,CA
+ORD-1205,2023-11-10,David,North,Appliances,Cooking,Air Conditioner,18,13518,3563.41711897137,NY
+ORD-9463,2023-01-22,Sophia,East,Electronics,Audio,Dell XPS,21,7539,1644.4637260971147,FL
+ORD-3832,2023-09-12,Raj,West,Appliances,Kitchen,Heater,9,9234,2681.9631938263174,CA
+ORD-2104,2023-04-12,John,North,Appliances,Climate Control,Microwave,17,21488,4335.808051708122,NY
+ORD-4664,2024-02-11,Pragathi,South,Electronics,Laptops,MacBook Air,7,3906,1063.7529340386743,TX
+ORD-3292,2023-05-21,James,North,Furniture,Storage,Gaming Chair,6,1866,434.8325596897729,NY
+ORD-4171,2023-07-11,David,West,Appliances,Climate Control,Air Conditioner,11,11132,2187.4389356120073,CA
+ORD-2293,2024-02-23,Sarah,East,Furniture,Chairs,Bookshelf,8,1016,244.59179522062314,FL
+ORD-3240,2024-01-25,Alex,West,Furniture,Tables,Sofa,1,1241,136.92417671550595,CA
+ORD-8256,2023-05-27,Alex,West,Electronics,Audio,Sony Headphones,12,11280,3111.793341518247,CA
+ORD-4277,2024-01-11,Raj,East,Appliances,Cooking,Refrigerator,22,20504,4107.014604436093,FL
+ORD-8291,2023-03-24,David,West,Appliances,Laundry,Heater,19,24377,3644.410610588764,CA
+ORD-3949,2023-11-27,John,South,Electronics,Phones,Dell XPS,5,6780,1236.2048043792886,TX
+ORD-1049,2023-04-28,John,West,Electronics,Tablets,iPhone 15,24,27168,4650.372419910851,CA
+ORD-4765,2024-04-22,Raj,East,Electronics,Audio,Sony Headphones,15,7515,2227.5204541349917,FL
+ORD-5456,2023-01-29,Sarah,West,Appliances,Laundry,Washing Machine,24,9288,2677.3076998540632,CA
+ORD-2988,2023-11-18,Pragathi,South,Electronics,Laptops,Sony Headphones,6,8388,2481.0991138121562,TX
+ORD-7241,2023-08-07,Pragathi,North,Furniture,Desks,Sofa,17,21709,2492.376501731833,NY
+ORD-2518,2023-03-15,Sophia,West,Electronics,Audio,Samsung S23,6,426,54.86385103635407,CA
+ORD-3849,2023-05-28,Emma,North,Furniture,Seating,Bookshelf,12,5424,1218.9341946892805,NY
+ORD-5195,2023-12-18,James,South,Furniture,Storage,Bookshelf,16,22384,3639.2238224156604,TX
+ORD-5757,2023-03-06,Sarah,North,Appliances,Cooking,Heater,19,23313,4425.20253208804,NY
+ORD-9475,2023-12-22,Emma,West,Appliances,Cleaning,Microwave,2,926,218.55672118477932,CA
+ORD-8817,2023-11-01,David,West,Electronics,Phones,Sony Headphones,9,11133,3205.5280550461252,CA
+ORD-2818,2023-06-25,Emma,West,Electronics,Tablets,Samsung S23,6,4236,845.5398209977794,CA
+ORD-3426,2023-05-07,John,West,Furniture,Desks,Bookshelf,15,20160,5311.161319431023,CA
+ORD-5017,2023-12-14,Sophia,East,Electronics,Audio,Samsung S23,17,1564,355.86888362904864,FL
+ORD-6039,2023-02-16,Sarah,East,Electronics,Phones,Sony Headphones,1,1439,221.83806120904072,FL
+ORD-2629,2023-11-14,Alex,South,Furniture,Storage,Dining Table,1,380,83.20504431551201,TX
+ORD-2993,2023-06-13,Alex,South,Appliances,Kitchen,Heater,13,7189,1006.8654852900725,TX
+ORD-8786,2023-06-28,Sophia,South,Furniture,Chairs,Bookshelf,14,7546,1399.7764355184208,TX
+ORD-4258,2023-07-01,Pragathi,West,Electronics,Phones,Dell XPS,5,3490,373.43552453515036,CA
+ORD-8697,2023-06-17,Emma,South,Electronics,Laptops,Sony Headphones,4,5300,683.0508900616873,TX
+ORD-9003,2023-08-02,Sarah,North,Furniture,Storage,Office Desk,7,6468,1282.0814355300624,NY
+ORD-1644,2023-08-30,Emma,South,Appliances,Climate Control,Microwave,1,1111,135.95987299721534,TX
+ORD-1802,2024-03-30,Raj,North,Electronics,Laptops,Dell XPS,3,2010,533.2482122586964,NY
+ORD-4927,2023-08-22,Sophia,West,Electronics,Phones,Dell XPS,23,7498,1863.299236927496,CA
+ORD-8024,2023-06-26,Olivia,West,Electronics,Tablets,Sony Headphones,10,3630,1046.253709899447,CA
+ORD-1086,2023-04-19,Alex,South,Electronics,Tablets,iPhone 15,3,3336,462.94543892749476,TX
+ORD-2700,2024-01-18,James,South,Electronics,Accessories,MacBook Air,22,11132,1470.237540184996,TX
+ORD-5545,2023-02-14,David,East,Appliances,Cleaning,Refrigerator,17,22440,2252.9407028631877,FL
+ORD-8081,2023-09-03,Emma,South,Electronics,Accessories,Samsung S23,1,1487,154.38895461844916,TX
+ORD-3294,2024-02-24,Alex,East,Appliances,Kitchen,Heater,2,2614,579.1331027224071,FL
+ORD-4552,2023-12-29,Sophia,West,Appliances,Laundry,Refrigerator,9,11232,2816.6825018672685,CA
+ORD-7901,2024-03-24,Olivia,West,Appliances,Laundry,Heater,18,25686,4684.911125809188,CA
+ORD-7160,2023-09-02,Pragathi,West,Electronics,Laptops,Sony Headphones,7,4823,1428.0281510828006,CA
+ORD-1192,2024-03-26,Pragathi,South,Appliances,Cleaning,Washing Machine,7,9709,1956.9558731951572,TX
+ORD-4893,2023-07-26,Alex,North,Electronics,Phones,MacBook Air,21,9765,2372.1944098967383,NY
+ORD-7773,2023-12-02,Emma,North,Electronics,Phones,Sony Headphones,9,4932,618.8539607427347,NY
+ORD-5637,2024-02-29,Raj,East,Electronics,Tablets,MacBook Air,13,12324,1265.3486656977584,FL
+ORD-7328,2023-08-12,Raj,West,Electronics,Laptops,MacBook Air,8,4664,913.4538118722805,CA
+ORD-9181,2023-06-22,Pragathi,North,Appliances,Cooking,Refrigerator,18,15894,3221.294866662962,NY
+ORD-6951,2023-08-09,Olivia,East,Appliances,Cooking,Washing Machine,3,156,26.53624066972825,FL
+ORD-4306,2023-11-27,Sarah,West,Appliances,Cooking,Microwave,11,1595,162.16801451871743,CA
+ORD-6255,2023-11-13,Raj,West,Furniture,Chairs,Gaming Chair,24,18432,2022.57161132254,CA
+ORD-8871,2024-04-24,David,North,Electronics,Laptops,Samsung S23,20,28560,6689.651487944781,NY
+ORD-2812,2024-02-17,Emma,North,Electronics,Audio,Dell XPS,17,25041,6303.898071453148,NY
+ORD-4340,2024-04-14,John,North,Furniture,Seating,Office Desk,10,8930,1739.4232991273593,NY
+ORD-4278,2023-04-04,Raj,West,Appliances,Laundry,Air Conditioner,12,8388,1689.4432633688739,CA
+ORD-1383,2023-12-12,Alex,South,Electronics,Laptops,Samsung S23,23,16261,4743.326661158625,TX
+ORD-5251,2023-08-10,Alex,South,Furniture,Chairs,Bookshelf,1,1039,159.90456498433426,TX
+ORD-2230,2024-01-26,Sarah,East,Electronics,Laptops,Sony Headphones,22,23056,5887.536277087404,FL
+ORD-7718,2023-07-23,Sarah,North,Appliances,Cooking,Heater,1,441,46.8473499843771,NY
+ORD-1689,2023-03-20,Alex,West,Furniture,Tables,Dining Table,5,4385,472.68486421981135,CA
+ORD-7033,2023-09-12,Sophia,West,Furniture,Chairs,Bookshelf,7,1071,249.92254307571076,CA
+ORD-7623,2023-06-25,Emma,South,Furniture,Storage,Gaming Chair,20,6960,1995.5309481730462,TX
+ORD-3850,2023-12-17,Alex,North,Electronics,Laptops,MacBook Air,15,22095,4026.555318018075,NY
+ORD-1165,2024-04-03,Emma,East,Appliances,Laundry,Washing Machine,16,8800,1288.351997343507,FL
+ORD-8609,2024-02-20,Sarah,West,Appliances,Kitchen,Air Conditioner,23,5888,1191.302221393243,CA
+ORD-4521,2023-12-05,Olivia,North,Appliances,Laundry,Washing Machine,4,1728,426.12605094355894,NY
+ORD-6741,2023-02-17,Sarah,North,Furniture,Tables,Bookshelf,19,17176,4906.091143441046,NY
+ORD-6232,2023-02-20,John,East,Furniture,Seating,Dining Table,21,17409,3461.42335962698,FL
+ORD-4716,2023-06-04,Raj,South,Furniture,Seating,Gaming Chair,23,17089,2984.158485244023,TX
+ORD-7982,2023-07-01,James,East,Appliances,Climate Control,Microwave,10,9670,1269.1035038399268,FL
+ORD-5529,2023-04-03,Pragathi,East,Electronics,Accessories,Samsung S23,14,9842,1103.4947003460284,FL
+ORD-8323,2023-04-28,Sophia,East,Electronics,Audio,MacBook Air,20,25900,7304.903520614979,FL
+ORD-8175,2024-03-08,John,South,Furniture,Tables,Dining Table,6,5550,948.9663735734812,TX
+ORD-6866,2023-04-26,Sarah,West,Electronics,Laptops,iPhone 15,23,27991,6665.663494840771,CA
+ORD-6630,2024-03-07,Sophia,East,Appliances,Cleaning,Microwave,21,27048,4254.756151876164,FL
+ORD-8431,2023-08-22,John,West,Electronics,Audio,MacBook Air,17,22032,6492.313173087868,CA
+ORD-4135,2023-11-05,David,West,Appliances,Cleaning,Refrigerator,23,30843,8123.885244397052,CA
+ORD-9954,2024-03-09,Raj,South,Furniture,Tables,Bookshelf,7,2891,386.30590184047287,TX
+ORD-2942,2023-03-25,John,East,Furniture,Desks,Sofa,3,1899,356.91343677570364,FL
+ORD-5131,2023-01-28,David,South,Appliances,Cleaning,Refrigerator,17,25381,5959.429399389356,TX
+ORD-8542,2024-03-23,Raj,East,Electronics,Laptops,Dell XPS,6,2592,770.72036621804,FL
+ORD-8522,2023-09-23,Emma,West,Appliances,Cooking,Washing Machine,8,9608,1237.6617952029642,CA
+ORD-9417,2023-11-09,Olivia,East,Furniture,Chairs,Gaming Chair,23,3565,557.5082775910719,FL
+ORD-3153,2024-01-06,Raj,West,Electronics,Tablets,iPhone 15,12,11820,2752.172849701701,CA
+ORD-6201,2023-02-09,James,West,Appliances,Cleaning,Air Conditioner,20,25820,3589.8398949171105,CA
+ORD-8185,2023-07-30,Emma,West,Electronics,Phones,Dell XPS,7,5670,1542.0071612364063,CA
+ORD-6509,2024-02-01,Sophia,North,Appliances,Cooking,Microwave,13,11674,3076.9309024433633,NY
+ORD-2695,2023-09-27,Olivia,West,Appliances,Cleaning,Air Conditioner,22,26510,7795.187796087677,CA
+ORD-1719,2024-02-16,Alex,South,Appliances,Cooking,Washing Machine,3,3930,712.55363207317,TX
+ORD-6918,2024-01-29,Alex,South,Furniture,Tables,Gaming Chair,3,2244,375.8611701628943,TX
+ORD-5478,2023-10-14,James,North,Electronics,Tablets,Dell XPS,21,17031,3480.9763204486844,NY
+ORD-1336,2023-04-24,Olivia,North,Furniture,Seating,Dining Table,17,5525,968.5659680071747,NY
+ORD-9519,2024-02-12,Pragathi,North,Furniture,Seating,Gaming Chair,8,1264,365.2114970928528,NY
+ORD-4343,2023-08-17,David,North,Appliances,Kitchen,Microwave,17,3485,878.6212227913317,NY
+ORD-2756,2023-10-13,Pragathi,East,Appliances,Kitchen,Heater,7,434,110.18816400632167,FL
+ORD-7771,2023-04-04,John,East,Furniture,Desks,Dining Table,21,18858,3811.506384834476,FL
+ORD-3696,2024-04-15,John,South,Appliances,Climate Control,Refrigerator,20,19500,4099.52385147385,TX
+ORD-8117,2023-07-27,Raj,East,Furniture,Chairs,Sofa,9,1701,416.60833718556336,FL
+ORD-8850,2023-04-17,Pragathi,South,Electronics,Phones,MacBook Air,8,8920,1591.4949411977575,TX
+ORD-5485,2023-08-09,Olivia,West,Appliances,Climate Control,Air Conditioner,21,9933,2839.1388952127377,CA
+ORD-7999,2023-11-06,Alex,North,Furniture,Desks,Dining Table,8,10448,1635.7412426490762,NY
+ORD-2051,2023-12-05,Sophia,South,Electronics,Tablets,MacBook Air,7,5019,1101.4621315508125,TX
+ORD-1307,2023-08-02,Sarah,West,Furniture,Tables,Bookshelf,17,23324,3917.3602262756463,CA
+ORD-6869,2023-07-07,David,West,Furniture,Chairs,Gaming Chair,14,1848,300.0706394582728,CA
+ORD-5567,2023-10-31,Raj,South,Appliances,Cooking,Air Conditioner,8,5264,1511.2780958417475,TX
+ORD-7615,2024-01-02,James,East,Furniture,Seating,Sofa,16,3728,816.5906891249978,FL
+ORD-2096,2023-03-08,Raj,East,Appliances,Cleaning,Air Conditioner,24,13416,1502.8506883267062,FL
+ORD-1270,2023-06-01,Alex,East,Furniture,Seating,Office Desk,5,6340,1593.937009437857,FL
+ORD-8299,2023-06-24,Olivia,North,Appliances,Cooking,Air Conditioner,12,4800,822.4979631583417,NY
+ORD-1627,2024-01-13,Alex,South,Appliances,Climate Control,Air Conditioner,21,21714,5919.825013278767,TX
+ORD-1974,2023-10-21,Sarah,North,Furniture,Tables,Dining Table,15,4485,571.4692438966446,NY
+ORD-8279,2024-01-13,James,West,Furniture,Chairs,Dining Table,5,595,166.8871509610463,CA
+ORD-9383,2024-04-20,John,South,Appliances,Cooking,Microwave,3,2325,475.76150462418184,TX
+ORD-3052,2023-07-19,Sarah,North,Appliances,Kitchen,Heater,23,5796,1508.0968279075803,NY
+ORD-1584,2023-02-25,John,East,Furniture,Tables,Dining Table,13,11947,1707.6943535049415,FL
+ORD-2625,2023-01-30,Alex,West,Appliances,Kitchen,Air Conditioner,11,1727,208.36773406544174,CA
+ORD-7100,2023-08-08,Emma,North,Electronics,Audio,Sony Headphones,9,5976,1756.613685920142,NY
+ORD-3432,2024-03-14,Pragathi,North,Appliances,Kitchen,Refrigerator,22,13222,3938.6533614276573,NY
+ORD-3028,2024-02-09,Olivia,South,Electronics,Phones,Samsung S23,15,19230,2216.987705557716,TX
+ORD-1589,2023-05-21,Olivia,South,Furniture,Chairs,Gaming Chair,17,3655,706.6526713665025,TX
+ORD-8984,2023-10-10,Emma,East,Electronics,Audio,Sony Headphones,13,6032,969.084098720575,FL
+ORD-7289,2024-04-18,John,South,Appliances,Climate Control,Heater,20,8780,1161.1002338283151,TX
+ORD-2003,2024-02-03,David,East,Electronics,Phones,Sony Headphones,19,11856,3410.9288935574027,FL
+ORD-2895,2023-04-10,Sarah,East,Appliances,Climate Control,Microwave,3,513,136.83187547475268,FL
+ORD-2956,2023-03-06,Raj,East,Electronics,Tablets,iPhone 15,3,2547,636.7644731452322,FL
+ORD-1757,2024-03-04,Sarah,West,Appliances,Cooking,Microwave,13,16471,3482.102858830621,CA
+ORD-2001,2023-09-21,Raj,East,Appliances,Laundry,Air Conditioner,7,6475,1834.2646051690256,FL
+ORD-1422,2023-08-18,Olivia,South,Electronics,Phones,MacBook Air,18,16758,3946.301439528752,TX
+ORD-4164,2023-12-16,John,East,Furniture,Storage,Dining Table,6,3258,395.92140278952405,FL
+ORD-3671,2024-01-13,Sophia,East,Appliances,Kitchen,Heater,9,11475,2462.631850420641,FL
+ORD-1808,2023-04-06,Pragathi,East,Appliances,Laundry,Heater,4,4032,721.8532318816668,FL
+ORD-6634,2024-04-12,Pragathi,South,Appliances,Cleaning,Microwave,22,17776,2723.0288276873084,TX
+ORD-2814,2023-01-18,Pragathi,East,Electronics,Accessories,Dell XPS,17,5100,1467.3003791425929,FL
+ORD-3971,2023-02-16,John,East,Furniture,Storage,Dining Table,20,26580,7532.4639282360695,FL
+ORD-9307,2023-11-10,Olivia,South,Furniture,Tables,Gaming Chair,23,15824,1634.9118827060458,TX
+ORD-4792,2024-02-09,John,East,Furniture,Desks,Bookshelf,22,16148,2598.5437682083257,FL
+ORD-9432,2024-04-10,Olivia,North,Furniture,Desks,Sofa,22,23496,2534.710104889297,NY
+ORD-9622,2023-05-24,Olivia,North,Appliances,Kitchen,Microwave,6,6012,1547.9360424786857,NY
+ORD-5686,2023-09-03,Sarah,West,Appliances,Kitchen,Refrigerator,2,1752,362.79292659005057,CA
+ORD-9711,2023-03-04,Pragathi,North,Appliances,Cooking,Refrigerator,17,7225,1097.3162390739187,NY
+ORD-7543,2023-12-15,Emma,West,Electronics,Laptops,Dell XPS,15,1875,295.2475186908382,CA
+ORD-6555,2023-10-12,John,West,Furniture,Desks,Dining Table,3,831,198.41048356798385,CA
+ORD-5933,2023-01-27,John,North,Appliances,Cleaning,Heater,23,24403,5112.012869957291,NY
+ORD-5566,2024-03-28,Raj,South,Appliances,Cooking,Heater,22,24266,4328.62034407938,TX
+ORD-1931,2023-08-09,Emma,South,Furniture,Tables,Bookshelf,4,2332,390.5218290161326,TX
+ORD-2032,2023-04-26,Emma,South,Electronics,Audio,MacBook Air,15,21120,5601.297227531958,TX
+ORD-6929,2023-05-06,David,West,Furniture,Desks,Dining Table,11,3597,842.6122316698379,CA
+ORD-3462,2024-04-22,Olivia,East,Electronics,Laptops,Dell XPS,3,1470,296.0822326737184,FL
+ORD-6983,2023-05-18,Sarah,East,Appliances,Cleaning,Heater,2,486,80.70366968120261,FL
+ORD-9497,2024-01-30,Pragathi,West,Furniture,Tables,Bookshelf,23,8970,2295.4529623547696,CA
+ORD-7553,2023-02-16,Pragathi,East,Appliances,Climate Control,Air Conditioner,21,14007,3617.905963447898,FL
+ORD-3229,2023-01-12,Alex,East,Appliances,Kitchen,Microwave,3,1617,449.3890783680811,FL
+ORD-9635,2023-01-30,Emma,West,Furniture,Chairs,Office Desk,20,23380,3396.0498826948983,CA
+ORD-2260,2024-01-09,James,West,Furniture,Chairs,Dining Table,10,3520,394.2000838063611,CA
+ORD-7155,2023-12-02,James,South,Furniture,Chairs,Sofa,2,2466,482.61019204430846,TX
+ORD-5673,2023-12-18,Olivia,North,Electronics,Accessories,Samsung S23,2,1674,329.0124707861576,NY
+ORD-8452,2024-02-15,Sophia,West,Electronics,Audio,Dell XPS,2,1236,362.2228332814348,CA
+ORD-3669,2023-05-05,Sarah,West,Appliances,Cooking,Washing Machine,7,2303,397.38430834384945,CA
+ORD-5131,2023-05-08,Raj,West,Furniture,Tables,Office Desk,12,14676,1888.1597375839922,CA
+ORD-8697,2023-08-05,Sophia,West,Electronics,Accessories,Sony Headphones,1,990,233.5673701142384,CA
+ORD-3014,2024-03-27,John,East,Furniture,Storage,Dining Table,21,24717,3103.341218602039,FL
+ORD-7638,2023-05-22,David,North,Furniture,Seating,Gaming Chair,7,10318,2747.7212322103846,NY
+ORD-5942,2023-12-09,Sarah,East,Furniture,Tables,Dining Table,8,6536,1672.981859577961,FL
+ORD-5054,2023-09-30,Alex,East,Appliances,Climate Control,Washing Machine,19,22477,2305.679285691833,FL
+ORD-2985,2023-07-20,John,East,Electronics,Audio,Dell XPS,6,8892,1572.181428114733,FL
+ORD-8754,2023-03-13,James,East,Electronics,Tablets,Dell XPS,23,15870,2586.5511431251552,FL
+ORD-8604,2023-01-16,Olivia,South,Appliances,Laundry,Washing Machine,3,726,119.06796636485932,TX
+ORD-4744,2023-11-22,Sarah,South,Appliances,Climate Control,Air Conditioner,8,624,149.0927908467099,TX
+ORD-1242,2023-04-19,Sarah,North,Appliances,Cooking,Microwave,20,22920,5977.974549600388,NY
+ORD-6162,2023-03-27,James,North,Furniture,Storage,Bookshelf,20,3200,714.94780443434,NY
+ORD-5232,2023-01-26,Alex,South,Appliances,Cooking,Heater,23,8004,1245.17453726107,TX
+ORD-3657,2024-04-06,David,East,Appliances,Laundry,Refrigerator,11,7865,1251.5811067742568,FL
+ORD-4957,2024-03-01,Pragathi,South,Appliances,Laundry,Refrigerator,1,1305,272.68555124250787,TX
+ORD-2652,2024-01-31,James,West,Appliances,Laundry,Washing Machine,6,4206,722.2724747393611,CA
+ORD-6599,2024-01-16,James,North,Electronics,Tablets,iPhone 15,22,3630,853.531267002335,NY
+ORD-1746,2023-08-03,Emma,West,Electronics,Laptops,MacBook Air,13,10920,1786.4738921272915,CA
+ORD-3381,2023-01-29,Emma,North,Appliances,Climate Control,Heater,19,17366,3493.8018217826902,NY
+ORD-1946,2023-04-03,Sarah,East,Appliances,Cooking,Air Conditioner,13,1664,316.8544194188226,FL
+ORD-7360,2023-03-05,John,East,Furniture,Desks,Bookshelf,22,6446,1156.3453267068903,FL
+ORD-7106,2023-11-26,James,North,Furniture,Chairs,Office Desk,10,4400,902.2274085277933,NY
+ORD-9921,2023-01-04,Raj,North,Electronics,Phones,Dell XPS,17,11781,1670.147450212353,NY
+ORD-6930,2023-01-08,Alex,North,Electronics,Laptops,iPhone 15,24,8184,1702.7284923691707,NY
+ORD-5399,2023-02-16,Alex,West,Appliances,Climate Control,Heater,4,1880,218.31139234377028,CA
+ORD-1692,2023-07-22,Emma,West,Furniture,Desks,Gaming Chair,2,314,88.91150143771918,CA
+ORD-5677,2023-12-12,Olivia,East,Appliances,Cleaning,Air Conditioner,23,26749,3622.635918536402,FL
+ORD-8797,2023-01-30,John,South,Furniture,Storage,Dining Table,10,820,106.45909545411693,TX
+ORD-9462,2023-11-28,John,South,Furniture,Storage,Gaming Chair,23,28382,6056.110268630866,TX
+ORD-1421,2023-10-01,Emma,West,Furniture,Seating,Dining Table,3,3624,1016.461894525017,CA
+ORD-7748,2023-01-11,Olivia,West,Electronics,Laptops,iPhone 15,4,3760,818.1763484990805,CA
+ORD-6882,2024-03-01,Emma,East,Furniture,Desks,Sofa,23,28934,2977.697211114701,FL
+ORD-7559,2024-03-08,David,East,Appliances,Cooking,Refrigerator,9,9027,1236.4072436535587,FL
+ORD-1924,2023-09-08,Olivia,North,Electronics,Tablets,Samsung S23,7,6573,762.6069882009831,NY
+ORD-4138,2023-01-06,Alex,South,Appliances,Laundry,Microwave,12,8064,2185.0307600474484,TX
+ORD-9022,2023-06-28,Sarah,East,Appliances,Kitchen,Refrigerator,21,10500,1199.4269256436105,FL
+ORD-4496,2023-11-23,John,West,Electronics,Audio,iPhone 15,15,13320,1449.391455223496,CA
+ORD-3999,2023-09-23,Pragathi,West,Furniture,Chairs,Dining Table,11,14091,3782.490464476104,CA
+ORD-9611,2024-04-09,James,West,Electronics,Phones,Samsung S23,14,20174,4763.316071146318,CA
+ORD-2342,2023-01-18,James,East,Electronics,Audio,Sony Headphones,13,9191,2155.0869538865786,FL
+ORD-1813,2023-08-20,James,West,Electronics,Accessories,MacBook Air,20,15620,2609.7008978233525,CA
+ORD-8876,2023-01-06,Sophia,South,Electronics,Laptops,MacBook Air,16,10480,2075.8962562128354,TX
+ORD-5683,2023-03-07,Raj,East,Electronics,Accessories,Samsung S23,10,8620,1681.0549408223083,FL
+ORD-6428,2024-03-14,James,East,Appliances,Cleaning,Heater,11,13420,4005.9092405147308,FL
+ORD-8607,2023-07-12,James,West,Furniture,Tables,Sofa,19,18772,5549.83167791611,CA
+ORD-4197,2023-08-08,David,West,Furniture,Storage,Office Desk,1,964,197.01929846885145,CA
+ORD-2366,2023-05-07,Raj,East,Electronics,Tablets,Samsung S23,3,3723,780.7789338497209,FL
+ORD-7040,2023-08-24,Sophia,West,Furniture,Seating,Bookshelf,23,6049,1669.0418907218898,CA
+ORD-6708,2024-03-02,David,West,Electronics,Phones,MacBook Air,11,10648,2319.1771857529493,CA
+ORD-4159,2023-04-13,James,North,Appliances,Kitchen,Air Conditioner,23,19826,2873.1935953849334,NY
+ORD-5340,2024-03-07,Raj,East,Appliances,Laundry,Heater,20,7920,1205.6812930972026,FL
+ORD-7772,2023-04-22,Sophia,South,Electronics,Phones,Sony Headphones,13,16250,2057.841908419451,TX
+ORD-3296,2023-02-27,James,South,Electronics,Accessories,iPhone 15,18,6228,1240.915574799654,TX
+ORD-6650,2023-06-17,Raj,South,Electronics,Tablets,MacBook Air,3,4284,480.5807762796459,TX
+ORD-5248,2023-08-25,Sophia,North,Furniture,Chairs,Sofa,3,2253,514.6241802129911,NY
+ORD-5818,2023-12-11,Raj,South,Electronics,Phones,Dell XPS,16,4320,1131.9791817251828,TX
+ORD-2462,2024-02-07,Olivia,North,Electronics,Audio,iPhone 15,1,979,133.37344839643393,NY
+ORD-3598,2023-01-21,Emma,North,Furniture,Desks,Gaming Chair,6,5532,643.4544976964153,NY
+ORD-5476,2023-09-01,James,South,Appliances,Kitchen,Heater,18,18090,1861.8553515399383,TX
+ORD-8778,2023-06-03,James,North,Electronics,Accessories,iPhone 15,4,5128,533.4533778823917,NY
+ORD-3572,2023-10-03,John,East,Electronics,Accessories,Sony Headphones,15,10080,2376.998274663205,FL
+ORD-5616,2023-01-08,James,North,Furniture,Tables,Office Desk,3,720,105.27564281392746,NY
+ORD-4339,2023-10-25,John,East,Furniture,Tables,Bookshelf,13,16081,3216.387373210373,FL
+ORD-1571,2023-11-04,James,West,Electronics,Laptops,Dell XPS,7,8421,1988.1635107835505,CA
+ORD-8601,2023-06-28,Olivia,South,Appliances,Cleaning,Washing Machine,5,3920,934.2580310633685,TX
+ORD-2605,2023-01-13,James,South,Appliances,Climate Control,Washing Machine,7,5467,772.8346843520554,TX
+ORD-8099,2023-12-06,Emma,South,Appliances,Kitchen,Microwave,5,5140,923.432404463548,TX
+ORD-6586,2024-03-14,James,East,Appliances,Climate Control,Refrigerator,3,696,89.52806100731807,FL
+ORD-4655,2023-05-24,James,North,Furniture,Seating,Bookshelf,15,15945,1942.1444202789216,NY
+ORD-7691,2023-09-30,Olivia,East,Furniture,Seating,Sofa,13,13286,3643.858874984339,FL
+ORD-8037,2024-03-14,James,South,Electronics,Laptops,Sony Headphones,17,12495,2863.1668833342833,TX
+ORD-5661,2023-07-08,Emma,East,Furniture,Seating,Bookshelf,14,13944,4050.416175089563,FL
+ORD-3716,2023-02-28,Emma,West,Appliances,Laundry,Microwave,7,6678,1985.4536952112064,CA
+ORD-2754,2023-09-03,Alex,East,Appliances,Cooking,Microwave,13,8645,2350.8860026038956,FL
+ORD-3212,2024-01-08,Olivia,East,Furniture,Seating,Gaming Chair,1,739,133.28502536917296,FL
+ORD-9802,2023-02-17,John,East,Electronics,Audio,iPhone 15,3,1263,362.1945371629624,FL
+ORD-5813,2024-01-15,Pragathi,East,Furniture,Tables,Dining Table,24,17088,3800.4003519894345,FL
+ORD-6068,2023-09-21,David,West,Furniture,Storage,Office Desk,15,6540,1477.5538751796792,CA
+ORD-5174,2023-08-29,Sarah,West,Electronics,Laptops,Sony Headphones,13,13962,1553.0267964540117,CA
+ORD-3061,2024-03-30,Raj,South,Furniture,Chairs,Dining Table,23,18722,3429.351199279119,TX
+ORD-2045,2023-02-25,James,North,Appliances,Kitchen,Air Conditioner,20,12920,2353.2726900920657,NY
+ORD-5225,2024-03-02,Pragathi,South,Appliances,Cleaning,Heater,17,15249,2307.622652476155,TX
+ORD-7852,2023-11-21,James,East,Electronics,Laptops,iPhone 15,5,2485,419.97336944250935,FL
+ORD-3925,2023-12-08,Sarah,North,Furniture,Chairs,Office Desk,22,29722,7859.852792402781,NY
+ORD-4153,2023-01-01,Pragathi,East,Electronics,Laptops,iPhone 15,24,28920,5855.680075114504,FL
+ORD-8867,2023-10-11,Pragathi,West,Appliances,Laundry,Microwave,10,11780,2943.5369634021117,CA
+ORD-3741,2023-02-25,Sophia,South,Furniture,Desks,Office Desk,17,1054,122.50941851695103,TX
+ORD-1918,2023-07-08,David,East,Electronics,Phones,Sony Headphones,10,10260,2793.686547715757,FL
+ORD-8942,2023-07-15,Olivia,South,Furniture,Storage,Office Desk,3,360,70.79270946303133,TX
+ORD-3521,2023-02-21,Pragathi,West,Furniture,Desks,Gaming Chair,18,7416,1137.7256510592322,CA
+ORD-7103,2024-03-10,Olivia,East,Furniture,Chairs,Bookshelf,24,17760,1840.9130476578941,FL
+ORD-4768,2024-01-19,Sophia,North,Appliances,Climate Control,Air Conditioner,15,1980,367.54944851992747,NY
+ORD-7568,2024-04-03,Emma,South,Appliances,Cooking,Microwave,20,3500,695.069880159102,TX
+ORD-2230,2023-09-04,Raj,East,Furniture,Desks,Gaming Chair,17,23239,3813.061097722491,FL
+ORD-3757,2023-10-18,Raj,North,Furniture,Storage,Bookshelf,18,17028,4499.649526368529,NY
+ORD-7681,2024-03-12,John,North,Electronics,Phones,MacBook Air,16,8656,1627.451045155122,NY
+ORD-4398,2024-01-12,Pragathi,West,Electronics,Accessories,Samsung S23,23,33672,4708.825052301208,CA
+ORD-9316,2023-04-06,David,West,Appliances,Kitchen,Washing Machine,19,969,129.37439531721336,CA
+ORD-5846,2023-10-15,Emma,South,Electronics,Tablets,Dell XPS,9,12717,2958.8962690129406,TX
+ORD-7604,2023-02-14,Emma,South,Electronics,Laptops,MacBook Air,1,1352,392.30136564140304,TX
+ORD-6338,2024-04-07,Pragathi,South,Appliances,Cooking,Microwave,4,2680,725.1685417460556,TX
+ORD-8798,2024-01-13,David,South,Electronics,Tablets,Sony Headphones,1,897,265.73760938399505,TX
+ORD-7726,2023-12-09,Alex,East,Furniture,Tables,Office Desk,2,436,89.9127480806324,FL
+ORD-3565,2023-04-15,David,East,Appliances,Kitchen,Heater,1,319,74.73570743467042,FL
+ORD-5078,2024-02-09,Sarah,South,Appliances,Kitchen,Heater,17,19890,2771.42564891041,TX
+ORD-6840,2023-02-01,James,West,Furniture,Storage,Sofa,15,9345,2474.5516113636795,CA
+ORD-4672,2023-05-07,Raj,South,Furniture,Storage,Office Desk,4,652,180.43238938651388,TX
+ORD-4237,2023-01-25,Olivia,North,Appliances,Cooking,Heater,5,1125,166.68085861646398,NY
+ORD-8127,2023-08-17,Sophia,North,Electronics,Tablets,iPhone 15,2,2850,560.8003247526575,NY
+ORD-2738,2023-11-02,John,North,Electronics,Accessories,iPhone 15,16,18672,2635.7185214292967,NY
+ORD-1495,2023-03-15,Sophia,East,Electronics,Tablets,Samsung S23,13,12506,1739.479550521442,FL
+ORD-8505,2023-01-14,James,North,Electronics,Tablets,Samsung S23,17,3502,587.5119670889343,NY
+ORD-1996,2023-07-24,James,West,Appliances,Cooking,Microwave,15,3060,590.6022365431969,CA
+ORD-6599,2023-08-05,Olivia,West,Appliances,Laundry,Heater,14,1974,443.85024296662016,CA
+ORD-9834,2023-10-02,Olivia,North,Electronics,Audio,Samsung S23,17,10829,2841.11099060435,NY
+ORD-8055,2023-11-04,Sophia,East,Appliances,Climate Control,Heater,4,4476,1111.5047477269309,FL
+ORD-4228,2023-04-28,Olivia,North,Electronics,Phones,iPhone 15,16,3088,586.9363982582175,NY
+ORD-8328,2023-08-21,David,West,Appliances,Cooking,Refrigerator,14,12040,1475.7263947381605,CA
+ORD-6680,2024-03-11,Alex,West,Furniture,Chairs,Dining Table,4,2032,452.38493667226646,CA
+ORD-8067,2024-01-17,Sophia,North,Furniture,Seating,Gaming Chair,2,1594,198.7558172203412,NY
+ORD-2299,2023-12-03,David,East,Furniture,Desks,Gaming Chair,16,23248,5756.987190688108,FL
+ORD-2532,2023-04-10,Raj,West,Appliances,Laundry,Refrigerator,14,11662,1887.8744027558243,CA
+ORD-4122,2023-01-12,Raj,South,Furniture,Tables,Sofa,20,3440,766.5236252170124,TX
+ORD-7666,2023-04-17,John,East,Appliances,Laundry,Refrigerator,5,4325,740.5205186689548,FL
+ORD-7085,2023-06-30,David,North,Appliances,Laundry,Heater,5,5410,1228.4198611384033,NY
+ORD-1471,2024-01-12,John,West,Electronics,Laptops,Sony Headphones,11,5181,1407.092157884032,CA
+ORD-7665,2023-12-30,Emma,West,Electronics,Audio,Samsung S23,23,30153,6224.923269107763,CA
+ORD-6204,2023-09-14,Alex,East,Furniture,Chairs,Gaming Chair,12,11040,2430.0876989475964,FL
+ORD-1865,2023-01-19,John,South,Furniture,Chairs,Sofa,2,2170,547.8000333083529,TX
+ORD-2674,2024-01-18,James,East,Furniture,Tables,Bookshelf,12,10680,1939.25220377155,FL
+ORD-5555,2023-04-22,Sarah,North,Electronics,Accessories,Samsung S23,8,6824,798.3619924411438,NY
+ORD-7998,2023-08-24,John,South,Electronics,Laptops,Sony Headphones,18,9486,2718.436581708248,TX
+ORD-9569,2023-10-21,Emma,South,Appliances,Climate Control,Air Conditioner,22,2970,496.7760961965781,TX
+ORD-9084,2024-02-12,Emma,South,Furniture,Chairs,Bookshelf,19,5985,1403.788915537568,TX
+ORD-5920,2024-04-16,David,South,Furniture,Tables,Gaming Chair,1,1091,125.44227272483286,TX
+ORD-9216,2023-06-29,James,South,Furniture,Storage,Office Desk,10,5930,1756.6813287294967,TX
+ORD-9646,2024-01-17,Sophia,West,Appliances,Kitchen,Air Conditioner,23,12098,2949.6753713879602,CA
+ORD-8164,2023-08-17,Pragathi,South,Electronics,Tablets,Samsung S23,2,1290,244.862256646798,TX
+ORD-1193,2024-01-29,John,South,Furniture,Desks,Dining Table,23,11155,3331.474653234765,TX
+ORD-5957,2023-03-30,Sophia,North,Furniture,Desks,Sofa,4,4460,1008.6472147939776,NY
+ORD-2927,2023-05-20,Pragathi,South,Appliances,Kitchen,Microwave,24,14280,1588.5765860943768,TX
+ORD-4326,2023-01-13,Emma,South,Furniture,Chairs,Dining Table,19,25308,6843.528261437034,TX
+ORD-6092,2023-03-18,Raj,West,Furniture,Storage,Sofa,5,5155,1231.960849554734,CA
+ORD-6636,2024-02-28,David,West,Appliances,Kitchen,Heater,9,5337,705.1177100892277,CA
+ORD-1759,2023-06-30,James,North,Appliances,Kitchen,Refrigerator,14,17514,4711.163906130546,NY
+ORD-8787,2023-12-07,Sarah,East,Appliances,Cooking,Microwave,6,3756,532.6286224843049,FL
+ORD-3508,2023-08-25,John,East,Furniture,Tables,Dining Table,13,13754,4083.987536956881,FL
+ORD-9075,2023-04-14,Sarah,East,Appliances,Laundry,Washing Machine,16,11520,1200.4050976965752,FL
+ORD-5379,2023-01-12,James,West,Furniture,Tables,Gaming Chair,5,4995,1133.4219112737833,CA
+ORD-9761,2023-11-29,Raj,South,Appliances,Cleaning,Heater,7,4669,922.7041620584217,TX
+ORD-2223,2023-06-30,Sarah,South,Furniture,Storage,Office Desk,1,120,28.81940203204177,TX
+ORD-4666,2023-05-23,James,East,Electronics,Audio,Samsung S23,6,2688,303.0959534419342,FL
+ORD-8448,2023-01-04,Emma,West,Furniture,Storage,Office Desk,18,16146,3932.1198487467686,CA
+ORD-8082,2024-03-26,John,West,Appliances,Cooking,Heater,9,5598,1512.024534036697,CA
+ORD-4407,2023-12-15,Sarah,North,Appliances,Climate Control,Heater,9,11952,2257.9084969563614,NY
+ORD-5951,2023-12-18,David,North,Electronics,Laptops,Samsung S23,17,7089,2061.4035222736757,NY
+ORD-1835,2024-02-11,Emma,North,Appliances,Kitchen,Heater,22,26510,6368.219408205359,NY
+ORD-3607,2023-09-04,Sophia,West,Appliances,Kitchen,Air Conditioner,15,14640,3660.9685116008313,CA
+ORD-8054,2023-06-26,Sophia,East,Appliances,Laundry,Heater,16,11936,3098.1193352974087,FL
+ORD-9945,2023-07-14,Sarah,South,Appliances,Cooking,Refrigerator,22,31724,3700.433710476977,TX
+ORD-8865,2024-04-13,David,West,Appliances,Cooking,Air Conditioner,24,18168,5006.190237508834,CA
+ORD-4057,2023-06-05,David,East,Appliances,Cleaning,Refrigerator,16,3424,617.482032161895,FL
+ORD-9210,2023-07-25,Raj,South,Electronics,Tablets,MacBook Air,4,3668,891.6035142022614,TX
+ORD-4039,2023-03-09,John,West,Electronics,Accessories,iPhone 15,2,748,75.86845543252947,CA
+ORD-3738,2024-01-13,John,East,Furniture,Chairs,Dining Table,10,14310,2438.0943959011324,FL
+ORD-2168,2023-03-19,David,North,Electronics,Phones,Dell XPS,21,23163,2498.647844452879,NY
+ORD-4555,2024-03-20,Sarah,South,Electronics,Laptops,iPhone 15,8,9952,1049.1530808100383,TX
+ORD-7238,2023-04-07,Sophia,South,Furniture,Chairs,Dining Table,11,15961,2396.9382964121683,TX
+ORD-4443,2023-08-07,Olivia,East,Furniture,Chairs,Gaming Chair,21,2961,845.0146583027807,FL
+ORD-2407,2023-10-04,Sophia,North,Furniture,Chairs,Sofa,18,20340,3169.005725134836,NY
+ORD-5332,2023-10-04,Olivia,East,Electronics,Phones,Sony Headphones,3,2382,451.41370377252787,FL
+ORD-6490,2024-04-13,Raj,West,Furniture,Tables,Sofa,24,34584,9992.75201755222,CA
+ORD-9070,2023-12-03,James,East,Electronics,Tablets,iPhone 15,2,648,187.7086940414439,FL
+ORD-1574,2023-11-25,Sarah,East,Furniture,Desks,Office Desk,17,5644,855.2150002042716,FL
+ORD-9134,2024-02-27,John,North,Furniture,Seating,Bookshelf,18,26028,7578.537086935033,NY
+ORD-2992,2024-02-13,Emma,West,Electronics,Accessories,Sony Headphones,5,1265,340.2880960004113,CA
+ORD-1343,2023-07-30,James,South,Appliances,Cleaning,Heater,12,15396,2681.9022558138067,TX
+ORD-8378,2023-09-28,James,North,Appliances,Laundry,Air Conditioner,24,11232,2418.2246720133944,NY
+ORD-7522,2024-03-08,John,North,Electronics,Accessories,Dell XPS,13,8970,1320.3779110011722,NY
+ORD-2502,2023-06-16,Raj,West,Appliances,Cooking,Heater,17,17646,2626.245570540977,CA
+ORD-3594,2024-03-18,Emma,South,Furniture,Desks,Sofa,9,6858,1020.4639567066511,TX
+ORD-8371,2023-06-16,Sarah,South,Furniture,Tables,Sofa,20,20180,3807.720219046273,TX
+ORD-6816,2023-11-07,Emma,North,Furniture,Storage,Sofa,4,548,70.03100151077405,NY
+ORD-7606,2023-10-25,Raj,North,Appliances,Cooking,Heater,6,2574,759.280719642709,NY
+ORD-1118,2023-11-23,Sarah,North,Furniture,Seating,Office Desk,9,11925,2100.92351485982,NY
+ORD-5421,2024-01-17,Alex,South,Furniture,Desks,Dining Table,2,1210,287.29997914541974,TX
+ORD-1508,2023-01-03,Alex,West,Furniture,Tables,Office Desk,22,2706,335.014329991688,CA
+ORD-6171,2023-01-04,Raj,West,Electronics,Phones,Sony Headphones,10,13040,3169.669612516944,CA
+ORD-4557,2024-01-28,Olivia,West,Furniture,Storage,Dining Table,13,10036,1283.2420650292147,CA
+ORD-4127,2023-12-23,James,West,Appliances,Laundry,Microwave,8,5896,963.2933592001607,CA
+ORD-3024,2023-09-30,Emma,South,Electronics,Tablets,Dell XPS,4,5256,589.6239070488241,TX
+ORD-3486,2023-11-04,Raj,West,Furniture,Chairs,Dining Table,11,5753,1086.3780504784827,CA
+ORD-9684,2023-03-10,Sophia,South,Appliances,Laundry,Refrigerator,20,21720,3150.099489194008,TX
+ORD-5354,2024-01-09,Sophia,North,Electronics,Laptops,iPhone 15,16,11024,1707.9833097083738,NY
+ORD-3590,2023-04-27,David,South,Electronics,Laptops,MacBook Air,24,28536,5814.1977130530695,TX
+ORD-7539,2023-10-24,Emma,South,Appliances,Cleaning,Washing Machine,20,9800,1083.3307420156223,TX
+ORD-2189,2024-01-16,Emma,East,Appliances,Climate Control,Washing Machine,23,26772,6002.851706099191,FL
+ORD-4861,2023-12-15,Pragathi,East,Furniture,Seating,Gaming Chair,8,784,179.75667643576435,FL
+ORD-5777,2024-01-08,Emma,South,Furniture,Tables,Office Desk,5,2640,420.5718473194983,TX
+ORD-2932,2023-01-16,Pragathi,East,Appliances,Cooking,Heater,22,31482,4064.423685822328,FL
+ORD-4933,2023-08-19,John,East,Electronics,Audio,Sony Headphones,13,9217,2075.769250535209,FL
+ORD-3500,2024-03-01,David,South,Furniture,Tables,Bookshelf,15,9210,1166.9700574821004,TX
+ORD-2017,2023-02-17,Olivia,North,Appliances,Cooking,Heater,19,7562,2054.1519506736595,NY
+ORD-8718,2023-01-11,Sarah,West,Appliances,Cooking,Microwave,1,1276,312.7032949157961,CA
+ORD-4483,2023-05-03,Raj,West,Appliances,Kitchen,Microwave,1,496,62.332312720177725,CA
+ORD-5305,2023-03-25,Emma,East,Appliances,Climate Control,Air Conditioner,3,2256,389.06682268809243,FL
+ORD-1229,2023-03-10,Olivia,West,Furniture,Seating,Dining Table,9,2763,532.4975582821904,CA
+ORD-1386,2023-03-26,Sarah,West,Electronics,Laptops,Samsung S23,17,15079,4263.968116352473,CA
+ORD-5366,2023-12-12,John,North,Furniture,Tables,Office Desk,6,1824,280.21865016242873,NY
+ORD-1148,2023-02-16,Sarah,East,Appliances,Climate Control,Washing Machine,13,12181,3613.042221201626,FL
+ORD-9677,2023-06-23,Emma,South,Furniture,Storage,Office Desk,11,5555,825.672958073555,TX
+ORD-1604,2023-10-03,Sophia,West,Electronics,Audio,Sony Headphones,8,9048,2000.971950750683,CA
+ORD-9740,2023-03-21,Emma,North,Electronics,Laptops,Samsung S23,4,4628,638.148841739748,NY
+ORD-5468,2024-02-16,Emma,West,Furniture,Chairs,Dining Table,16,11632,1635.1177745765056,CA
+ORD-1726,2024-04-05,Sophia,North,Electronics,Phones,iPhone 15,19,19703,4258.8270898787305,NY
+ORD-3881,2023-06-13,Olivia,East,Electronics,Tablets,Samsung S23,9,2988,713.4526255369376,FL
+ORD-1066,2023-03-28,Pragathi,East,Electronics,Phones,Sony Headphones,10,14990,2050.935767436149,FL
+ORD-1804,2023-03-07,John,South,Furniture,Tables,Office Desk,18,19350,2152.54781412973,TX
+ORD-4549,2023-09-08,Pragathi,North,Appliances,Cooking,Air Conditioner,1,166,17.70966260485873,NY
+ORD-6577,2024-03-23,Emma,West,Electronics,Audio,MacBook Air,12,10728,1527.0543568806863,CA
+ORD-2294,2023-01-16,Sophia,West,Appliances,Cooking,Refrigerator,17,4964,727.6024162995219,CA
+ORD-3441,2023-04-25,Olivia,North,Electronics,Laptops,MacBook Air,4,5488,1567.3884262341683,NY
+ORD-4787,2023-06-27,James,East,Appliances,Kitchen,Heater,23,23368,3516.0555775910398,FL
+ORD-2667,2023-06-25,John,North,Appliances,Climate Control,Heater,15,16125,4537.528296963335,NY
+ORD-3083,2023-07-07,Pragathi,West,Furniture,Tables,Sofa,24,14304,2299.3252202407643,CA
+ORD-6795,2023-11-21,Pragathi,East,Electronics,Phones,Samsung S23,19,12692,3131.4789859811162,FL
+ORD-3431,2024-02-06,James,West,Electronics,Laptops,Samsung S23,22,2530,595.6248773221773,CA
+ORD-7704,2023-12-02,Pragathi,North,Appliances,Cleaning,Heater,19,21774,4027.2464956695267,NY
+ORD-2537,2023-04-09,Pragathi,West,Electronics,Laptops,Dell XPS,7,3808,1056.371754170806,CA
+ORD-6510,2023-03-23,John,East,Appliances,Climate Control,Microwave,16,23376,5285.946131104898,FL
+ORD-9553,2023-04-16,Pragathi,North,Furniture,Seating,Bookshelf,10,12440,1678.8558367688352,NY
+ORD-8281,2023-05-26,Sarah,West,Electronics,Phones,iPhone 15,9,6714,676.3715918945694,CA
+ORD-1074,2023-03-23,Sarah,North,Furniture,Chairs,Office Desk,18,22410,6266.492365683692,NY
+ORD-7713,2023-11-16,Olivia,South,Furniture,Storage,Bookshelf,6,5538,1561.2335597664214,TX
+ORD-5615,2024-04-06,David,West,Electronics,Phones,Sony Headphones,1,1165,171.67383741128995,CA
+ORD-8456,2024-02-19,John,South,Furniture,Seating,Dining Table,13,9074,1019.4863786394544,TX
+ORD-5675,2024-04-18,Alex,West,Furniture,Storage,Office Desk,9,3915,1159.9231507109223,CA
+ORD-8925,2023-11-07,Alex,East,Electronics,Audio,Sony Headphones,23,33718,3496.767226866746,FL
+ORD-2353,2023-12-18,Raj,East,Electronics,Accessories,Dell XPS,18,1926,216.93812891055924,FL
+ORD-5492,2023-09-12,David,North,Appliances,Climate Control,Heater,6,5610,1161.045001167498,NY
+ORD-3032,2023-02-22,Sophia,South,Appliances,Kitchen,Air Conditioner,6,5160,918.7850047235792,TX
+ORD-5651,2023-03-26,Raj,South,Furniture,Storage,Office Desk,4,2660,281.3222280507479,TX
+ORD-8282,2023-09-12,Raj,South,Furniture,Tables,Bookshelf,8,6992,2040.383404407713,TX
+ORD-3073,2023-07-30,Sophia,East,Electronics,Audio,Sony Headphones,23,22356,2324.902976142879,FL
+ORD-9558,2023-07-07,David,South,Appliances,Laundry,Heater,9,2502,616.6024908386361,TX
+ORD-4022,2023-04-16,John,West,Appliances,Kitchen,Refrigerator,21,21294,4591.916441953746,CA
+ORD-9989,2023-12-19,David,East,Electronics,Accessories,iPhone 15,11,737,103.80740337382483,FL
+ORD-1677,2023-08-29,Pragathi,South,Furniture,Tables,Gaming Chair,6,8652,2368.8468353281582,TX
+ORD-7213,2024-04-20,Sophia,North,Furniture,Desks,Bookshelf,10,4950,738.3604011523489,NY
+ORD-1600,2023-02-20,Emma,East,Furniture,Desks,Sofa,23,22839,4000.5761641844724,FL
+ORD-8064,2023-07-02,John,South,Electronics,Tablets,iPhone 15,9,1152,223.09645627155112,TX
+ORD-8610,2023-10-18,Raj,South,Electronics,Laptops,MacBook Air,6,1080,126.19001041425325,TX
+ORD-7794,2023-04-13,Raj,East,Furniture,Chairs,Bookshelf,9,13005,3803.215779211572,FL
+ORD-2196,2023-01-12,Raj,North,Electronics,Accessories,Sony Headphones,13,17810,2959.718395709055,NY
+ORD-3024,2023-06-23,Olivia,East,Appliances,Cooking,Microwave,3,1635,255.48005228184215,FL
+ORD-2906,2023-09-15,Alex,West,Appliances,Kitchen,Air Conditioner,24,30912,9261.095821243389,CA
+ORD-2416,2023-10-31,James,South,Furniture,Tables,Bookshelf,1,1396,316.3573673177498,TX
+ORD-4071,2023-10-10,John,North,Furniture,Tables,Gaming Chair,10,4280,775.9320865669738,NY
+ORD-6057,2023-09-01,Olivia,West,Electronics,Phones,MacBook Air,3,375,98.52827030679809,CA
+ORD-9864,2023-04-09,John,North,Furniture,Tables,Gaming Chair,17,17187,3566.5814039382753,NY
+ORD-8169,2024-01-12,David,West,Appliances,Cleaning,Microwave,2,1332,137.02895435359997,CA
+ORD-8422,2023-06-29,John,South,Appliances,Cleaning,Washing Machine,13,5070,972.9968591905991,TX
+ORD-1818,2023-05-01,Raj,North,Electronics,Accessories,Samsung S23,6,8376,1923.5600494711675,NY
+ORD-3017,2023-11-09,James,West,Electronics,Tablets,MacBook Air,19,25916,5278.391869559634,CA
+ORD-4543,2024-01-22,Emma,East,Furniture,Tables,Gaming Chair,21,10857,2175.4594996666074,FL
+ORD-9742,2024-01-07,Raj,West,Furniture,Chairs,Office Desk,12,9192,2487.878773685944,CA
+ORD-2009,2024-04-15,Raj,West,Electronics,Accessories,iPhone 15,18,13482,2308.299865344862,CA
+ORD-6424,2023-08-02,John,East,Appliances,Cooking,Air Conditioner,16,3488,881.1734802833035,FL
+ORD-6660,2023-01-16,David,North,Furniture,Seating,Office Desk,3,3219,397.21368526282885,NY
+ORD-3233,2023-10-04,James,North,Appliances,Cleaning,Air Conditioner,17,22984,4658.938929838568,NY
+ORD-7944,2023-06-30,Alex,South,Furniture,Tables,Sofa,7,4466,1166.042484011852,TX
+ORD-8799,2023-01-17,Emma,North,Appliances,Kitchen,Air Conditioner,19,14820,4174.34113116028,NY
+ORD-1858,2023-11-26,Sarah,North,Electronics,Laptops,Dell XPS,10,3930,1139.1350010002031,NY
+ORD-2447,2023-03-21,Pragathi,South,Furniture,Tables,Dining Table,7,9415,2593.474233251486,TX
+ORD-7952,2023-06-27,John,North,Furniture,Seating,Bookshelf,11,3047,474.1815549072878,NY
+ORD-7085,2023-05-17,Raj,North,Furniture,Storage,Sofa,21,18438,2719.8263097201084,NY
+ORD-4253,2023-10-28,Emma,North,Appliances,Climate Control,Air Conditioner,2,1984,219.1443481770438,NY
+ORD-4513,2023-08-12,Olivia,East,Appliances,Kitchen,Microwave,17,4777,701.6171846336423,FL
+ORD-3555,2023-12-04,Sarah,East,Electronics,Audio,iPhone 15,14,15540,3737.0552251185004,FL
+ORD-4870,2024-02-18,Alex,South,Appliances,Cooking,Heater,21,19089,1923.859571888284,TX
+ORD-4435,2023-06-14,John,West,Electronics,Accessories,MacBook Air,15,8850,1840.2013663585797,CA
+ORD-5938,2023-11-02,Emma,West,Furniture,Seating,Sofa,6,648,168.71663662386675,CA
+ORD-7261,2023-10-01,John,East,Furniture,Storage,Dining Table,23,24633,4987.002893992785,FL
+ORD-9266,2023-06-30,Alex,East,Furniture,Storage,Gaming Chair,7,8057,1620.0269009984331,FL
+ORD-7123,2023-02-17,Alex,South,Appliances,Climate Control,Washing Machine,22,26884,3520.6535521605747,TX
+ORD-8111,2023-01-09,Sophia,West,Furniture,Tables,Dining Table,19,28348,3151.8800346869884,CA
+ORD-4083,2023-01-06,Raj,East,Appliances,Climate Control,Air Conditioner,22,16874,3582.6691446271125,FL
+ORD-5749,2024-02-17,David,East,Electronics,Laptops,Samsung S23,17,11832,1443.8406982994422,FL
+ORD-2313,2023-10-10,Emma,West,Furniture,Chairs,Bookshelf,18,16290,3901.2322089587733,CA
+ORD-8637,2023-12-29,James,South,Appliances,Laundry,Air Conditioner,8,3432,344.07040799479256,TX
+ORD-3327,2023-10-11,Olivia,North,Furniture,Storage,Sofa,18,23022,4154.367848764501,NY
+ORD-5381,2024-04-19,Sarah,West,Furniture,Tables,Dining Table,4,1240,149.99926530708586,CA
+ORD-3523,2023-01-07,Raj,North,Appliances,Kitchen,Air Conditioner,8,9320,2440.664830830467,NY
+ORD-2220,2024-04-10,Sarah,South,Appliances,Cleaning,Heater,12,14220,2853.041551094024,TX
+ORD-1834,2023-03-24,Sarah,South,Appliances,Cooking,Heater,16,6864,1579.714434813441,TX
+ORD-5911,2023-02-27,Alex,South,Appliances,Cleaning,Heater,9,12393,2268.3048586756495,TX
+ORD-6193,2024-02-07,James,West,Electronics,Laptops,iPhone 15,7,1176,185.1411527587071,CA
+ORD-6917,2023-05-03,John,East,Appliances,Cooking,Microwave,15,14670,4057.2031592987005,FL
+ORD-4845,2024-04-03,Raj,North,Furniture,Storage,Dining Table,16,13104,1443.6766526647602,NY
+ORD-1737,2023-07-20,Raj,North,Appliances,Laundry,Refrigerator,15,21330,4476.790875572075,NY
+ORD-7400,2023-08-24,Emma,North,Appliances,Cleaning,Refrigerator,8,6384,1356.7984439622214,NY
+ORD-8777,2023-10-15,Sophia,South,Appliances,Cooking,Air Conditioner,5,4170,777.3849414928089,TX
+ORD-9893,2023-11-06,John,East,Electronics,Audio,Samsung S23,20,27080,4299.1908530638375,FL
+ORD-5133,2023-10-22,Sophia,West,Appliances,Kitchen,Microwave,11,7964,2035.4541030690696,CA
+ORD-4232,2023-02-03,Sophia,West,Furniture,Tables,Bookshelf,15,11955,3224.518265589982,CA
+ORD-6316,2024-03-19,Pragathi,North,Appliances,Cooking,Washing Machine,17,21726,4680.591545525522,NY
+ORD-1968,2023-10-03,Pragathi,North,Furniture,Storage,Gaming Chair,15,5265,992.2792373268769,NY
+ORD-2469,2024-02-13,Olivia,East,Electronics,Phones,MacBook Air,17,3842,1136.401786922531,FL
+ORD-8420,2023-11-08,David,South,Furniture,Seating,Dining Table,8,3472,479.09068599821234,TX
+ORD-4718,2024-02-19,Sarah,North,Furniture,Seating,Bookshelf,6,7848,2049.5270461532127,NY
+ORD-6114,2023-02-27,Pragathi,West,Furniture,Tables,Bookshelf,7,3115,317.8012909247007,CA
+ORD-6494,2023-08-21,James,West,Appliances,Kitchen,Heater,2,2108,341.9997014581703,CA
+ORD-2568,2023-10-11,Raj,South,Electronics,Accessories,iPhone 15,15,4080,818.8670252191652,TX
+ORD-2356,2024-03-31,David,North,Furniture,Seating,Dining Table,16,21488,3048.495681193103,NY
+ORD-1667,2023-08-28,John,East,Appliances,Cleaning,Washing Machine,11,9581,2108.844722837132,FL
+ORD-4620,2023-11-23,David,East,Appliances,Climate Control,Microwave,6,666,165.51911382560118,FL
+ORD-6501,2023-12-03,Pragathi,West,Appliances,Kitchen,Air Conditioner,10,12770,1986.733935772729,CA
+ORD-2231,2023-03-05,Pragathi,North,Appliances,Cooking,Heater,18,1242,362.7181691798936,NY
+ORD-7222,2023-03-31,Sarah,North,Appliances,Cleaning,Washing Machine,12,16860,2325.0582137964348,NY
+ORD-7777,2023-04-13,James,West,Electronics,Laptops,Dell XPS,18,18432,3705.257984694705,CA
+ORD-4928,2023-07-01,Emma,South,Appliances,Cooking,Microwave,5,1295,229.79672648470003,TX
+ORD-1132,2023-07-03,Olivia,South,Furniture,Desks,Sofa,12,7836,1751.9206207945438,TX
+ORD-3835,2023-02-15,Emma,East,Appliances,Climate Control,Heater,22,27830,4187.867945368013,FL
+ORD-1966,2023-04-14,Emma,South,Appliances,Cleaning,Heater,1,1127,248.82366800146605,TX
+ORD-5223,2024-02-26,Alex,North,Furniture,Chairs,Gaming Chair,20,29820,8838.034543170204,NY
+ORD-5538,2023-12-06,Alex,South,Furniture,Chairs,Bookshelf,18,1692,351.3001497974727,TX
+ORD-5584,2023-06-09,David,West,Furniture,Storage,Gaming Chair,10,3160,725.2325108003431,CA
+ORD-5418,2023-08-20,Pragathi,North,Furniture,Desks,Sofa,8,2024,253.7581207999402,NY
+ORD-3739,2023-10-30,Alex,West,Furniture,Tables,Bookshelf,6,4998,990.9338997393659,CA
+ORD-1292,2023-11-23,Olivia,West,Appliances,Climate Control,Air Conditioner,14,12208,1752.3358288898187,CA
+ORD-4400,2023-08-13,David,North,Appliances,Climate Control,Heater,7,6573,1763.0196683310385,NY
+ORD-5439,2023-05-21,James,West,Appliances,Cooking,Refrigerator,23,14812,3505.039288541637,CA
+ORD-1028,2023-12-25,Raj,East,Electronics,Accessories,Samsung S23,15,20790,2726.369821469169,FL
+ORD-8244,2024-02-09,Pragathi,North,Furniture,Tables,Dining Table,12,12192,2110.110506437112,NY
+ORD-4740,2024-03-29,Sophia,South,Electronics,Laptops,iPhone 15,7,4648,1271.6617904051811,TX
+ORD-7941,2023-11-22,Olivia,West,Appliances,Kitchen,Microwave,17,3638,608.5600731479568,CA
+ORD-5234,2023-04-25,Pragathi,North,Appliances,Climate Control,Air Conditioner,6,3474,864.0550292011171,NY
+ORD-9990,2024-03-24,Sarah,North,Electronics,Phones,Sony Headphones,20,10300,1083.3459047139395,NY
+ORD-8320,2024-02-14,John,West,Appliances,Climate Control,Washing Machine,21,14826,2441.915184653065,CA
+ORD-1665,2023-05-29,Emma,West,Furniture,Tables,Sofa,13,15483,2745.0199766978844,CA
+ORD-8951,2023-08-16,Sophia,South,Appliances,Cooking,Air Conditioner,17,3366,992.8150585906221,TX
+ORD-4273,2023-12-19,Alex,North,Electronics,Accessories,MacBook Air,2,2304,633.044593345481,NY
+ORD-9002,2024-01-24,Pragathi,North,Furniture,Chairs,Bookshelf,13,5980,1024.074873946121,NY
+ORD-3986,2023-02-17,Alex,South,Appliances,Laundry,Air Conditioner,14,854,128.44129625680745,TX
+ORD-5987,2023-12-06,David,North,Electronics,Phones,Sony Headphones,11,8657,1067.8373188538926,NY
+ORD-9625,2023-01-23,David,East,Furniture,Seating,Sofa,13,11102,1190.8909975613847,FL
+ORD-6061,2024-03-31,Olivia,North,Furniture,Chairs,Gaming Chair,19,4275,875.9479909572248,NY
+ORD-4057,2024-03-17,Sarah,North,Furniture,Storage,Office Desk,12,9936,1680.4894623087828,NY
+ORD-6783,2023-05-21,Pragathi,West,Appliances,Laundry,Refrigerator,18,26964,6144.420424367079,CA
+ORD-2079,2023-08-18,Raj,South,Electronics,Tablets,iPhone 15,15,12900,2566.060396130498,TX
+ORD-7214,2024-02-26,Olivia,West,Appliances,Laundry,Washing Machine,15,16950,4606.9440547443255,CA
+ORD-8833,2023-03-29,James,West,Appliances,Kitchen,Heater,2,266,48.83592462633879,CA
+ORD-4284,2023-10-17,Pragathi,East,Appliances,Kitchen,Washing Machine,24,19632,5137.136154256437,FL
+ORD-6389,2024-02-08,Emma,East,Electronics,Tablets,Dell XPS,18,24462,3811.8847573768026,FL
+ORD-1421,2024-04-05,David,East,Electronics,Audio,Dell XPS,16,11408,3136.002395651958,FL
+ORD-2308,2023-06-12,Alex,East,Furniture,Chairs,Gaming Chair,11,13618,2804.144153189041,FL
+ORD-2439,2024-02-02,Olivia,South,Appliances,Laundry,Refrigerator,12,5760,902.6473085679141,TX
+ORD-9934,2023-04-16,Olivia,West,Furniture,Storage,Gaming Chair,2,1796,384.77968005634494,CA
+ORD-7499,2023-10-17,Emma,North,Appliances,Cooking,Microwave,14,8876,1361.8717741461996,NY
+ORD-9837,2023-05-26,Emma,North,Electronics,Accessories,iPhone 15,12,11076,3006.0907035578966,NY
+ORD-5287,2023-07-30,John,East,Appliances,Cleaning,Air Conditioner,32,6848,732.9510163096276,FL
+ORD-2667,2023-10-13,Raj,North,Furniture,Tables,Dining Table,15,11235,1625.934926083289,NY
+ORD-2490,2023-09-10,Raj,North,Electronics,Accessories,Sony Headphones,24,18120,2329.6735691131316,NY
+ORD-3440,2023-05-05,David,North,Electronics,Accessories,MacBook Air,10,8820,2438.210920468411,NY
+ORD-8062,2024-02-10,James,North,Appliances,Laundry,Air Conditioner,9,11592,1359.6430845073612,NY
+ORD-5320,2023-06-11,David,South,Electronics,Audio,iPhone 15,9,981,110.49754039366009,TX
+ORD-2689,2023-06-18,Raj,East,Appliances,Cooking,Washing Machine,14,2982,436.7375497031244,FL
+ORD-5521,2023-07-23,Emma,South,Electronics,Accessories,Dell XPS,16,13888,2186.686973290543,TX
+ORD-8232,2023-06-16,Olivia,South,Electronics,Tablets,Samsung S23,18,14724,2891.4996121054614,TX
+ORD-9111,2023-05-18,Sarah,North,Appliances,Cooking,Refrigerator,23,3542,1020.9564893150936,NY
+ORD-9974,2023-12-06,Emma,South,Electronics,Laptops,Sony Headphones,1,382,62.41215425573679,TX
+ORD-6087,2024-01-04,Pragathi,East,Electronics,Accessories,Sony Headphones,2,1916,413.7814082679162,FL
+ORD-7458,2024-04-01,Pragathi,West,Appliances,Cleaning,Microwave,10,5690,948.7553882210668,CA
+ORD-4203,2023-02-17,Sarah,East,Furniture,Tables,Gaming Chair,9,10827,1366.1100174239132,FL
+ORD-4349,2024-04-14,James,East,Furniture,Desks,Gaming Chair,23,19573,5774.992257822584,FL
+ORD-1583,2023-02-01,Raj,South,Furniture,Desks,Office Desk,10,9610,2260.4508116643165,TX
+ORD-6285,2023-11-26,Sophia,West,Furniture,Tables,Dining Table,14,19572,2569.9179529945773,CA
+ORD-3889,2024-02-08,Sarah,East,Appliances,Laundry,Washing Machine,21,18879,2518.270485998349,FL
+ORD-3492,2023-06-08,Alex,South,Furniture,Desks,Gaming Chair,10,8080,1533.3438068936368,TX
+ORD-2861,2023-05-25,David,East,Furniture,Seating,Office Desk,19,10602,2337.616129350203,FL
+ORD-5663,2023-04-14,James,West,Appliances,Cleaning,Microwave,11,13211,2299.4883401512498,CA
+ORD-9001,2024-03-01,Olivia,East,Furniture,Chairs,Bookshelf,9,648,157.48172627472835,FL
+ORD-7837,2023-06-18,Alex,North,Furniture,Chairs,Sofa,13,11024,2469.37894005099,NY
+ORD-7564,2023-08-18,Raj,West,Furniture,Storage,Gaming Chair,22,16038,3862.513514050087,CA
+ORD-3317,2023-05-12,David,South,Electronics,Phones,iPhone 15,3,1293,373.2104467307263,TX
+ORD-6404,2024-03-25,Alex,North,Furniture,Seating,Dining Table,11,14586,2948.36440222932,NY
+ORD-9444,2023-01-31,Emma,North,Furniture,Seating,Office Desk,8,1880,308.342396133027,NY
+ORD-3568,2024-04-09,Emma,East,Appliances,Cooking,Microwave,4,3848,1001.3758660980019,FL
+ORD-7791,2023-10-18,Sarah,North,Furniture,Tables,Sofa,21,24843,3342.66201161141,NY
+ORD-7524,2024-03-11,John,West,Appliances,Cooking,Refrigerator,20,11140,2485.451244474403,CA
+ORD-4346,2023-04-12,Olivia,North,Electronics,Accessories,Dell XPS,10,6000,1112.534935703201,NY
+ORD-8737,2023-01-28,Olivia,North,Appliances,Climate Control,Washing Machine,21,13167,2627.9978237061337,NY
+ORD-2469,2023-05-23,Sarah,West,Electronics,Phones,Sony Headphones,1,962,265.9420295883952,CA
+ORD-8631,2023-09-01,Sophia,North,Electronics,Audio,Samsung S23,3,4023,1116.4162189566725,NY
+ORD-6646,2023-11-03,Pragathi,East,Appliances,Cleaning,Air Conditioner,22,29964,8803.230603886805,FL
+ORD-1941,2023-09-28,David,North,Furniture,Seating,Gaming Chair,20,15900,3503.3634154130787,NY
+ORD-9853,2023-02-21,James,North,Electronics,Accessories,MacBook Air,22,25542,2752.47206260181,NY
+ORD-2543,2023-12-09,James,South,Electronics,Phones,iPhone 15,5,5640,609.4373139959299,TX
+ORD-9529,2023-05-30,Pragathi,North,Furniture,Tables,Sofa,3,3525,465.0410935252753,NY
+ORD-5366,2023-08-07,Pragathi,East,Appliances,Kitchen,Air Conditioner,11,2002,507.2140498778697,FL
+ORD-3689,2024-02-25,Sarah,South,Appliances,Cleaning,Refrigerator,3,1134,296.1794450865845,TX
+ORD-4683,2023-01-13,James,West,Appliances,Laundry,Washing Machine,19,21375,3112.9092812851222,CA
+ORD-5512,2023-11-07,Sophia,North,Electronics,Laptops,MacBook Air,13,17849,5298.7325999703635,NY
+ORD-7127,2023-12-31,Sarah,West,Appliances,Climate Control,Heater,12,5412,1620.1446682035917,CA
+ORD-7449,2023-10-08,John,West,Electronics,Accessories,iPhone 15,11,15323,1587.4264280167392,CA
+ORD-9808,2023-01-14,Pragathi,West,Furniture,Chairs,Bookshelf,1,1282,253.08796436456538,CA
+ORD-1256,2023-05-24,Raj,South,Appliances,Laundry,Air Conditioner,11,16049,2397.609580936777,TX
+ORD-7766,2024-03-06,Olivia,West,Furniture,Desks,Gaming Chair,12,6156,1574.1087515319202,CA
+ORD-1909,2023-12-21,Olivia,South,Appliances,Laundry,Heater,23,12558,1289.4791843452244,TX
+ORD-2695,2023-11-20,Pragathi,North,Appliances,Cleaning,Heater,1,395,97.82534532778631,NY
+ORD-3825,2023-06-01,Alex,South,Appliances,Cleaning,Refrigerator,13,8437,1728.158586268131,TX
+ORD-2789,2023-05-08,Sarah,North,Electronics,Audio,Dell XPS,1,1090,118.41112340812124,NY
+ORD-4406,2023-07-23,Sophia,South,Electronics,Laptops,iPhone 15,21,21483,6268.843274485446,TX
+ORD-6873,2023-09-10,Olivia,South,Appliances,Kitchen,Air Conditioner,7,5019,1224.970635968824,TX
+ORD-9283,2023-11-28,Sophia,North,Appliances,Cleaning,Refrigerator,4,1768,180.61831154893144,NY
+ORD-3720,2024-02-12,Emma,West,Appliances,Cleaning,Washing Machine,19,9329,1086.703998933033,CA
+ORD-7981,2023-12-29,Raj,South,Furniture,Chairs,Gaming Chair,18,15984,4512.574837050625,TX
+ORD-9160,2023-10-14,James,North,Furniture,Desks,Bookshelf,7,6678,836.4642059839503,NY
+ORD-5460,2023-06-12,James,West,Electronics,Accessories,Samsung S23,15,17535,2521.7405199210107,CA
+ORD-7802,2024-02-16,Pragathi,East,Electronics,Phones,Dell XPS,21,3507,926.1769680755026,FL
+ORD-5018,2023-12-20,Sarah,North,Appliances,Cooking,Air Conditioner,6,7698,1738.5458695555665,NY
+ORD-9978,2023-03-19,Emma,West,Electronics,Audio,Sony Headphones,24,31824,6256.688225429176,CA
+ORD-6392,2023-01-26,Sophia,East,Electronics,Audio,Samsung S23,13,15977,3683.024479419417,FL
+ORD-4160,2023-11-26,Sarah,North,Electronics,Tablets,MacBook Air,3,3552,480.0768227659032,NY
+ORD-1870,2023-05-26,James,East,Electronics,Laptops,MacBook Air,22,6732,910.720996200106,FL
+ORD-6769,2023-09-28,Alex,North,Appliances,Cooking,Air Conditioner,8,4792,1387.0989322287044,NY
+ORD-2785,2024-01-10,John,East,Furniture,Chairs,Gaming Chair,7,1820,321.4718665555218,FL
+ORD-5298,2023-01-06,Sophia,East,Appliances,Kitchen,Air Conditioner,6,4380,973.8103718659083,FL
+ORD-1906,2024-04-19,David,West,Electronics,Phones,iPhone 15,15,12150,3580.3481281895847,CA
+ORD-4081,2023-08-22,James,West,Electronics,Laptops,Dell XPS,4,4476,754.8092369719603,CA
+ORD-6006,2024-01-22,James,West,Electronics,Audio,Dell XPS,22,18282,4248.37692421196,CA
+ORD-2088,2023-08-10,John,West,Furniture,Seating,Office Desk,7,7056,1461.1153754673019,CA
+ORD-2597,2024-01-01,Raj,East,Electronics,Phones,iPhone 15,22,9768,1603.2467576530942,FL
+ORD-5725,2023-05-21,John,West,Electronics,Accessories,Samsung S23,9,1692,279.4437976035172,CA
+ORD-3335,2024-04-06,Raj,East,Furniture,Tables,Dining Table,15,5610,702.5437740349304,FL
+ORD-9768,2024-02-18,Pragathi,South,Furniture,Desks,Office Desk,21,2289,578.4774841128926,TX
+ORD-6167,2023-12-23,Pragathi,South,Appliances,Climate Control,Air Conditioner,9,11079,3005.981614607191,TX
+ORD-1489,2024-01-25,Sophia,North,Electronics,Phones,Dell XPS,1,842,192.44357103008124,NY
+ORD-5515,2023-01-02,Raj,East,Furniture,Storage,Gaming Chair,9,10962,2039.6257368401377,FL
+ORD-1976,2024-03-09,Sarah,West,Electronics,Phones,iPhone 15,3,318,62.32917722611789,CA
+ORD-9983,2023-12-02,Pragathi,East,Furniture,Tables,Office Desk,11,3256,329.11553067001074,FL
+ORD-4644,2023-07-20,Sophia,West,Electronics,Laptops,iPhone 15,22,28094,5799.089446342898,CA
+ORD-6279,2023-03-02,Olivia,South,Appliances,Laundry,Microwave,12,10356,2228.941203935541,TX
+ORD-8939,2023-11-13,John,East,Electronics,Audio,Sony Headphones,14,19796,2906.2815428492827,FL
+ORD-8069,2023-10-19,Sarah,East,Appliances,Cooking,Air Conditioner,22,9504,1757.9140758626525,FL
+ORD-2359,2023-10-10,Alex,East,Appliances,Climate Control,Washing Machine,5,4315,467.91900438566057,FL
+ORD-3422,2023-05-02,Alex,West,Electronics,Laptops,iPhone 15,17,12478,3036.442902641727,CA
+ORD-2189,2024-03-02,Sarah,West,Furniture,Seating,Gaming Chair,5,6975,1367.2882407955306,CA
+ORD-8372,2023-04-16,Raj,North,Electronics,Tablets,iPhone 15,12,1452,174.09370408285733,NY
+ORD-7709,2023-05-21,Sarah,South,Electronics,Phones,MacBook Air,19,1064,125.38647736258038,TX
+ORD-8690,2023-06-27,Raj,East,Furniture,Desks,Dining Table,18,22968,3596.2647151946476,FL
+ORD-6899,2023-12-03,Alex,North,Electronics,Tablets,Dell XPS,6,5340,604.0616169612915,NY
+ORD-3982,2023-09-16,Sarah,West,Appliances,Cleaning,Microwave,24,30144,3443.5314087144784,CA
+ORD-5019,2023-01-21,Pragathi,West,Furniture,Seating,Dining Table,19,1919,400.4591660736937,CA
+ORD-2074,2023-11-16,Olivia,West,Appliances,Cleaning,Air Conditioner,8,8192,1949.8194603029262,CA
+ORD-3176,2023-03-15,Alex,West,Electronics,Accessories,iPhone 15,15,15765,3675.71821783135,CA
+ORD-5284,2023-05-11,Pragathi,East,Appliances,Cleaning,Heater,3,1548,225.24448829952905,FL
+ORD-5482,2023-09-27,Pragathi,West,Electronics,Laptops,Samsung S23,18,8388,1408.6146569196683,CA
+ORD-6241,2023-10-04,Sarah,East,Appliances,Cleaning,Air Conditioner,5,6220,864.7153721101173,FL
+ORD-4757,2023-11-12,David,North,Appliances,Laundry,Air Conditioner,3,3402,558.2592851648343,NY
+ORD-2446,2023-11-29,Pragathi,East,Electronics,Phones,iPhone 15,6,8814,2028.6096519889184,FL
+ORD-1864,2023-06-08,Emma,North,Electronics,Phones,Sony Headphones,16,17664,3577.8428459919946,NY
+ORD-5659,2023-02-10,Olivia,West,Electronics,Accessories,Samsung S23,13,18980,2258.975486709929,CA
+ORD-7391,2023-04-19,David,East,Furniture,Chairs,Sofa,13,10218,2815.494206480266,FL
+ORD-7429,2024-02-12,David,West,Electronics,Audio,Sony Headphones,22,11924,1995.71439841117,CA
+ORD-6024,2024-04-20,Pragathi,North,Furniture,Tables,Gaming Chair,8,1448,386.00598507934166,NY
+ORD-2184,2024-01-20,Olivia,South,Electronics,Tablets,Samsung S23,4,4448,735.6476923865766,TX
+ORD-2523,2023-09-05,David,North,Electronics,Accessories,Sony Headphones,23,26565,7016.222622180744,NY
+ORD-1690,2023-05-11,James,South,Furniture,Seating,Gaming Chair,19,24529,4934.298884193451,TX
+ORD-3686,2023-08-30,Pragathi,South,Furniture,Tables,Bookshelf,24,22728,3452.152152007048,TX
+ORD-5180,2023-07-22,Emma,East,Electronics,Audio,iPhone 15,1,465,92.28925629124254,FL
+ORD-4561,2023-10-08,James,North,Appliances,Cooking,Heater,1,1331,338.54861837999414,NY
+ORD-6969,2024-01-15,Pragathi,South,Electronics,Laptops,Sony Headphones,6,4542,1207.8484327826002,TX
+ORD-3901,2023-05-01,John,East,Furniture,Seating,Gaming Chair,1,460,92.72656227231104,FL
+ORD-9007,2023-10-16,David,West,Furniture,Storage,Dining Table,23,9890,2757.528882417983,CA
+ORD-3239,2024-04-12,Sarah,East,Electronics,Accessories,Samsung S23,24,14256,3553.489942396952,FL
+ORD-7152,2023-04-07,Sarah,West,Furniture,Seating,Bookshelf,16,11360,2772.070959112929,CA
+ORD-2146,2023-10-28,James,West,Electronics,Audio,iPhone 15,8,2056,506.05520954047404,CA
+ORD-5784,2024-03-14,James,South,Electronics,Phones,Dell XPS,5,2460,664.2845970408835,TX
+ORD-1689,2024-01-22,Sophia,South,Furniture,Chairs,Bookshelf,5,3645,492.8329282909736,TX
+ORD-3484,2023-08-19,James,North,Electronics,Phones,Samsung S23,16,8704,1456.0927724439216,NY
+ORD-8743,2023-01-29,Sarah,West,Appliances,Climate Control,Microwave,16,10192,2536.624206973084,CA
+ORD-7176,2023-09-18,Sophia,West,Appliances,Climate Control,Washing Machine,12,2616,643.2832570294574,CA
+ORD-4244,2023-07-29,James,North,Electronics,Laptops,Dell XPS,18,19836,4961.654113458181,NY
+ORD-2589,2023-01-23,Alex,North,Electronics,Laptops,MacBook Air,7,2002,251.75038003143553,NY
+ORD-4683,2023-04-08,James,West,Furniture,Chairs,Dining Table,23,29946,3981.127529990901,CA
+ORD-2868,2023-06-27,Sophia,South,Electronics,Phones,Dell XPS,21,3612,414.11262440717866,TX
+ORD-7010,2024-01-08,Sarah,West,Appliances,Climate Control,Air Conditioner,13,1872,365.78577311758875,CA
+ORD-9457,2023-09-19,James,North,Furniture,Tables,Dining Table,19,24339,5970.340861821306,NY
+ORD-4593,2024-03-02,Sophia,West,Electronics,Tablets,Sony Headphones,18,16866,3415.7193648524208,CA
+ORD-3787,2024-04-15,Pragathi,North,Appliances,Climate Control,Washing Machine,8,9632,1295.4007237192423,NY
+ORD-2831,2023-12-04,David,South,Appliances,Laundry,Washing Machine,11,5236,850.0157182672726,TX
+ORD-5238,2024-04-23,James,West,Electronics,Tablets,Samsung S23,19,5852,1279.2293487730299,CA
+ORD-9864,2023-07-27,Olivia,East,Electronics,Phones,MacBook Air,4,2120,329.5575685320549,FL
+ORD-5995,2024-03-27,Sophia,East,Electronics,Tablets,MacBook Air,7,2716,572.6312579597875,FL
+ORD-2050,2023-11-12,David,North,Furniture,Storage,Gaming Chair,14,12194,2638.453011951681,NY
+ORD-6141,2023-11-02,Alex,North,Furniture,Desks,Office Desk,19,25270,2554.0337888606023,NY
+ORD-6955,2024-03-10,David,North,Electronics,Laptops,MacBook Air,11,13871,2850.369721656829,NY
+ORD-5635,2023-09-02,Emma,South,Appliances,Climate Control,Heater,21,13671,1937.596060957782,TX
+ORD-2960,2023-08-11,Olivia,West,Furniture,Seating,Dining Table,24,5472,1054.335120035805,CA
+ORD-6283,2023-10-25,Raj,West,Furniture,Chairs,Sofa,1,469,61.74695015560125,CA
+ORD-1591,2023-12-11,Emma,South,Electronics,Accessories,iPhone 15,18,20574,4359.528797610973,TX
+ORD-9494,2023-07-18,James,West,Appliances,Cleaning,Microwave,17,8211,1285.0886063064647,CA
+ORD-7818,2023-09-07,John,North,Appliances,Cleaning,Air Conditioner,3,1548,350.0211389534406,NY
+ORD-1430,2023-11-24,Emma,South,Electronics,Tablets,Samsung S23,4,1320,300.5521386521659,TX
+ORD-5355,2023-09-14,John,North,Appliances,Laundry,Washing Machine,19,27626,3974.3890807731286,NY
+ORD-1480,2023-08-15,James,West,Furniture,Storage,Bookshelf,6,8622,1183.9359641129793,CA
+ORD-5080,2023-12-23,John,South,Appliances,Cleaning,Air Conditioner,18,1674,450.1059045001902,TX
+ORD-4424,2023-02-25,James,North,Appliances,Cooking,Heater,5,5660,852.9549286871394,NY
+ORD-3018,2024-02-05,Raj,East,Appliances,Cleaning,Microwave,2,1846,390.1455680247032,FL
+ORD-8902,2023-11-20,James,East,Furniture,Seating,Bookshelf,16,3344,418.35057240520337,FL
+ORD-8485,2023-03-27,John,East,Furniture,Tables,Gaming Chair,17,7327,2006.277775309217,FL
+ORD-7450,2024-03-15,Raj,East,Appliances,Kitchen,Washing Machine,15,11490,2561.215259872583,FL
+ORD-4131,2024-04-22,James,West,Furniture,Desks,Dining Table,10,2820,423.0465124674632,CA
+ORD-1889,2024-01-03,Olivia,South,Appliances,Laundry,Washing Machine,23,20562,4776.338001039717,TX
+ORD-8624,2023-05-14,James,West,Appliances,Kitchen,Washing Machine,12,3012,560.2653399432237,CA
+ORD-6229,2023-10-23,James,East,Appliances,Kitchen,Microwave,3,2886,597.7032499648182,FL
+ORD-4088,2023-09-01,Sarah,South,Electronics,Laptops,Dell XPS,6,1290,321.6411089149523,TX
+ORD-9090,2024-01-02,Raj,West,Appliances,Cleaning,Microwave,5,4645,995.1577220321469,CA
+ORD-2995,2023-02-04,Emma,North,Appliances,Laundry,Refrigerator,7,3010,892.5733893309052,NY
+ORD-9524,2023-04-07,Olivia,East,Appliances,Cleaning,Refrigerator,19,26828,4126.7889447545085,FL
+ORD-5330,2023-12-02,Sophia,East,Appliances,Cooking,Air Conditioner,23,15019,2980.4189713588926,FL
+ORD-1537,2023-05-15,Pragathi,East,Furniture,Storage,Bookshelf,1,610,90.86558450621057,FL
+ORD-2909,2023-12-24,Sarah,North,Appliances,Cleaning,Microwave,1,445,131.0036252281227,NY
+ORD-9659,2023-05-09,Alex,West,Appliances,Laundry,Air Conditioner,28,22568,5743.65797017942,CA
+ORD-1444,2023-03-20,Sophia,East,Furniture,Seating,Dining Table,6,4332,538.8048133464231,FL
+ORD-1493,2024-02-05,Pragathi,North,Furniture,Desks,Gaming Chair,17,12478,2807.4096734297855,NY
+ORD-9741,2023-05-27,Sarah,South,Furniture,Storage,Dining Table,7,5005,1104.1168772279527,TX
+ORD-6724,2023-07-09,Olivia,East,Appliances,Kitchen,Refrigerator,7,5635,1670.1072982173844,FL
+ORD-6789,2023-06-03,Alex,South,Electronics,Tablets,Sony Headphones,5,5180,605.4259140192066,TX
+ORD-8630,2024-01-16,David,East,Appliances,Laundry,Heater,17,5882,1448.9780828315156,FL
+ORD-8358,2023-02-01,Sophia,East,Furniture,Tables,Dining Table,20,7380,1892.2346945766574,FL
+ORD-9907,2023-10-12,Sophia,South,Electronics,Audio,Sony Headphones,9,8775,1278.3873708012773,TX
+ORD-5760,2024-01-22,Raj,North,Appliances,Kitchen,Heater,16,20304,3217.741469640904,NY
+ORD-5019,2023-06-03,Pragathi,East,Furniture,Desks,Office Desk,24,31728,5740.515492469494,FL
+ORD-3722,2023-03-19,James,South,Electronics,Laptops,MacBook Air,4,5256,1194.8915915730684,TX
+ORD-7172,2023-08-22,John,West,Furniture,Desks,Office Desk,10,8400,2254.238631168416,CA
+ORD-8238,2023-12-23,Raj,South,Electronics,Accessories,MacBook Air,20,2200,561.6852875854969,TX
+ORD-7999,2023-09-06,Alex,South,Furniture,Storage,Sofa,21,11403,2912.7920065083536,TX
+ORD-1025,2023-05-25,David,West,Appliances,Kitchen,Microwave,1,1265,364.86595300858824,CA
+ORD-1594,2023-10-30,John,North,Appliances,Laundry,Refrigerator,3,2820,529.6193996951274,NY
+ORD-5181,2024-03-10,Pragathi,East,Electronics,Phones,Dell XPS,6,7254,1065.589397041023,FL
+ORD-7192,2024-03-15,John,West,Appliances,Cooking,Refrigerator,9,5643,1107.298455784492,CA
+ORD-6756,2023-03-16,Raj,East,Electronics,Accessories,Samsung S23,2,1956,482.2414001096855,FL
+ORD-5027,2023-09-28,Olivia,South,Appliances,Climate Control,Heater,10,11660,3384.764233885258,TX
+ORD-4397,2023-02-17,Sarah,North,Electronics,Laptops,Dell XPS,19,2774,508.0715891750573,NY
+ORD-1770,2023-09-11,Sarah,West,Furniture,Seating,Dining Table,6,2754,568.59324360757,CA
+ORD-2421,2023-11-04,Pragathi,South,Furniture,Tables,Sofa,11,11385,3388.7728361810364,TX
+ORD-3881,2024-01-29,David,West,Electronics,Audio,Dell XPS,19,6878,1368.4860249284256,CA
+ORD-6741,2023-01-16,Olivia,South,Furniture,Tables,Office Desk,22,10472,1085.0253242652614,TX
+ORD-5692,2023-03-14,David,South,Furniture,Seating,Bookshelf,19,8702,2251.89200681071,TX
+ORD-7347,2024-01-12,Olivia,North,Appliances,Climate Control,Refrigerator,4,5520,1126.2819610485626,NY
+ORD-2434,2023-05-13,Emma,West,Furniture,Tables,Dining Table,4,1208,353.6583469430644,CA
+ORD-6497,2023-09-23,Alex,South,Furniture,Desks,Dining Table,6,2202,638.9945713617134,TX
+ORD-1634,2023-07-06,James,East,Furniture,Storage,Bookshelf,19,20330,2833.021190012952,FL
+ORD-5276,2024-02-24,Raj,South,Appliances,Cooking,Microwave,6,1320,310.9642584829672,TX
+ORD-9245,2023-10-24,Pragathi,East,Appliances,Kitchen,Air Conditioner,17,3808,450.297263585067,FL
+ORD-1822,2023-03-09,Pragathi,North,Appliances,Laundry,Microwave,18,5958,1175.3842640307257,NY
+ORD-5567,2023-01-08,Pragathi,South,Appliances,Cooking,Air Conditioner,1,612,77.61624181967832,TX
+ORD-9720,2024-01-29,John,East,Electronics,Phones,MacBook Air,24,32184,4179.208343949411,FL
+ORD-2233,2023-10-14,Olivia,West,Electronics,Tablets,Samsung S23,6,8076,1930.4813217126268,CA
+ORD-4850,2023-08-04,Sophia,South,Furniture,Desks,Gaming Chair,13,19357,4170.2710983003035,TX
+ORD-3000,2023-06-14,Raj,North,Furniture,Storage,Bookshelf,13,3263,759.6747714950118,NY
+ORD-9592,2023-05-08,Olivia,East,Electronics,Phones,Samsung S23,20,16480,4155.462680443387,FL
+ORD-1270,2023-10-25,John,East,Furniture,Storage,Office Desk,22,13090,1564.56591508102,FL
+ORD-9910,2023-02-28,Olivia,North,Electronics,Laptops,MacBook Air,15,2025,373.97163337232206,NY
+ORD-2250,2023-02-28,John,North,Electronics,Phones,Sony Headphones,5,2185,239.97969875269845,NY
+ORD-6828,2023-11-18,Sophia,West,Electronics,Laptops,Samsung S23,13,18083,3012.447863164119,CA
+ORD-2809,2024-03-22,Alex,North,Appliances,Cleaning,Washing Machine,3,4455,1317.3488165370268,NY
+ORD-2151,2023-10-31,Olivia,North,Furniture,Seating,Sofa,8,2576,763.0263927920872,NY
+ORD-4428,2024-03-22,Alex,West,Electronics,Audio,Samsung S23,10,2160,477.27436111659233,CA
+ORD-9879,2023-01-29,David,South,Electronics,Accessories,Samsung S23,10,11660,2380.168284907948,TX
+ORD-6775,2024-02-22,Pragathi,North,Furniture,Storage,Gaming Chair,13,13429,3964.2949390792865,NY
+ORD-2555,2023-10-25,Olivia,East,Appliances,Kitchen,Microwave,13,3952,748.6356627810364,FL
+ORD-9065,2023-02-06,John,West,Furniture,Seating,Sofa,12,10992,3201.162471383064,CA
+ORD-1661,2023-05-17,Olivia,East,Furniture,Chairs,Dining Table,22,23716,2562.8940198995365,FL
+ORD-4897,2023-07-14,Alex,West,Furniture,Storage,Bookshelf,23,16813,4996.563533052581,CA
+ORD-2515,2024-01-22,David,West,Furniture,Storage,Office Desk,23,14950,3727.762490316498,CA
+ORD-3980,2024-01-17,James,East,Appliances,Laundry,Refrigerator,24,2904,606.087826730804,FL
+ORD-6373,2024-02-09,Sophia,North,Furniture,Tables,Bookshelf,4,356,68.67829282807432,NY
+ORD-1815,2023-06-27,Olivia,North,Furniture,Tables,Dining Table,4,2532,339.2828413121315,NY
+ORD-5513,2023-01-31,Pragathi,North,Electronics,Audio,Samsung S23,16,9728,2395.463791369388,NY
+ORD-3962,2023-09-13,Olivia,North,Electronics,Audio,Dell XPS,17,14093,3758.258172223087,NY
+ORD-7277,2023-02-28,Emma,North,Appliances,Climate Control,Washing Machine,24,35352,5185.404983576741,NY
+ORD-6696,2024-02-29,Emma,South,Electronics,Tablets,Dell XPS,17,7599,1442.0344072959494,TX
+ORD-3274,2023-04-09,Raj,East,Electronics,Accessories,iPhone 15,18,3726,591.5113477800082,FL
+ORD-2950,2024-01-06,Sophia,North,Appliances,Laundry,Heater,23,16123,4287.649626382826,NY
+ORD-8045,2023-12-30,James,West,Furniture,Seating,Sofa,19,5453,1206.2199617040808,CA
+ORD-8063,2023-04-22,James,East,Appliances,Laundry,Refrigerator,4,3676,630.6643232373585,FL
+ORD-9860,2024-01-10,Olivia,South,Appliances,Cleaning,Washing Machine,13,5590,1160.9135209502124,TX
+ORD-1726,2023-02-07,David,South,Furniture,Tables,Dining Table,1,1269,375.78851812535584,TX
+ORD-4807,2023-09-13,Sophia,West,Appliances,Cooking,Heater,11,14091,3511.173581407542,CA
+ORD-2074,2023-04-21,Olivia,West,Electronics,Accessories,Dell XPS,6,4104,1053.3465034920519,CA
+ORD-7103,2023-07-24,Pragathi,West,Appliances,Cleaning,Washing Machine,22,1320,144.21216196497895,CA
+ORD-4688,2023-08-27,Sarah,West,Furniture,Tables,Bookshelf,15,20865,5205.048940115655,CA
+ORD-1081,2024-03-05,Pragathi,West,Electronics,Laptops,Sony Headphones,14,3150,389.0098162921905,CA
+ORD-5183,2024-03-15,James,East,Appliances,Climate Control,Microwave,24,17904,2498.7697147950093,FL
+ORD-9422,2023-07-01,Sophia,East,Electronics,Tablets,Sony Headphones,23,17204,5000.583732758186,FL
+ORD-8980,2023-10-27,David,South,Appliances,Laundry,Microwave,18,14994,2829.6667843129794,TX
+ORD-1023,2023-10-30,Pragathi,South,Appliances,Cleaning,Heater,22,18964,2836.758195623466,TX
+ORD-4659,2023-11-23,John,East,Appliances,Cooking,Washing Machine,8,4304,629.7466389015707,FL
+ORD-1258,2023-09-01,Pragathi,North,Electronics,Phones,Sony Headphones,2,234,43.36233869495155,NY
+ORD-4196,2024-02-17,Emma,East,Appliances,Kitchen,Washing Machine,17,24582,4228.901210060285,FL
+ORD-6679,2023-11-23,Sophia,South,Electronics,Tablets,MacBook Air,10,11120,1822.160741167536,TX
+ORD-1573,2024-02-08,Alex,South,Electronics,Phones,Sony Headphones,15,5610,743.6347853504639,TX
+ORD-7676,2023-01-26,David,South,Appliances,Cleaning,Washing Machine,10,10810,2041.1723171892286,TX
+ORD-5526,2024-02-23,John,East,Appliances,Cleaning,Air Conditioner,17,10268,2643.6995950941746,FL
+ORD-4869,2023-03-17,Raj,West,Electronics,Accessories,Sony Headphones,1,965,226.61907850669513,CA
+ORD-9554,2024-01-31,David,East,Appliances,Cooking,Refrigerator,12,14592,4259.772967219951,FL
+ORD-9218,2024-04-08,Olivia,East,Furniture,Chairs,Dining Table,15,4245,928.556209725768,FL
+ORD-8018,2023-11-15,Sarah,North,Appliances,Cleaning,Air Conditioner,9,2070,490.1110146871796,NY
+ORD-5431,2023-05-13,John,West,Appliances,Cleaning,Heater,11,3344,517.9271680379439,CA
+ORD-3500,2023-08-30,Alex,South,Electronics,Accessories,Samsung S23,21,28812,4775.887518702882,TX
+ORD-2502,2023-03-24,Raj,South,Electronics,Accessories,Dell XPS,3,4206,509.6962781157243,TX
+ORD-1613,2023-11-21,James,North,Electronics,Phones,Samsung S23,15,4620,1244.956069812255,NY
+ORD-6614,2023-07-12,John,North,Appliances,Cleaning,Microwave,9,13266,2707.645079857666,NY
+ORD-5200,2023-11-24,Olivia,East,Furniture,Tables,Office Desk,12,15480,2811.230202618611,FL
+ORD-9125,2023-11-05,David,North,Electronics,Laptops,Dell XPS,21,14490,3105.602918889036,NY
+ORD-3611,2023-09-10,John,East,Furniture,Seating,Office Desk,1,109,14.823991642112974,FL
+ORD-4349,2023-08-19,Olivia,West,Furniture,Tables,Gaming Chair,8,2592,501.41791294154115,CA
+ORD-9846,2023-04-17,Alex,South,Electronics,Phones,Sony Headphones,3,2700,516.7929341840178,TX
+ORD-9289,2023-05-12,John,West,Appliances,Kitchen,Microwave,13,6578,1363.2145626236677,CA
+ORD-2816,2024-01-30,John,South,Electronics,Phones,Dell XPS,12,13404,2905.6072429993274,TX
+ORD-3322,2023-05-24,Olivia,East,Electronics,Accessories,Dell XPS,10,11820,2328.851829836687,FL
+ORD-8254,2024-04-06,Sophia,East,Appliances,Cleaning,Refrigerator,10,10120,2443.0310867095177,FL
+ORD-6604,2023-09-23,Olivia,West,Appliances,Kitchen,Microwave,15,20760,2965.2598013747647,CA
+ORD-8701,2024-03-13,Pragathi,North,Appliances,Cooking,Washing Machine,18,1386,254.07936554177988,NY
+ORD-2179,2023-10-23,Olivia,North,Furniture,Tables,Office Desk,1,957,97.97724509172278,NY
+ORD-1976,2023-08-24,David,East,Furniture,Chairs,Office Desk,8,8232,1507.574391556147,FL
+ORD-7229,2023-04-18,Emma,North,Electronics,Laptops,iPhone 15,5,5110,1271.4185391556066,NY
+ORD-4046,2023-09-07,Raj,South,Furniture,Storage,Dining Table,16,2656,660.1336593054249,TX
+ORD-1798,2024-01-03,John,West,Electronics,Accessories,Sony Headphones,4,3592,849.6712907361518,CA
+ORD-1602,2023-05-01,Alex,West,Electronics,Accessories,Dell XPS,17,18139,2844.573032567281,CA
+ORD-7766,2024-01-12,Raj,East,Furniture,Seating,Gaming Chair,11,6259,1159.3111060403696,FL
+ORD-6633,2023-11-04,James,East,Appliances,Kitchen,Washing Machine,4,1496,186.57288918736757,FL
+ORD-3456,2024-04-02,Emma,East,Electronics,Phones,Dell XPS,3,4479,792.8283984305998,FL
+ORD-2620,2024-01-07,James,East,Furniture,Tables,Sofa,11,7821,891.7786471574412,FL
+ORD-5799,2024-04-23,John,East,Furniture,Chairs,Gaming Chair,7,4305,462.4017665700973,FL
+ORD-2245,2023-06-23,James,North,Appliances,Cleaning,Heater,8,2552,428.2102503186081,NY
+ORD-5062,2023-10-30,Alex,North,Furniture,Tables,Dining Table,8,6720,1338.3813712396366,NY
+ORD-7163,2023-06-09,Pragathi,North,Electronics,Audio,Samsung S23,6,4866,1184.0262007984168,NY
+ORD-5710,2023-04-03,Olivia,North,Furniture,Seating,Office Desk,19,24795,4160.5710980312415,NY
+ORD-1288,2023-02-03,Sophia,North,Furniture,Seating,Dining Table,16,20352,3671.3051139537897,NY
+ORD-7213,2023-01-07,Sarah,North,Electronics,Accessories,Dell XPS,16,23936,2795.1203611961923,NY
+ORD-5791,2023-08-04,Emma,West,Appliances,Kitchen,Microwave,1,1382,233.01736320118803,CA
+ORD-8795,2023-11-29,David,East,Appliances,Kitchen,Washing Machine,21,6174,678.1009449677388,FL
+ORD-8849,2023-07-13,James,South,Electronics,Laptops,Dell XPS,4,5900,808.7859450360656,TX
+ORD-8432,2023-06-26,John,South,Furniture,Chairs,Dining Table,22,23892,2527.7580431348943,TX
+ORD-5839,2023-04-04,James,East,Furniture,Tables,Bookshelf,7,5684,1497.2817047973729,FL
+ORD-9348,2023-11-15,John,South,Furniture,Seating,Bookshelf,8,416,79.2100422114395,TX
+ORD-6434,2024-01-24,Raj,East,Appliances,Kitchen,Microwave,7,9261,1134.4801555835932,FL
+ORD-3063,2023-04-19,Pragathi,South,Appliances,Kitchen,Washing Machine,10,8500,2404.065984810952,TX
+ORD-9759,2023-11-08,Sarah,East,Furniture,Seating,Gaming Chair,4,1868,252.0492644541255,FL
+ORD-8478,2023-07-19,James,East,Appliances,Cooking,Air Conditioner,24,17328,1993.0445389028962,FL
+ORD-9269,2023-03-25,Sarah,South,Electronics,Laptops,Sony Headphones,18,7560,1559.6067220844113,TX
+ORD-5861,2023-10-09,Emma,North,Furniture,Tables,Sofa,18,23958,3333.553262752416,NY
+ORD-3072,2023-01-13,Pragathi,North,Appliances,Climate Control,Air Conditioner,19,12350,1329.3608758807559,NY
+ORD-7634,2023-05-22,David,South,Electronics,Audio,iPhone 15,6,6204,773.5936022850973,TX
+ORD-9711,2024-01-19,Emma,South,Electronics,Accessories,Samsung S23,18,23886,6195.778817933964,TX
+ORD-8207,2023-07-07,Sarah,East,Electronics,Laptops,Dell XPS,3,1437,410.76960427187413,FL
+ORD-3913,2023-03-25,Olivia,East,Electronics,Audio,Sony Headphones,1,879,232.775811427153,FL
+ORD-8145,2023-06-19,Raj,West,Appliances,Cleaning,Washing Machine,22,15268,2181.0503943103477,CA
+ORD-8663,2024-03-12,Olivia,North,Appliances,Cooking,Microwave,17,17510,3612.6658230606627,NY
+ORD-7395,2023-11-06,Pragathi,West,Furniture,Storage,Gaming Chair,20,27240,5743.949514359755,CA
+ORD-3939,2023-08-05,James,North,Furniture,Tables,Sofa,24,1440,320.22837641298935,NY
+ORD-5786,2024-01-08,Raj,West,Appliances,Laundry,Refrigerator,17,16660,2506.270363421806,CA
+ORD-2614,2023-12-07,John,West,Electronics,Accessories,Dell XPS,13,10842,1895.02519267219,CA
+ORD-8699,2023-03-11,Raj,East,Electronics,Phones,iPhone 15,17,9265,1484.5476636624303,FL
+ORD-5364,2023-04-12,Pragathi,East,Electronics,Audio,Sony Headphones,24,18408,3528.015489447703,FL
+ORD-8570,2023-12-16,Pragathi,South,Furniture,Storage,Bookshelf,14,6384,1511.5950353801377,TX
+ORD-8229,2023-02-11,Alex,West,Appliances,Cooking,Refrigerator,2,490,128.1806375475542,CA
+ORD-6651,2024-02-14,Olivia,West,Appliances,Cleaning,Heater,22,12760,3402.5160264333895,CA
+ORD-8069,2023-03-22,Emma,West,Furniture,Tables,Office Desk,22,21076,4780.424366900537,CA
+ORD-9667,2024-03-26,James,West,Electronics,Laptops,Samsung S23,22,24178,4919.896886231564,CA
+ORD-9272,2023-12-29,David,West,Furniture,Desks,Office Desk,18,11070,1804.4283212701596,CA
+ORD-4909,2024-04-16,John,East,Electronics,Laptops,MacBook Air,16,1040,141.0282274527922,FL
+ORD-7820,2024-03-22,James,East,Furniture,Tables,Sofa,2,516,129.1733519576429,FL
+ORD-3655,2023-07-26,David,West,Appliances,Laundry,Heater,1,1450,349.59196908780405,CA
+ORD-8519,2024-01-24,Olivia,North,Electronics,Laptops,MacBook Air,13,2171,642.5788467141095,NY
+ORD-6588,2023-11-06,John,South,Appliances,Cleaning,Refrigerator,10,7130,1959.0699169773732,TX
+ORD-4881,2023-05-30,David,North,Electronics,Accessories,Dell XPS,4,4940,1063.4886848361898,NY
+ORD-6212,2023-11-22,Pragathi,North,Appliances,Kitchen,Air Conditioner,5,3350,512.958336636498,NY
+ORD-4691,2023-03-03,Sophia,East,Appliances,Laundry,Air Conditioner,12,5424,1240.8961480355783,FL
+ORD-5300,2023-06-16,Pragathi,South,Appliances,Kitchen,Washing Machine,13,2717,485.22944569630124,TX
+ORD-9621,2023-02-24,Sophia,South,Appliances,Kitchen,Microwave,20,15400,2293.4181240809794,TX
+ORD-6479,2023-07-02,Olivia,East,Furniture,Seating,Gaming Chair,18,24786,4864.371233999804,FL
+ORD-9167,2024-01-05,Olivia,North,Furniture,Desks,Office Desk,21,25725,5828.944815023525,NY
+ORD-5649,2023-11-18,Raj,North,Appliances,Climate Control,Washing Machine,7,6909,1377.867142786952,NY
+ORD-5370,2023-02-16,Olivia,West,Electronics,Accessories,Sony Headphones,5,1330,308.42435546113944,CA
+ORD-5916,2024-04-09,Olivia,East,Furniture,Chairs,Sofa,11,15411,2376.2627993006727,FL
+ORD-1910,2023-08-17,Pragathi,South,Appliances,Cleaning,Refrigerator,20,1040,217.57838583161532,TX
+ORD-1951,2024-02-19,James,North,Appliances,Cleaning,Microwave,9,10719,1460.3446822100339,NY
+ORD-7190,2024-02-29,John,North,Furniture,Chairs,Bookshelf,13,10634,2795.0592057718577,NY
+ORD-7579,2023-05-06,James,West,Appliances,Cooking,Heater,6,1782,441.50048950658817,CA
+ORD-3548,2023-10-19,David,East,Appliances,Climate Control,Heater,14,10738,3077.180544993378,FL
+ORD-7632,2023-10-02,Emma,South,Furniture,Desks,Bookshelf,3,2997,844.5052958263996,TX
+ORD-5716,2023-01-24,Emma,East,Electronics,Tablets,MacBook Air,3,2700,403.3601410473833,FL
+ORD-9850,2023-07-24,Pragathi,West,Furniture,Desks,Bookshelf,24,23544,6589.744684547099,CA
+ORD-7299,2024-02-13,James,South,Appliances,Cooking,Microwave,10,13320,1658.5615289351356,TX
+ORD-1666,2023-05-14,Sophia,West,Appliances,Laundry,Heater,20,19120,3206.971870016629,CA
+ORD-1158,2023-02-04,Emma,North,Electronics,Accessories,Samsung S23,15,19305,2467.7968021156403,NY
+ORD-8803,2023-12-13,James,South,Electronics,Tablets,Sony Headphones,8,2624,392.83155841293836,TX
+ORD-3306,2023-03-24,Emma,West,Electronics,Audio,Samsung S23,8,3368,642.4485329046381,CA
+ORD-5486,2023-11-21,John,East,Furniture,Chairs,Bookshelf,14,15722,2546.2260537909456,FL
+ORD-4909,2023-02-17,Sarah,West,Appliances,Cleaning,Air Conditioner,24,7728,809.45600648863,CA
+ORD-6123,2023-02-17,James,West,Electronics,Accessories,Sony Headphones,10,2820,695.017634623014,CA
+ORD-1325,2024-02-21,Raj,North,Furniture,Seating,Office Desk,21,18816,4397.256378484746,NY
+ORD-3631,2023-02-05,Pragathi,West,Furniture,Storage,Sofa,1,1232,186.93132603605164,CA
+ORD-3341,2023-01-17,Emma,West,Electronics,Laptops,Samsung S23,7,4403,673.5412266306311,CA
+ORD-2360,2024-02-12,Sarah,South,Appliances,Climate Control,Air Conditioner,21,5964,1556.625104490264,TX
+ORD-7018,2023-04-01,Raj,West,Appliances,Cleaning,Microwave,22,7062,1576.5551329696602,CA
+ORD-2440,2023-05-22,Raj,East,Appliances,Climate Control,Microwave,6,1536,367.3121781397521,FL
+ORD-4188,2023-08-17,James,West,Appliances,Laundry,Washing Machine,5,1350,305.82279940716717,CA
+ORD-3218,2024-04-21,Sophia,West,Furniture,Desks,Bookshelf,9,4977,878.8479452701586,CA
+ORD-7361,2023-09-03,John,North,Appliances,Cooking,Air Conditioner,16,17984,2202.619084223582,NY
+ORD-6781,2024-03-17,John,West,Appliances,Climate Control,Heater,9,9045,1964.388764465137,CA
+ORD-9625,2023-07-30,David,East,Furniture,Chairs,Office Desk,6,4878,555.5020692559929,FL
+ORD-3567,2023-04-06,Olivia,West,Appliances,Kitchen,Washing Machine,16,3472,946.3833748785017,CA
+ORD-1048,2023-04-20,Alex,East,Appliances,Kitchen,Refrigerator,18,14364,2292.436354105768,FL
+ORD-8686,2023-11-17,David,East,Appliances,Laundry,Air Conditioner,7,7245,792.6595883979697,FL
+ORD-9888,2023-08-01,David,South,Appliances,Cleaning,Heater,21,13902,3391.2387864897123,TX
+ORD-4842,2023-01-04,Pragathi,South,Appliances,Climate Control,Microwave,24,17088,1785.9341950093979,TX
+ORD-2878,2024-02-19,Pragathi,East,Appliances,Laundry,Refrigerator,10,5190,618.6552104733865,FL
+ORD-7412,2023-01-20,James,South,Furniture,Seating,Gaming Chair,17,17867,2877.751567605474,TX
+ORD-7412,2023-11-08,John,East,Appliances,Kitchen,Washing Machine,7,3717,805.1010698225958,FL
+ORD-3769,2023-06-05,John,West,Furniture,Chairs,Dining Table,16,21584,5735.590325205819,CA
+ORD-9495,2023-07-28,Emma,North,Appliances,Laundry,Air Conditioner,26,10166,2491.8253609388867,NY
+ORD-3823,2023-06-09,James,North,Furniture,Desks,Sofa,18,4140,538.9584336868027,NY
+ORD-1497,2024-02-13,Olivia,North,Furniture,Storage,Sofa,21,16380,3810.4722891138185,NY
+ORD-9712,2023-05-12,Pragathi,West,Furniture,Desks,Dining Table,4,3628,952.8449660696051,CA
+ORD-2607,2023-08-25,John,West,Furniture,Storage,Dining Table,23,1495,288.54556209447117,CA
+ORD-5473,2023-07-27,John,South,Furniture,Chairs,Sofa,7,7966,1242.5961536651457,TX
+ORD-6486,2024-04-05,James,South,Appliances,Laundry,Refrigerator,16,19776,2398.307371686916,TX
+ORD-4291,2023-10-03,Sarah,West,Electronics,Accessories,Sony Headphones,24,31488,5343.374900370719,CA
+ORD-8140,2024-01-21,Emma,East,Appliances,Cleaning,Air Conditioner,11,15048,2903.4357673515888,FL
+ORD-1613,2024-01-01,John,North,Appliances,Kitchen,Refrigerator,6,762,169.0114645243139,NY
+ORD-9713,2024-01-18,Raj,East,Appliances,Cleaning,Refrigerator,17,4386,630.4790114269105,FL
+ORD-4124,2023-09-26,Sarah,South,Electronics,Laptops,iPhone 15,12,7296,2099.947412574303,TX
+ORD-6299,2023-12-23,Raj,West,Furniture,Seating,Dining Table,2,2064,604.3159735062197,CA
+ORD-9968,2024-01-06,Pragathi,East,Electronics,Tablets,MacBook Air,11,4158,973.5566764597253,FL
+ORD-4325,2024-04-24,Sarah,East,Appliances,Laundry,Washing Machine,7,2968,763.6923141482041,FL
+ORD-4136,2023-03-27,David,East,Furniture,Seating,Dining Table,10,8930,2597.643583007437,FL
+ORD-5228,2023-01-05,Raj,South,Appliances,Laundry,Heater,1,475,73.63713695072875,TX
+ORD-6981,2023-01-08,Sarah,East,Furniture,Tables,Office Desk,17,3536,529.5628982071906,FL
+ORD-4342,2024-02-14,Pragathi,South,Furniture,Storage,Sofa,4,2916,577.1274861289452,TX
+ORD-2385,2023-03-06,Raj,East,Furniture,Chairs,Bookshelf,12,16140,2751.663219247784,FL
+ORD-1170,2023-03-03,Olivia,East,Furniture,Chairs,Office Desk,21,25347,4244.2026112989,FL
+ORD-3837,2023-03-01,Emma,South,Electronics,Tablets,Samsung S23,24,1824,330.7159363239231,TX
+ORD-7804,2024-01-03,Emma,West,Electronics,Laptops,Samsung S23,18,16164,3904.7766080467513,CA
+ORD-4132,2023-07-15,James,North,Furniture,Desks,Bookshelf,7,6594,959.8795964352889,NY
+ORD-7487,2023-02-21,Alex,West,Electronics,Tablets,Samsung S23,7,7469,2030.3565860422802,CA
+ORD-2817,2024-02-22,Pragathi,East,Electronics,Accessories,MacBook Air,17,24310,5775.563214319263,FL
+ORD-4759,2023-06-25,Alex,South,Electronics,Accessories,Sony Headphones,13,12324,2619.1975300171152,TX
+ORD-6962,2023-10-02,Sophia,West,Furniture,Chairs,Bookshelf,5,6975,844.9857618014331,CA
+ORD-7321,2024-02-26,Alex,North,Electronics,Laptops,MacBook Air,13,19487,3654.8931394624055,NY
+ORD-5130,2023-09-19,David,South,Appliances,Climate Control,Heater,2,2444,447.9116350116958,TX
+ORD-9142,2023-10-06,John,North,Electronics,Tablets,Sony Headphones,1,1465,426.1396423805023,NY
+ORD-2059,2024-03-26,David,North,Electronics,Laptops,Samsung S23,2,2188,393.9956080525338,NY
+ORD-7748,2023-07-25,Emma,West,Appliances,Laundry,Air Conditioner,20,1860,267.57784509179703,CA
+ORD-8854,2024-04-14,Olivia,East,Appliances,Laundry,Washing Machine,21,27321,5901.160163154013,FL
+ORD-9204,2024-02-01,David,South,Furniture,Storage,Sofa,17,16303,4303.5620818265525,TX
+ORD-2218,2024-01-20,Alex,South,Appliances,Kitchen,Heater,24,6960,848.2846962407849,TX
+ORD-1494,2023-06-28,Alex,South,Electronics,Laptops,Sony Headphones,8,6368,1147.3164921282707,TX
+ORD-3057,2024-01-30,Sophia,West,Electronics,Tablets,Dell XPS,14,16226,4756.939992819293,CA
+ORD-6125,2023-05-08,Emma,North,Electronics,Laptops,iPhone 15,8,5976,1172.1494403101021,NY
+ORD-1329,2023-10-08,Sarah,East,Electronics,Audio,Dell XPS,11,3839,975.1743581968841,FL
+ORD-2803,2023-11-09,Sophia,South,Furniture,Tables,Dining Table,6,7302,913.7155370044226,TX
+ORD-6506,2024-01-25,John,West,Appliances,Laundry,Refrigerator,19,5016,1013.292421275485,CA
+ORD-5429,2023-09-02,James,West,Furniture,Seating,Sofa,16,21936,3725.4364479412575,CA
+ORD-4627,2023-08-30,John,East,Appliances,Cleaning,Air Conditioner,4,2764,548.2984785061318,FL
+ORD-8092,2023-11-14,Olivia,East,Appliances,Cooking,Refrigerator,1,1345,306.668174466602,FL
+ORD-3181,2023-02-10,David,West,Electronics,Audio,iPhone 15,15,5700,814.5944343162026,CA
+ORD-8162,2023-04-23,Raj,West,Electronics,Accessories,MacBook Air,11,3729,503.88221802061616,CA
+ORD-8276,2023-07-28,Sarah,North,Appliances,Kitchen,Refrigerator,5,2385,258.1764042960155,NY
+ORD-7792,2024-02-24,James,West,Electronics,Accessories,Samsung S23,21,23100,2462.701140343012,CA
+ORD-9254,2023-06-15,Sarah,North,Electronics,Laptops,Sony Headphones,1,1069,244.87489425097993,NY
+ORD-9408,2023-08-10,James,South,Appliances,Cooking,Air Conditioner,24,16632,3214.6117287875695,TX
+ORD-2080,2023-08-22,David,East,Electronics,Laptops,MacBook Air,13,9841,1015.0715565712102,FL
+ORD-8746,2023-06-14,Olivia,West,Furniture,Desks,Bookshelf,23,26312,5767.749118982233,CA
+ORD-8836,2024-04-13,Olivia,West,Furniture,Seating,Office Desk,22,7062,2110.7613050617833,CA
+ORD-2126,2023-01-16,James,West,Appliances,Kitchen,Heater,1,947,172.22992801512515,CA
+ORD-2526,2023-04-10,John,South,Electronics,Tablets,Samsung S23,14,18788,5223.135022956598,TX
+ORD-8540,2023-04-16,Sarah,South,Electronics,Audio,Samsung S23,21,2625,677.2367487741625,TX
+ORD-5747,2023-08-08,Raj,North,Electronics,Phones,MacBook Air,7,7126,2099.169083755343,NY
+ORD-4071,2024-03-29,David,West,Appliances,Cleaning,Heater,5,4590,795.441105669948,CA
+ORD-1106,2023-02-06,David,South,Electronics,Accessories,Samsung S23,14,19684,3102.6910072751502,TX
+ORD-1214,2023-10-15,Emma,East,Furniture,Desks,Gaming Chair,22,16610,2530.117606501459,FL
+ORD-7177,2023-12-10,Pragathi,East,Electronics,Accessories,Samsung S23,2,414,76.41417158904929,FL
+ORD-1303,2023-01-31,Olivia,West,Furniture,Tables,Bookshelf,20,2240,471.5215573651716,CA
+ORD-1732,2023-03-21,Raj,East,Electronics,Accessories,Samsung S23,20,16660,4894.45101523085,FL
+ORD-3292,2023-01-09,Sarah,North,Electronics,Laptops,Dell XPS,15,7665,994.5924391407515,NY
+ORD-5886,2023-11-06,James,South,Furniture,Chairs,Bookshelf,20,17580,1864.9691654237652,TX
+ORD-5090,2023-03-19,Raj,South,Electronics,Audio,iPhone 15,22,3454,491.8688391269398,TX
+ORD-1226,2023-06-17,Pragathi,North,Appliances,Kitchen,Washing Machine,1,1326,301.51702121393913,NY
+ORD-2745,2023-04-18,Sarah,West,Furniture,Chairs,Gaming Chair,1,210,62.22631925011296,CA
+ORD-1589,2023-02-14,James,South,Appliances,Cooking,Heater,16,17792,4711.251816776501,TX
+ORD-9503,2023-10-07,Sophia,West,Electronics,Accessories,Sony Headphones,20,6360,1004.0562658026972,CA
+ORD-8017,2024-01-21,Raj,West,Electronics,Accessories,Samsung S23,15,17505,4105.670353863027,CA
+ORD-1337,2024-02-25,David,North,Appliances,Kitchen,Heater,9,12429,3673.2030586411406,NY
+ORD-3673,2024-02-26,Sophia,South,Electronics,Audio,Samsung S23,21,21231,5306.160868775184,TX
+ORD-5130,2023-01-15,Raj,East,Appliances,Kitchen,Microwave,7,1736,238.26424257768178,FL
+ORD-1912,2023-12-06,Sophia,West,Furniture,Tables,Bookshelf,7,2779,521.8454778066275,CA
+ORD-7928,2023-02-11,Pragathi,East,Appliances,Laundry,Air Conditioner,15,1170,329.02952487140686,FL
+ORD-4055,2023-07-08,John,North,Electronics,Phones,Samsung S23,8,2752,480.85190648407087,NY
+ORD-8189,2023-04-12,James,East,Furniture,Storage,Bookshelf,17,19652,4963.89427210184,FL
+ORD-9585,2023-09-03,Sophia,East,Electronics,Audio,Samsung S23,24,2088,388.08459240568493,FL
+ORD-5314,2023-10-17,David,West,Furniture,Storage,Sofa,16,6560,1022.159698630484,CA
+ORD-9772,2023-04-19,Raj,North,Appliances,Climate Control,Washing Machine,1,843,142.43107617115484,NY
+ORD-7829,2023-07-08,Emma,West,Electronics,Accessories,Sony Headphones,17,2669,273.07723969556326,CA
+ORD-4075,2024-01-16,Sophia,South,Furniture,Storage,Bookshelf,3,3336,838.7708671811233,TX
+ORD-6025,2023-11-07,John,East,Electronics,Tablets,Dell XPS,5,1625,333.103577379127,FL
+ORD-7862,2023-09-09,Raj,North,Appliances,Climate Control,Washing Machine,23,31717,4630.43724245492,NY
+ORD-8332,2023-03-07,Sarah,North,Electronics,Tablets,Dell XPS,3,2592,683.4599324628716,NY
+ORD-5014,2023-08-16,David,East,Furniture,Seating,Bookshelf,2,1688,364.03023648254106,FL
+ORD-5237,2023-11-12,James,West,Electronics,Laptops,Samsung S23,15,16455,3281.204824834787,CA
+ORD-9115,2024-03-21,Alex,West,Furniture,Chairs,Office Desk,17,21777,3141.448064729658,CA
+ORD-1721,2024-03-22,Olivia,North,Electronics,Audio,Dell XPS,17,10370,1594.4524123871668,NY
+ORD-1947,2023-07-09,James,East,Appliances,Kitchen,Washing Machine,22,26862,3882.115776954146,FL
+ORD-7998,2023-10-16,Raj,East,Appliances,Climate Control,Microwave,14,13860,1485.0945494593768,FL
+ORD-3324,2023-10-22,Raj,South,Appliances,Laundry,Air Conditioner,17,18547,4625.653328404961,TX
+ORD-5620,2024-04-14,David,West,Appliances,Kitchen,Air Conditioner,24,9888,1133.1021751938401,CA
+ORD-2507,2023-07-29,David,West,Furniture,Desks,Gaming Chair,24,35952,6759.894189246706,CA
+ORD-6051,2023-05-16,Emma,North,Electronics,Accessories,Samsung S23,23,28635,4983.337128392838,NY
+ORD-1805,2023-10-04,Sarah,West,Furniture,Storage,Gaming Chair,18,6192,916.6973228642433,CA
+ORD-1559,2023-09-06,James,North,Electronics,Accessories,MacBook Air,3,2607,683.2788583400857,NY
+ORD-7911,2023-11-18,Pragathi,West,Furniture,Storage,Gaming Chair,8,10296,1980.6094676472046,CA
+ORD-6497,2023-04-04,Emma,North,Appliances,Climate Control,Air Conditioner,15,7290,1519.4364885683908,NY
+ORD-7182,2024-04-02,David,West,Appliances,Kitchen,Microwave,12,2208,614.2899736005481,CA
+ORD-1064,2023-12-27,James,West,Appliances,Laundry,Refrigerator,13,15847,1653.3108624600236,CA
+ORD-4606,2023-06-30,Sarah,East,Furniture,Seating,Dining Table,21,13566,3166.8208430841964,FL
+ORD-8336,2023-04-14,Alex,East,Appliances,Kitchen,Microwave,20,28700,5323.301412286429,FL
+ORD-6196,2023-02-18,David,West,Appliances,Cleaning,Washing Machine,6,8256,1021.5242971176518,CA
+ORD-5087,2023-06-10,Sarah,North,Furniture,Tables,Dining Table,18,2790,683.6035785448892,NY
+ORD-4904,2023-08-21,Raj,North,Electronics,Tablets,Sony Headphones,17,22508,4984.304093463235,NY
+ORD-4729,2024-01-25,Alex,East,Electronics,Tablets,MacBook Air,13,6201,1578.8863936335422,FL
+ORD-6278,2024-02-17,Olivia,East,Electronics,Phones,MacBook Air,12,1872,306.3247984400585,FL
+ORD-6419,2024-01-19,James,North,Electronics,Accessories,Samsung S23,2,2084,594.4162495439895,NY
+ORD-7858,2023-09-04,Raj,North,Furniture,Desks,Sofa,24,11112,2225.503534030249,NY
+ORD-8493,2023-01-16,David,West,Appliances,Laundry,Air Conditioner,1,1118,322.50599306747426,CA
+ORD-5537,2023-09-07,Olivia,North,Appliances,Cooking,Washing Machine,12,7860,1389.9532587036365,NY
+ORD-4584,2024-04-19,Olivia,West,Electronics,Phones,MacBook Air,20,27560,7331.968511996729,CA
+ORD-2351,2023-12-03,David,South,Furniture,Seating,Office Desk,20,29640,3610.1519399077224,TX
+ORD-9756,2023-09-24,Emma,East,Electronics,Accessories,MacBook Air,13,13936,3281.065985020425,FL
+ORD-9983,2023-04-12,Emma,West,Appliances,Cooking,Air Conditioner,7,2240,632.2329710209727,CA
+ORD-9683,2023-12-04,James,South,Appliances,Laundry,Heater,19,7600,2140.5530031091403,TX
+ORD-7176,2023-11-05,Pragathi,North,Furniture,Chairs,Gaming Chair,24,20184,3947.494184929039,NY
+ORD-4534,2023-12-24,Pragathi,North,Appliances,Cleaning,Washing Machine,7,2765,725.788266112654,NY
+ORD-9046,2023-10-13,Sophia,South,Electronics,Laptops,Dell XPS,2,1800,239.90914235193833,TX
+ORD-1568,2023-06-07,David,West,Electronics,Laptops,Dell XPS,6,2178,464.1949107668139,CA
+ORD-1879,2023-03-19,Sophia,South,Furniture,Seating,Gaming Chair,8,2552,506.3585024302471,TX
+ORD-3841,2024-02-13,Sophia,South,Electronics,Accessories,MacBook Air,3,2658,683.7347069457701,TX
+ORD-1440,2023-06-10,Alex,East,Furniture,Seating,Bookshelf,1,127,22.35812562690011,FL
+ORD-4970,2023-01-06,Pragathi,North,Furniture,Seating,Sofa,9,8496,1639.3613227290014,NY
+ORD-6922,2023-06-03,Sarah,North,Appliances,Laundry,Heater,19,8455,929.4152455143017,NY
+ORD-9159,2024-01-03,Alex,North,Furniture,Chairs,Bookshelf,21,27006,7390.591392468367,NY
+ORD-4890,2023-05-29,Raj,North,Appliances,Cleaning,Air Conditioner,18,19098,5146.913369589475,NY
+ORD-4793,2024-03-18,James,South,Electronics,Phones,iPhone 15,17,16643,2980.4451180491847,TX
+ORD-7764,2023-10-30,Sophia,South,Appliances,Cooking,Microwave,9,2016,428.5612099870577,TX
+ORD-6142,2023-02-05,Sarah,West,Electronics,Accessories,Dell XPS,13,12311,2173.612508684953,CA
+ORD-8933,2023-12-25,Alex,South,Appliances,Cooking,Microwave,6,5880,1294.8064319266994,TX
+ORD-3170,2023-04-24,David,East,Furniture,Tables,Sofa,4,2264,360.70992623839817,FL
+ORD-5899,2023-08-02,Raj,North,Electronics,Phones,MacBook Air,14,20286,3193.634163219147,NY
+ORD-6062,2023-12-20,Emma,South,Appliances,Cleaning,Heater,24,29016,4440.3546322258835,TX
+ORD-8590,2023-12-08,James,East,Appliances,Climate Control,Air Conditioner,18,2448,383.87600223422857,FL
+ORD-9382,2024-02-17,Emma,South,Electronics,Laptops,Samsung S23,6,5916,790.6303342818372,TX
+ORD-1743,2023-06-16,Sophia,North,Electronics,Tablets,Sony Headphones,8,4920,1176.898176513466,NY
+ORD-7962,2023-06-24,Raj,South,Electronics,Audio,Samsung S23,14,3276,414.2249897518604,TX
+ORD-5856,2023-06-05,Emma,North,Furniture,Storage,Office Desk,19,16036,4677.910741269264,NY
+ORD-7825,2023-06-20,David,East,Appliances,Climate Control,Microwave,5,4620,557.8466720372646,FL
+ORD-4546,2023-02-20,Olivia,South,Furniture,Tables,Office Desk,20,8360,1229.7082092421865,TX
+ORD-2592,2023-10-06,Emma,North,Appliances,Kitchen,Heater,17,15045,1583.7791225714982,NY
+ORD-6118,2023-08-21,John,West,Electronics,Accessories,iPhone 15,14,10766,1221.2898093440112,CA
+ORD-7071,2023-12-01,James,North,Appliances,Climate Control,Heater,7,9086,1806.525296801917,NY
+ORD-6322,2023-01-28,Olivia,North,Electronics,Accessories,Dell XPS,8,608,167.0248476363497,NY
+ORD-6413,2023-01-30,John,East,Electronics,Laptops,MacBook Air,21,23331,5825.267077345903,FL
+ORD-4217,2024-03-19,Emma,North,Appliances,Kitchen,Refrigerator,21,25578,2574.038439792645,NY
+ORD-5866,2023-04-23,Sarah,South,Electronics,Tablets,Dell XPS,20,15240,4283.577477823878,TX
+ORD-4290,2023-11-07,Alex,South,Appliances,Cleaning,Air Conditioner,14,20230,3916.468791256549,TX
+ORD-4257,2023-10-16,Raj,East,Appliances,Cooking,Refrigerator,18,21978,2236.621250948972,FL
+ORD-6903,2024-01-28,Sarah,North,Appliances,Cleaning,Air Conditioner,15,11490,3282.743728447503,NY
+ORD-2655,2023-05-16,Raj,South,Furniture,Desks,Bookshelf,4,5540,1552.2675536109502,TX
+ORD-4123,2024-03-03,Pragathi,East,Furniture,Seating,Sofa,7,3983,774.5190161843229,FL
+ORD-2766,2024-01-08,Pragathi,West,Electronics,Tablets,Samsung S23,6,5496,1431.9012531288943,CA
+ORD-5381,2023-07-05,Alex,North,Furniture,Seating,Bookshelf,9,9774,2346.128009268015,NY
+ORD-4681,2024-01-28,Olivia,West,Furniture,Desks,Sofa,1,1406,232.05219901454714,CA
+ORD-2843,2023-12-13,Alex,East,Appliances,Cleaning,Washing Machine,9,774,137.70221066173968,FL
+ORD-9455,2023-12-11,Raj,West,Electronics,Accessories,Dell XPS,3,3807,385.6453051818339,CA
+ORD-6431,2023-08-02,Emma,West,Appliances,Kitchen,Air Conditioner,22,13750,2719.0109896875406,CA
+ORD-4491,2023-12-14,Sarah,South,Furniture,Tables,Dining Table,9,6687,1678.562671864541,TX
+ORD-6969,2023-07-19,Pragathi,South,Appliances,Laundry,Air Conditioner,26,24414,3488.5566421440167,TX
+ORD-4657,2023-06-27,James,East,Furniture,Chairs,Sofa,5,5340,1534.3827056805158,FL
+ORD-4097,2023-07-07,Sarah,North,Appliances,Climate Control,Refrigerator,20,15360,3191.2530961909833,NY
+ORD-1716,2023-01-17,Olivia,South,Electronics,Laptops,Samsung S23,21,16107,3042.2702482552604,TX
+ORD-4667,2023-01-09,Emma,West,Appliances,Climate Control,Heater,22,1584,304.69131975125924,CA
+ORD-6400,2023-10-27,Sarah,East,Appliances,Laundry,Refrigerator,7,2415,379.28927252244495,FL
+ORD-9967,2023-12-08,Sophia,East,Electronics,Audio,Sony Headphones,17,6647,1180.1172379664677,FL
+ORD-9806,2023-11-12,Emma,West,Electronics,Tablets,Samsung S23,10,14200,1968.162558552184,CA
+ORD-5131,2024-02-16,David,West,Electronics,Tablets,Dell XPS,14,18060,2286.390896513597,CA
+ORD-6281,2023-11-14,David,North,Furniture,Storage,Gaming Chair,16,18160,3956.016979579917,NY
+ORD-3615,2023-12-13,David,East,Appliances,Climate Control,Heater,9,2511,319.52576145911496,FL
+ORD-4145,2023-11-30,Raj,West,Furniture,Chairs,Sofa,1,667,134.6010596273813,CA
+ORD-8556,2023-07-12,Sophia,North,Furniture,Storage,Office Desk,1,632,109.22891633482213,NY
+ORD-4722,2024-03-16,James,South,Furniture,Seating,Bookshelf,19,15770,4024.982979389135,TX
+ORD-9530,2023-12-19,Sarah,North,Appliances,Climate Control,Washing Machine,10,3610,687.0164726225468,NY
+ORD-5559,2023-05-29,James,East,Furniture,Seating,Sofa,22,2002,442.9198923846258,FL
+ORD-5308,2023-02-22,Alex,North,Electronics,Phones,Samsung S23,21,28266,3878.287755744113,NY
+ORD-6761,2024-01-15,Alex,North,Electronics,Phones,Sony Headphones,7,8078,1757.064799085214,NY
+ORD-4260,2023-12-16,Alex,North,Appliances,Climate Control,Washing Machine,16,13168,3075.8782104417846,NY
+ORD-3517,2023-03-05,Raj,South,Electronics,Accessories,Samsung S23,3,3246,783.4320209845708,TX
+ORD-2596,2024-04-02,John,West,Furniture,Desks,Gaming Chair,22,4532,1166.2218405716008,CA
+ORD-4696,2023-11-17,Olivia,North,Electronics,Audio,iPhone 15,22,30558,7722.9052039689095,NY
+ORD-6541,2023-06-16,Olivia,South,Furniture,Desks,Dining Table,23,30268,5281.164671911632,TX
+ORD-5703,2023-10-08,Olivia,North,Appliances,Kitchen,Refrigerator,3,2172,579.146188081818,NY
+ORD-9131,2023-04-16,Sarah,West,Appliances,Cleaning,Washing Machine,2,1130,125.47918364559169,CA
+ORD-2140,2024-03-27,James,South,Furniture,Chairs,Office Desk,9,972,133.01809784171786,TX
+ORD-8430,2024-03-05,John,North,Appliances,Cleaning,Microwave,16,7152,777.8026678324749,NY
+ORD-2650,2023-12-26,Raj,West,Furniture,Tables,Sofa,1,913,249.9115039351919,CA
+ORD-6645,2023-10-30,Raj,South,Electronics,Accessories,Samsung S23,14,19040,3811.6911014785705,TX
+ORD-2301,2023-04-23,John,West,Electronics,Audio,Sony Headphones,22,20086,4060.553744920116,CA
+ORD-9401,2023-01-17,Sophia,North,Furniture,Chairs,Sofa,10,5250,1382.6059517860622,NY
+ORD-6630,2023-03-21,Sophia,West,Appliances,Kitchen,Washing Machine,18,1926,472.62263023599013,CA
+ORD-2506,2023-12-07,John,South,Electronics,Accessories,Samsung S23,3,3468,924.9430884387614,TX
+ORD-2171,2023-04-03,Raj,East,Furniture,Seating,Dining Table,3,2991,541.4644430789439,FL
+ORD-4577,2023-11-20,Sophia,East,Appliances,Cooking,Microwave,1,115,28.32698272047605,FL
+ORD-8528,2023-09-03,Alex,South,Electronics,Tablets,Samsung S23,24,23832,4916.02584281505,TX
+ORD-4030,2023-11-09,David,East,Electronics,Laptops,Samsung S23,19,2432,529.5726030780206,FL
+ORD-4596,2023-12-26,David,North,Furniture,Seating,Dining Table,21,8526,1114.5503574356196,NY
+ORD-5294,2023-04-25,Raj,East,Furniture,Seating,Gaming Chair,12,15708,1905.0298144488654,FL
+ORD-7320,2023-01-31,Raj,South,Furniture,Seating,Office Desk,12,12684,3171.3812335980797,TX
+ORD-3471,2023-08-15,Emma,North,Furniture,Storage,Office Desk,19,22287,6078.2131643006005,NY
+ORD-4881,2023-08-08,Emma,North,Appliances,Cleaning,Heater,16,18864,3700.139314339401,NY
+ORD-5514,2023-11-27,Raj,East,Electronics,Phones,MacBook Air,17,1020,113.85929336947304,FL
+ORD-9045,2023-07-31,James,East,Furniture,Storage,Bookshelf,11,11044,1463.669832189773,FL
+ORD-3525,2024-01-24,Alex,South,Furniture,Seating,Office Desk,20,13760,3924.7877256071883,TX
+ORD-8120,2023-09-04,Emma,South,Furniture,Desks,Sofa,17,9911,1806.8858008015532,TX
+ORD-2672,2024-02-16,Sarah,West,Furniture,Desks,Bookshelf,14,14042,2114.1885464901893,CA
+ORD-5722,2023-07-03,Sophia,South,Electronics,Accessories,Sony Headphones,4,3392,368.38067343542957,TX
+ORD-1676,2023-09-20,James,North,Appliances,Climate Control,Refrigerator,8,8448,2116.972303030274,NY
+ORD-2110,2024-02-07,Pragathi,North,Appliances,Laundry,Microwave,11,4224,541.1660654390681,NY
+ORD-9678,2023-07-05,Sarah,North,Appliances,Laundry,Heater,22,4994,894.1797948491949,NY
+ORD-7787,2023-01-13,Olivia,North,Furniture,Tables,Sofa,15,3000,721.6697262995849,NY
+ORD-7240,2023-05-10,John,North,Electronics,Accessories,MacBook Air,4,968,187.00674890004504,NY
+ORD-1332,2023-10-22,Pragathi,East,Furniture,Storage,Sofa,19,13927,1631.211659271263,FL
+ORD-6308,2023-07-06,Emma,West,Furniture,Seating,Sofa,10,6130,930.8104472399641,CA
+ORD-8008,2023-11-17,John,North,Electronics,Laptops,iPhone 15,22,8448,1129.3038000128408,NY
+ORD-7055,2023-09-18,Pragathi,West,Furniture,Tables,Dining Table,18,26190,5758.548366203651,CA
+ORD-7500,2024-04-09,David,East,Electronics,Laptops,iPhone 15,6,1044,274.17633383674416,FL
+ORD-4871,2023-05-29,John,North,Appliances,Kitchen,Heater,23,21137,3062.6366082224754,NY
+ORD-9530,2023-08-06,Raj,East,Electronics,Accessories,Dell XPS,2,1152,237.56761095417343,FL
+ORD-3006,2024-02-01,Alex,East,Electronics,Tablets,MacBook Air,15,11025,2219.0489827675574,FL
+ORD-2896,2023-01-19,Alex,West,Furniture,Seating,Dining Table,23,3519,836.5558953552196,CA
+ORD-4139,2023-04-20,Sarah,West,Electronics,Audio,MacBook Air,8,9136,2249.913757922528,CA
+ORD-6489,2023-07-26,Emma,East,Furniture,Seating,Gaming Chair,3,1308,137.10765716778567,FL
+ORD-5759,2024-03-26,Sarah,North,Electronics,Audio,Samsung S23,5,945,202.1377433060956,NY
+ORD-9626,2023-05-29,Sarah,West,Electronics,Tablets,Sony Headphones,15,5340,1224.1976888578793,CA
+ORD-8744,2024-03-24,James,South,Electronics,Audio,Sony Headphones,12,8964,1807.7648151738847,TX
+ORD-5353,2023-07-09,Olivia,East,Furniture,Desks,Bookshelf,6,330,58.23352686097586,FL
+ORD-3175,2023-11-22,Olivia,East,Furniture,Desks,Office Desk,23,23851,3416.3627350769416,FL
+ORD-9808,2023-06-21,James,South,Furniture,Tables,Gaming Chair,19,1349,345.9078859454499,TX
+ORD-9142,2023-10-02,Raj,West,Electronics,Accessories,MacBook Air,16,4096,555.8141537051318,CA
+ORD-7827,2023-06-13,Pragathi,West,Electronics,Laptops,Sony Headphones,16,14464,2385.838561620322,CA
+ORD-1343,2023-04-22,Alex,North,Appliances,Kitchen,Air Conditioner,15,7365,1978.7285587558238,NY
+ORD-5988,2023-10-25,Olivia,South,Appliances,Cooking,Heater,20,28480,4443.183059191905,TX
+ORD-9558,2023-09-03,John,West,Electronics,Audio,iPhone 15,8,1608,479.2456794233376,CA
+ORD-1903,2024-03-21,Olivia,South,Furniture,Desks,Gaming Chair,12,4236,476.8683626073939,TX
+ORD-5507,2023-06-27,John,North,Electronics,Accessories,Dell XPS,24,17664,3576.7241240208764,NY
+ORD-9631,2024-03-05,Raj,South,Electronics,Tablets,iPhone 15,5,400,74.99915526905063,TX
+ORD-1703,2024-03-12,Emma,West,Electronics,Tablets,Dell XPS,12,16932,3932.052619226607,CA
+ORD-6378,2023-06-25,Pragathi,North,Appliances,Cleaning,Microwave,21,26271,4883.352189879109,NY
+ORD-8933,2023-12-09,Olivia,South,Electronics,Tablets,Samsung S23,6,1230,224.72029571758947,TX
+ORD-9934,2023-04-21,David,South,Furniture,Tables,Bookshelf,10,6520,1447.0404144637462,TX
+ORD-3530,2023-08-27,Alex,East,Electronics,Audio,Sony Headphones,5,6700,1398.6899830381744,FL
+ORD-9820,2024-04-20,Alex,North,Furniture,Storage,Dining Table,13,3926,641.8007559245631,NY
+ORD-7301,2023-09-02,James,East,Electronics,Audio,iPhone 15,17,13753,1378.2899566754475,FL
+ORD-5587,2024-01-27,James,West,Electronics,Phones,iPhone 15,5,5515,852.7088397044141,CA
+ORD-7265,2024-03-13,John,East,Appliances,Cooking,Refrigerator,16,1408,183.0102335644093,FL
+ORD-7445,2023-10-18,David,North,Appliances,Laundry,Washing Machine,15,8520,2149.339814169729,NY
+ORD-7997,2024-02-08,David,South,Furniture,Tables,Office Desk,18,1782,335.1413722155551,TX
+ORD-2790,2024-01-08,Sophia,South,Appliances,Cleaning,Washing Machine,11,9889,1072.630056005949,TX
+ORD-5963,2023-02-23,James,East,Electronics,Phones,iPhone 15,1,1205,148.5524765971206,FL
+ORD-8316,2023-03-30,Sarah,West,Furniture,Desks,Bookshelf,10,10370,2506.383897005796,CA
+ORD-2934,2023-12-27,Sophia,East,Appliances,Cleaning,Heater,18,19944,4396.063780011972,FL
+ORD-1703,2023-11-18,Sophia,North,Appliances,Cleaning,Microwave,17,4947,507.7910276341659,NY
+ORD-9493,2023-08-31,Raj,South,Electronics,Phones,iPhone 15,23,2484,305.3531239733792,TX
+ORD-8518,2023-11-13,Sarah,South,Furniture,Storage,Gaming Chair,1,1218,244.3049973862861,TX
+ORD-1211,2023-11-28,Sophia,South,Appliances,Laundry,Heater,22,12694,3482.2608494596852,TX
+ORD-6891,2023-11-05,James,East,Appliances,Climate Control,Microwave,22,15972,2851.835479413123,FL
+ORD-1233,2023-03-20,David,West,Appliances,Laundry,Microwave,7,4704,771.5080780361939,CA
+ORD-2967,2023-12-01,Alex,South,Furniture,Seating,Bookshelf,3,261,48.006893650609406,TX
+ORD-3779,2023-02-19,Sophia,South,Electronics,Tablets,iPhone 15,16,13680,1546.2079959506775,TX
+ORD-5885,2023-03-23,Sarah,West,Electronics,Audio,Sony Headphones,12,12048,3025.2399255414525,CA
+ORD-1914,2023-11-13,Sophia,North,Appliances,Kitchen,Washing Machine,4,3260,971.4096897803984,NY
+ORD-5476,2023-01-23,Emma,East,Electronics,Accessories,Samsung S23,20,25760,6510.231628898834,FL
+ORD-6380,2024-02-15,Emma,North,Electronics,Phones,Samsung S23,4,4864,1060.5984737246306,NY
+ORD-1400,2024-03-21,Olivia,West,Appliances,Climate Control,Air Conditioner,4,5212,597.0475009921873,CA
+ORD-1084,2024-01-13,Alex,East,Electronics,Audio,iPhone 15,12,16968,2601.184897963592,FL
+ORD-8619,2024-01-21,Emma,West,Furniture,Chairs,Bookshelf,23,16767,2012.748737906029,CA
+ORD-5312,2023-10-24,Sarah,North,Appliances,Cooking,Washing Machine,23,30130,5811.491913488212,NY
+ORD-5134,2023-03-05,John,South,Electronics,Laptops,Dell XPS,22,23320,3728.1533655245353,TX
+ORD-2820,2023-03-30,David,North,Appliances,Climate Control,Microwave,24,27648,7530.064624499216,NY
+ORD-9461,2024-02-02,Sophia,West,Furniture,Chairs,Dining Table,4,964,178.088039705531,CA
+ORD-1016,2023-10-11,David,West,Furniture,Tables,Gaming Chair,9,11061,2592.8850888987326,CA
+ORD-4240,2024-03-07,Emma,West,Electronics,Tablets,Samsung S23,11,1815,259.7199597511636,CA
+ORD-3661,2023-09-05,Sarah,South,Appliances,Cooking,Washing Machine,13,13338,3270.7605479822605,TX
+ORD-2374,2023-08-08,Sarah,East,Electronics,Accessories,iPhone 15,15,2490,536.2269020230902,FL
+ORD-4892,2023-08-10,Olivia,East,Appliances,Kitchen,Refrigerator,13,18369,3609.649601351062,FL
+ORD-2425,2023-08-21,Olivia,North,Electronics,Phones,Samsung S23,12,11304,2237.5259552028333,NY
+ORD-3773,2024-01-15,Sarah,North,Furniture,Tables,Gaming Chair,15,16635,4590.197704369864,NY
+ORD-4830,2023-10-06,David,North,Furniture,Chairs,Office Desk,11,11825,3384.6252302203284,NY
+ORD-3160,2023-03-12,Alex,South,Appliances,Cleaning,Refrigerator,4,1336,323.13133346173845,TX
+ORD-5522,2023-11-02,Raj,West,Furniture,Seating,Dining Table,1,771,193.7488580771916,CA
+ORD-7834,2023-01-20,Olivia,West,Appliances,Climate Control,Air Conditioner,6,6642,1129.2792220116144,CA
+ORD-7947,2024-02-27,Raj,West,Furniture,Desks,Sofa,20,1460,352.77902170277866,CA
+ORD-6315,2024-01-07,Pragathi,East,Appliances,Kitchen,Heater,18,4626,502.38560346931797,FL
+ORD-9973,2023-07-02,Sophia,East,Furniture,Desks,Gaming Chair,7,7574,1987.78045308453,FL
+ORD-9296,2023-12-06,John,South,Appliances,Climate Control,Washing Machine,8,3208,865.2538407510114,TX
+ORD-1770,2023-01-06,Emma,East,Appliances,Cleaning,Heater,4,1392,212.5315655685071,FL
+ORD-1038,2024-04-23,Olivia,South,Electronics,Accessories,Sony Headphones,7,1806,212.0365237110694,TX
+ORD-5251,2024-03-21,Raj,North,Appliances,Laundry,Heater,20,8460,2218.2486982824475,NY
+ORD-6543,2024-01-18,Raj,East,Furniture,Desks,Dining Table,20,14060,1531.293248108841,FL
+ORD-6360,2023-09-28,Sophia,South,Electronics,Tablets,Sony Headphones,17,20213,5089.278657350706,TX
+ORD-6316,2023-10-10,Raj,East,Furniture,Tables,Gaming Chair,13,6929,1785.8616536289073,FL
+ORD-7229,2024-04-20,Emma,East,Appliances,Laundry,Washing Machine,10,10460,2717.434576100596,FL
+ORD-8116,2024-02-24,James,East,Appliances,Kitchen,Air Conditioner,24,3456,761.5996341934263,FL
+ORD-3757,2023-05-16,Raj,West,Furniture,Desks,Gaming Chair,10,8080,1042.4645457688475,CA
+ORD-5127,2023-10-21,James,West,Electronics,Tablets,Sony Headphones,13,13039,2348.7355371564945,CA
+ORD-1113,2023-12-25,David,East,Furniture,Storage,Office Desk,10,4690,1105.301764216362,FL
+ORD-6385,2023-04-03,Raj,East,Appliances,Climate Control,Heater,4,2444,270.9741880215618,FL
+ORD-9754,2023-11-12,John,East,Appliances,Cleaning,Air Conditioner,9,3861,660.4933226871342,FL
+ORD-6809,2023-07-24,Pragathi,North,Electronics,Audio,MacBook Air,9,7020,1029.0929857575668,NY
+ORD-3056,2023-02-09,Raj,East,Furniture,Storage,Gaming Chair,2,2982,439.42634783312525,FL
+ORD-5797,2023-12-24,James,North,Furniture,Seating,Dining Table,12,13176,1576.1628565026306,NY
+ORD-6267,2023-11-28,John,West,Furniture,Chairs,Dining Table,24,20232,5604.746820120698,CA
+ORD-2622,2023-10-27,John,South,Appliances,Laundry,Microwave,3,486,144.2902286646023,TX
+ORD-1289,2024-04-10,Sarah,West,Appliances,Kitchen,Washing Machine,24,35520,5369.792022462083,CA
+ORD-9758,2023-04-22,Raj,South,Appliances,Climate Control,Refrigerator,11,8426,1521.3203983131891,TX
+ORD-7739,2024-03-27,John,North,Furniture,Desks,Dining Table,12,15144,3818.694409323811,NY
+ORD-5257,2023-10-10,John,North,Furniture,Seating,Office Desk,10,6900,833.3458305847585,NY
+ORD-2139,2023-10-01,John,North,Appliances,Cooking,Washing Machine,21,28308,6842.491574467999,NY
+ORD-2191,2023-11-01,Alex,South,Electronics,Phones,Sony Headphones,1,983,291.93878503967176,TX
+ORD-3804,2024-02-20,David,East,Electronics,Tablets,Samsung S23,17,4165,447.05777649365376,FL
+ORD-7506,2023-11-06,Raj,North,Electronics,Phones,iPhone 15,15,18105,5229.654740556903,NY
+ORD-8322,2023-06-02,David,West,Electronics,Audio,MacBook Air,16,15680,2373.9079011094573,CA
+ORD-4956,2023-12-02,John,East,Appliances,Cooking,Air Conditioner,15,5205,769.8077518675051,FL
+ORD-4179,2023-10-03,Pragathi,North,Furniture,Seating,Dining Table,12,12024,1430.099389145709,NY
+ORD-9262,2023-12-31,James,West,Electronics,Accessories,Dell XPS,17,12002,2808.9519910692393,CA
+ORD-7614,2023-09-15,Olivia,West,Appliances,Laundry,Air Conditioner,4,776,105.09142258387399,CA
+ORD-9261,2023-12-13,Alex,South,Furniture,Tables,Sofa,24,12792,3075.9607884815796,TX
+ORD-4742,2023-11-18,David,West,Appliances,Cooking,Refrigerator,13,6149,1036.559975870815,CA
+ORD-1454,2023-07-02,David,West,Electronics,Accessories,MacBook Air,21,4494,566.8052853892403,CA
+ORD-6785,2024-02-06,Olivia,South,Furniture,Desks,Office Desk,14,12474,2577.6290174678816,TX
+ORD-8824,2024-02-01,Raj,South,Appliances,Cleaning,Air Conditioner,8,6600,1473.0302493544027,TX
+ORD-1366,2023-05-14,Alex,West,Furniture,Chairs,Bookshelf,8,4224,730.7549530691253,CA
+ORD-5042,2023-01-13,Raj,East,Electronics,Laptops,Dell XPS,24,29784,6340.0558846515705,FL
+ORD-9026,2024-03-25,James,North,Furniture,Chairs,Dining Table,13,16042,4136.591560918589,NY
+ORD-7713,2023-05-28,Olivia,North,Appliances,Cleaning,Heater,16,1856,361.6082567811281,NY
+ORD-7329,2024-02-03,Pragathi,North,Electronics,Accessories,MacBook Air,17,9027,2448.6628044532777,NY
+ORD-1160,2023-05-15,Sarah,North,Electronics,Accessories,Dell XPS,14,7784,2101.1559463035774,NY
+ORD-5880,2023-04-16,Emma,North,Electronics,Accessories,Dell XPS,2,1506,169.97429760666566,NY
+ORD-7679,2023-01-04,Sarah,East,Electronics,Accessories,Sony Headphones,11,14696,1827.0600865243134,FL
+ORD-4044,2023-10-22,Olivia,North,Appliances,Kitchen,Washing Machine,19,25612,6556.478385516282,NY
+ORD-9420,2023-10-31,John,North,Furniture,Seating,Dining Table,18,21258,2613.8665332893947,NY
+ORD-1989,2023-03-28,Emma,South,Appliances,Cooking,Heater,21,23058,3121.1385650656794,TX
+ORD-7360,2023-06-24,Sophia,South,Electronics,Laptops,iPhone 15,8,2880,425.49965794659664,TX
+ORD-4865,2023-12-22,John,West,Electronics,Tablets,MacBook Air,10,14380,1706.7100490390278,CA
+ORD-3746,2023-05-06,John,North,Furniture,Seating,Bookshelf,20,3040,409.4206827515285,NY
+ORD-3562,2023-10-31,Raj,South,Electronics,Accessories,Sony Headphones,11,1749,417.7856899705458,TX
+ORD-3234,2024-04-04,Raj,West,Furniture,Tables,Office Desk,5,3580,579.7871312931724,CA
+ORD-9817,2023-06-26,Sophia,West,Electronics,Accessories,Dell XPS,21,29463,4396.4636896932,CA
+ORD-4155,2023-12-30,Pragathi,East,Furniture,Chairs,Sofa,2,494,52.19844652564634,FL
+ORD-1923,2023-03-13,David,West,Electronics,Tablets,iPhone 15,20,26380,4704.755680918096,CA
+ORD-1629,2023-07-07,David,North,Appliances,Laundry,Washing Machine,4,3824,501.395480089654,NY
+ORD-6465,2023-12-06,Emma,West,Appliances,Kitchen,Air Conditioner,7,6650,1622.5856772735233,CA
+ORD-4477,2023-09-01,Olivia,East,Appliances,Climate Control,Air Conditioner,5,3280,970.3868708285022,FL
+ORD-3553,2023-01-01,James,West,Furniture,Desks,Office Desk,11,16280,4352.330106219751,CA
+ORD-1458,2023-09-16,Emma,North,Furniture,Desks,Dining Table,14,7798,820.7501346159295,NY
+ORD-7298,2023-09-11,Pragathi,East,Furniture,Storage,Office Desk,24,23736,4955.572155989865,FL
+ORD-8711,2023-01-30,Alex,West,Furniture,Storage,Sofa,23,5589,778.8720113289135,CA
+ORD-9962,2024-03-05,Alex,South,Electronics,Audio,MacBook Air,11,5863,1751.1445549648172,TX
+ORD-7966,2023-10-01,Sophia,East,Electronics,Laptops,Sony Headphones,3,2760,772.3281992216489,FL
+ORD-4656,2023-10-09,Sarah,North,Furniture,Storage,Sofa,6,3012,426.69613523937215,NY
+ORD-5945,2023-07-29,Alex,South,Appliances,Laundry,Air Conditioner,34,35598,8094.683457260884,TX
+ORD-1753,2023-05-31,Alex,North,Electronics,Audio,MacBook Air,12,1980,272.98506616154333,NY
+ORD-7401,2023-09-30,David,North,Electronics,Tablets,Samsung S23,23,33465,4758.979544086263,NY
+ORD-3021,2023-05-29,Pragathi,East,Appliances,Cleaning,Refrigerator,21,10647,1602.4896532518837,FL
+ORD-1713,2023-02-04,David,South,Furniture,Storage,Dining Table,18,4428,599.7366267696897,TX
+ORD-9129,2023-01-18,John,East,Electronics,Accessories,Samsung S23,18,5508,675.1369504797393,FL
+ORD-9291,2023-12-07,Pragathi,West,Appliances,Cooking,Heater,10,13300,3868.054080720242,CA
+ORD-6933,2023-04-30,Olivia,North,Appliances,Climate Control,Heater,8,2144,396.4518589429717,NY
+ORD-7609,2023-07-09,John,South,Appliances,Cooking,Microwave,1,964,160.83312598430447,TX
+ORD-7723,2023-06-30,Alex,North,Appliances,Cooking,Microwave,24,2520,653.0032378222701,NY
+ORD-7444,2023-05-03,Pragathi,West,Electronics,Laptops,Samsung S23,6,6312,921.2498759376164,CA
+ORD-6250,2023-12-28,John,North,Electronics,Laptops,MacBook Air,10,7100,1006.9004758653967,NY
+ORD-2767,2023-03-13,Pragathi,West,Electronics,Phones,Samsung S23,17,20961,4989.584381100206,CA
+ORD-6489,2024-03-30,Raj,West,Electronics,Audio,iPhone 15,15,15405,4124.026050481163,CA
+ORD-8973,2023-01-13,Sarah,South,Electronics,Audio,Dell XPS,16,2912,551.2994331054402,TX
+ORD-9276,2023-08-06,Alex,South,Furniture,Desks,Gaming Chair,23,14168,3710.8464905659494,TX
+ORD-4190,2023-02-18,John,South,Furniture,Storage,Dining Table,3,2508,714.1917267125098,TX
+ORD-9707,2023-06-26,Emma,South,Electronics,Tablets,iPhone 15,22,28908,8472.357316297219,TX
+ORD-5852,2023-08-23,Olivia,West,Furniture,Tables,Dining Table,8,5832,1507.5739617232139,CA
+ORD-7658,2023-04-26,Alex,South,Electronics,Tablets,iPhone 15,17,10064,1539.3233673134416,TX
+ORD-3749,2023-05-02,Raj,South,Appliances,Laundry,Air Conditioner,25,14050,2950.2425678273235,TX
+ORD-6616,2023-03-08,Sophia,North,Appliances,Climate Control,Heater,17,24752,4780.198786925848,NY
+ORD-9330,2023-04-25,James,West,Electronics,Phones,iPhone 15,4,1948,221.1186032080474,CA
+ORD-2359,2023-10-19,Sophia,South,Furniture,Tables,Gaming Chair,10,5330,634.3394213920266,TX
+ORD-2906,2023-01-06,Sophia,North,Electronics,Phones,Dell XPS,1,560,125.07310062240823,NY
+ORD-9469,2023-04-13,Pragathi,North,Appliances,Climate Control,Microwave,21,27237,6502.473213674141,NY
+ORD-9284,2024-04-07,Pragathi,North,Furniture,Seating,Sofa,10,13000,1559.383810499147,NY
+ORD-6849,2023-11-01,Raj,South,Electronics,Phones,Samsung S23,8,10808,3078.192958837238,TX
+ORD-3634,2023-09-05,Emma,East,Electronics,Tablets,Dell XPS,14,1680,370.0942898960856,FL
+ORD-7403,2023-02-05,Alex,East,Appliances,Laundry,Heater,20,20740,3284.482582056816,FL
+ORD-9770,2023-05-02,Olivia,North,Furniture,Chairs,Bookshelf,21,24549,4761.534231260468,NY
+ORD-5911,2023-05-27,Alex,South,Furniture,Chairs,Bookshelf,12,6024,1740.0006830060183,TX
+ORD-6909,2023-07-11,Sarah,South,Furniture,Storage,Sofa,9,12438,1286.4665209008974,TX
+ORD-9273,2023-07-08,David,East,Furniture,Tables,Dining Table,10,10780,3033.43657585564,FL
+ORD-5735,2023-12-09,Sophia,South,Electronics,Tablets,Samsung S23,8,9128,1410.4481292153012,TX
+ORD-9107,2023-04-07,David,North,Appliances,Kitchen,Washing Machine,20,4480,1238.6272951506617,NY
+ORD-2234,2023-08-19,Sophia,North,Electronics,Audio,Dell XPS,2,944,132.16307012698803,NY
+ORD-1241,2024-02-21,Sophia,South,Electronics,Phones,MacBook Air,5,1090,120.28879077958871,TX
+ORD-9883,2023-02-26,Emma,East,Appliances,Laundry,Air Conditioner,10,9150,1897.930969364734,FL
+ORD-2150,2023-08-06,Sophia,North,Furniture,Storage,Office Desk,11,7326,1101.8387094589182,NY
+ORD-2242,2023-04-15,Pragathi,West,Electronics,Accessories,Samsung S23,9,4878,1234.136267286325,CA
+ORD-7110,2024-03-27,John,East,Electronics,Tablets,Sony Headphones,17,16881,4766.364975703386,FL
+ORD-3025,2023-10-04,Pragathi,South,Furniture,Seating,Bookshelf,16,8704,1415.1757306800223,TX
+ORD-6959,2023-02-18,Sophia,West,Electronics,Accessories,Samsung S23,1,589,162.42275286252212,CA
+ORD-5107,2024-02-13,Pragathi,East,Electronics,Laptops,MacBook Air,10,14980,3977.1329554319896,FL
+ORD-9945,2023-02-17,Raj,East,Appliances,Climate Control,Washing Machine,17,20264,3693.022255273594,FL
+ORD-7724,2023-02-11,Alex,East,Furniture,Seating,Sofa,5,2260,664.9247512997745,FL
+ORD-8776,2023-11-03,Raj,South,Appliances,Cooking,Refrigerator,16,21952,5940.877706487929,TX
+ORD-2983,2023-12-15,James,North,Electronics,Laptops,Sony Headphones,13,13442,3133.7972724788265,NY
+ORD-8700,2023-08-03,Pragathi,North,Appliances,Climate Control,Heater,11,1507,207.59180524933893,NY
+ORD-9433,2023-08-28,Sarah,East,Electronics,Laptops,iPhone 15,15,14400,2521.695957148581,FL
+ORD-4368,2024-01-23,Olivia,West,Furniture,Tables,Office Desk,23,19090,2794.6555503384266,CA
+ORD-5517,2023-04-29,John,East,Furniture,Seating,Gaming Chair,24,17736,3409.032896518653,FL
+ORD-2154,2023-06-13,Sarah,South,Furniture,Seating,Dining Table,1,192,47.22876017328298,TX
+ORD-4269,2024-02-19,Sophia,East,Electronics,Audio,Sony Headphones,22,32824,5225.167005370134,FL
+ORD-7940,2023-11-28,Sarah,East,Furniture,Chairs,Bookshelf,20,2720,655.7934474007467,FL
+ORD-5789,2023-05-12,Emma,East,Appliances,Kitchen,Air Conditioner,11,3806,708.5381978671601,FL
+ORD-4649,2023-10-19,Raj,West,Appliances,Kitchen,Heater,20,19220,2019.3979379319849,CA
+ORD-1737,2023-05-10,John,North,Appliances,Kitchen,Air Conditioner,29,22417,5378.763475369186,NY
+ORD-4051,2023-06-02,Sarah,North,Furniture,Seating,Office Desk,21,30891,7818.50283520402,NY
+ORD-2373,2024-03-22,John,West,Appliances,Laundry,Refrigerator,2,1998,574.2290759250526,CA
+ORD-3296,2024-03-01,Alex,South,Appliances,Laundry,Washing Machine,24,10080,3002.962653407418,TX
+ORD-5021,2024-01-08,David,South,Appliances,Cleaning,Microwave,16,1584,434.78049431098714,TX
+ORD-7262,2024-04-23,Sarah,North,Electronics,Audio,MacBook Air,13,12519,3326.2975792668217,NY
+ORD-2693,2023-02-10,John,West,Furniture,Tables,Gaming Chair,13,4927,1049.6597273858624,CA
+ORD-7828,2023-12-26,John,North,Electronics,Accessories,Sony Headphones,13,18304,2011.5547376180104,NY
+ORD-2292,2024-01-15,Emma,South,Appliances,Laundry,Washing Machine,6,2394,438.17118845213616,TX
+ORD-2736,2023-08-11,Sophia,North,Electronics,Tablets,iPhone 15,20,16160,3188.1282988042635,NY
+ORD-4452,2023-02-23,Olivia,West,Electronics,Audio,Sony Headphones,10,4440,960.1378742307653,CA
+ORD-7811,2024-03-20,Emma,South,Appliances,Laundry,Microwave,23,20286,5688.981977102192,TX
+ORD-2466,2024-01-04,John,South,Furniture,Seating,Office Desk,15,22425,2826.3992311655984,TX
+ORD-5862,2023-10-02,Sophia,North,Electronics,Audio,Sony Headphones,21,4788,1246.7189676243288,NY
+ORD-2292,2024-01-27,John,West,Furniture,Storage,Bookshelf,14,9534,1971.1925262293835,CA
+ORD-9239,2024-02-06,Olivia,South,Appliances,Cleaning,Microwave,18,20340,3153.4079414397083,TX
+ORD-4680,2024-01-19,Alex,West,Appliances,Cooking,Air Conditioner,3,273,48.35488461728062,CA
+ORD-6769,2023-08-04,Alex,East,Furniture,Seating,Bookshelf,8,5176,806.1178441865575,FL
+ORD-4731,2024-02-12,John,West,Electronics,Tablets,iPhone 15,9,9567,2601.5426584758293,CA
+ORD-1722,2023-03-14,Emma,West,Appliances,Cooking,Heater,22,25124,5402.225626356904,CA
+ORD-5318,2023-10-26,Sarah,West,Furniture,Storage,Dining Table,12,16392,2345.1396014501934,CA
+ORD-9799,2024-03-01,James,North,Electronics,Tablets,Sony Headphones,10,8190,1265.8835316257714,NY
+ORD-6279,2024-02-12,John,East,Electronics,Phones,Sony Headphones,18,9270,1380.677220907467,FL
+ORD-1777,2023-06-12,Raj,West,Electronics,Tablets,iPhone 15,12,8880,2529.4089697445374,CA
+ORD-6269,2023-06-16,Alex,East,Appliances,Cooking,Heater,8,6280,1300.4384799598688,FL
+ORD-6885,2023-04-30,Olivia,North,Furniture,Tables,Bookshelf,17,18768,2146.3368025841132,NY
+ORD-6948,2023-04-20,Sophia,South,Furniture,Seating,Bookshelf,8,11824,1577.4165789286194,TX
+ORD-9491,2023-02-01,Emma,West,Appliances,Cleaning,Air Conditioner,22,3498,499.51443458550597,CA
+ORD-8101,2023-01-09,James,South,Appliances,Cooking,Heater,2,554,123.55012607405098,TX
+ORD-5000,2023-10-02,Alex,West,Electronics,Accessories,Samsung S23,16,1984,496.81715740110616,CA
+ORD-5671,2023-01-03,Raj,South,Furniture,Desks,Bookshelf,8,6240,1194.3114888157502,TX
+ORD-6465,2023-03-22,Emma,South,Furniture,Desks,Dining Table,19,25802,6418.337019386437,TX
+ORD-9898,2023-08-28,Sarah,North,Electronics,Tablets,iPhone 15,9,9936,2834.122624684475,NY
+ORD-6023,2023-11-18,Olivia,West,Furniture,Desks,Gaming Chair,24,14040,2322.777661885313,CA
+ORD-8252,2023-03-01,Raj,East,Appliances,Kitchen,Air Conditioner,19,19209,4741.357686894024,FL
+ORD-9112,2023-09-20,Sophia,East,Appliances,Cleaning,Microwave,6,3258,643.7468576719034,FL
+ORD-3372,2023-04-21,James,North,Electronics,Laptops,Dell XPS,1,741,192.94844463067935,NY
+ORD-6027,2023-05-22,Sarah,North,Electronics,Accessories,iPhone 15,8,3272,564.9744295793942,NY
+ORD-4123,2023-08-12,John,North,Appliances,Cleaning,Washing Machine,20,7860,2318.212554951272,NY
+ORD-6429,2023-09-30,David,East,Electronics,Phones,Samsung S23,3,4074,1075.9934383339048,FL
+ORD-1375,2023-08-22,Emma,South,Appliances,Cleaning,Heater,5,3560,502.91328155044727,TX
+ORD-1050,2024-02-09,Sarah,East,Furniture,Tables,Sofa,21,6426,1669.4881292620514,FL
+ORD-6237,2023-09-19,Raj,South,Appliances,Laundry,Microwave,13,14586,1932.5289358048094,TX
+ORD-9066,2023-05-09,Emma,East,Electronics,Phones,Sony Headphones,13,9516,1678.0701276988284,FL
+ORD-9117,2023-06-22,Pragathi,West,Furniture,Chairs,Gaming Chair,14,9268,2344.9311094652758,CA
+ORD-2566,2023-10-10,Emma,South,Appliances,Laundry,Washing Machine,6,7140,1124.3410289675712,TX
+ORD-1378,2024-01-10,Sarah,East,Electronics,Tablets,Sony Headphones,5,6400,1121.4717238136882,FL
+ORD-1305,2024-02-03,James,West,Furniture,Chairs,Sofa,12,12660,3201.8753341205816,CA
+ORD-1205,2023-04-28,Alex,East,Furniture,Seating,Office Desk,13,7865,1662.0694233914191,FL
+ORD-1178,2023-02-18,Olivia,North,Furniture,Storage,Bookshelf,15,9510,2798.173718576201,NY
+ORD-2542,2023-06-08,John,East,Electronics,Tablets,iPhone 15,18,19854,2879.06167836966,FL
+ORD-4574,2024-04-23,Emma,East,Electronics,Audio,MacBook Air,6,7632,1716.4642986521396,FL
+ORD-9468,2023-04-25,Olivia,North,Furniture,Tables,Dining Table,8,3144,804.2279725096739,NY
+ORD-2120,2024-02-15,David,East,Electronics,Audio,Sony Headphones,14,1064,294.08695931503235,FL
+ORD-1497,2024-03-24,John,West,Electronics,Laptops,Dell XPS,20,22980,5168.5937867147995,CA
+ORD-1018,2023-09-30,Raj,North,Furniture,Chairs,Sofa,10,13600,3402.9354074146268,NY
+ORD-7387,2023-11-07,Raj,South,Electronics,Audio,iPhone 15,6,4038,706.6828678987937,TX
+ORD-7345,2024-01-29,Sarah,East,Furniture,Chairs,Sofa,21,29736,8092.28873213363,FL
+ORD-7639,2023-08-22,Sophia,North,Electronics,Accessories,Sony Headphones,8,8248,1362.3124122248007,NY
+ORD-5012,2023-04-17,Alex,East,Furniture,Chairs,Office Desk,6,4170,839.3885730517446,FL
+ORD-6776,2023-02-13,David,South,Furniture,Tables,Dining Table,20,14160,1449.5741903714109,TX
+ORD-1967,2023-02-25,Emma,East,Electronics,Accessories,Samsung S23,5,2435,275.11780439118263,FL
+ORD-1050,2024-02-13,James,East,Electronics,Accessories,iPhone 15,6,6528,797.047675478194,FL
+ORD-3155,2023-05-03,Sophia,North,Electronics,Laptops,Dell XPS,13,10257,1089.9535102047387,NY
+ORD-6412,2023-06-26,Sophia,East,Electronics,Audio,Samsung S23,10,4560,768.2987212447276,FL
+ORD-3224,2023-04-04,David,East,Furniture,Seating,Office Desk,3,2973,668.5299040873467,FL
+ORD-3808,2023-06-22,John,South,Electronics,Phones,Sony Headphones,6,3306,371.8915139668761,TX
+ORD-4480,2023-08-03,Sarah,East,Appliances,Climate Control,Heater,22,29128,8277.514401055585,FL
+ORD-9205,2023-03-20,James,North,Appliances,Cooking,Heater,20,21060,5384.707615788385,NY
+ORD-6945,2023-02-03,Pragathi,West,Appliances,Laundry,Air Conditioner,19,25327,7546.6425361577385,CA
+ORD-9469,2023-07-21,Sarah,West,Electronics,Laptops,MacBook Air,24,7176,1057.2210501572374,CA
+ORD-5364,2024-04-01,Sophia,South,Appliances,Laundry,Air Conditioner,15,16575,3770.165499609895,TX
+ORD-2054,2023-08-19,Alex,South,Electronics,Phones,iPhone 15,16,2160,394.9675981588293,TX
+ORD-9022,2023-07-29,Sarah,East,Furniture,Desks,Bookshelf,11,6655,1005.3916488985192,FL
+ORD-9080,2023-08-19,Emma,North,Electronics,Laptops,Sony Headphones,17,20570,2231.2769880537453,NY
+ORD-4903,2023-09-17,Pragathi,South,Appliances,Cleaning,Refrigerator,23,20516,4682.241389001281,TX
+ORD-4245,2023-09-28,Pragathi,East,Furniture,Tables,Sofa,18,17694,5242.124556680722,FL
+ORD-5075,2024-01-14,Sophia,East,Electronics,Laptops,Sony Headphones,3,2997,383.8094713131788,FL
+ORD-1460,2024-02-29,John,West,Appliances,Cooking,Microwave,22,19030,2534.0585343312923,CA
+ORD-2264,2023-06-20,Emma,South,Electronics,Laptops,Sony Headphones,8,7792,1198.0152395395748,TX
+ORD-2670,2023-01-02,Raj,West,Furniture,Seating,Office Desk,10,12680,3396.64450993209,CA
+ORD-6965,2023-02-19,Alex,West,Furniture,Storage,Office Desk,22,20922,3771.5061876276577,CA
+ORD-1535,2023-06-22,Alex,East,Furniture,Seating,Dining Table,24,25800,3426.8305083142777,FL
+ORD-1543,2023-07-13,Raj,West,Electronics,Audio,Sony Headphones,20,19980,5059.826380744168,CA
+ORD-9560,2023-02-04,Emma,East,Electronics,Laptops,iPhone 15,19,4712,1363.5548142823404,FL
+ORD-8309,2023-03-06,Sophia,East,Electronics,Tablets,Samsung S23,16,2992,611.60882496858,FL
+ORD-2254,2023-12-01,Raj,East,Furniture,Storage,Office Desk,9,5472,662.045438950908,FL
+ORD-2781,2023-09-11,John,East,Furniture,Desks,Sofa,8,8312,876.3741179350151,FL
+ORD-7653,2023-04-13,Sophia,West,Furniture,Tables,Bookshelf,13,8138,1368.51337301284,CA
+ORD-3530,2024-01-12,Olivia,West,Appliances,Cooking,Heater,23,18446,5255.524454468298,CA
+ORD-4395,2023-08-07,Raj,South,Electronics,Phones,Samsung S23,10,14630,1827.2837763320153,TX
+ORD-2310,2024-03-23,John,North,Electronics,Audio,Samsung S23,13,18720,3353.3881583766074,NY
+ORD-1508,2024-04-22,Raj,North,Furniture,Seating,Office Desk,23,17572,4686.124993858073,NY
+ORD-9509,2023-07-02,Alex,East,Electronics,Tablets,Sony Headphones,13,1209,166.0765820841426,FL
+ORD-2200,2023-08-25,Olivia,West,Furniture,Chairs,Gaming Chair,5,6470,733.838349215099,CA
+ORD-1792,2023-10-21,James,East,Appliances,Cooking,Microwave,15,10995,2906.0673004503583,FL
+ORD-6171,2023-10-20,Alex,East,Appliances,Kitchen,Air Conditioner,17,24718,4988.654450188023,FL
+ORD-2161,2023-01-27,Olivia,West,Furniture,Storage,Dining Table,9,810,183.3116646415971,CA
+ORD-6129,2023-10-24,Sarah,East,Furniture,Desks,Office Desk,19,10773,2886.36547845615,FL
+ORD-5649,2023-10-02,Sophia,North,Furniture,Desks,Office Desk,1,629,134.653326003882,NY
+ORD-4239,2024-03-25,Olivia,South,Furniture,Seating,Dining Table,9,9324,2191.743312790003,TX
+ORD-7189,2023-03-17,Raj,West,Electronics,Phones,Sony Headphones,17,8602,1770.7131959930773,CA
+ORD-1592,2023-05-03,John,West,Furniture,Chairs,Office Desk,7,6993,1584.1470225904138,CA
+ORD-4598,2023-08-03,Sophia,West,Furniture,Storage,Sofa,11,4576,1253.6401853675961,CA
+ORD-4011,2023-04-20,Sophia,North,Appliances,Kitchen,Refrigerator,19,6764,1580.3910365669508,NY
+ORD-4528,2023-05-20,Olivia,East,Appliances,Laundry,Microwave,14,19922,2661.151641227895,FL
+ORD-2957,2023-11-02,Olivia,East,Appliances,Kitchen,Microwave,4,5368,1504.6198925262024,FL
+ORD-5231,2023-07-31,Olivia,North,Appliances,Cleaning,Washing Machine,5,5755,1498.7681791959596,NY
+ORD-9566,2023-08-30,Raj,South,Electronics,Audio,iPhone 15,19,15067,3989.1706266342494,TX
+ORD-6161,2024-01-04,Sophia,North,Furniture,Desks,Gaming Chair,23,33304,8913.033126552189,NY
+ORD-6294,2023-10-21,Sophia,North,Electronics,Laptops,iPhone 15,22,3564,951.8462860587144,NY
+ORD-1252,2023-08-09,Raj,South,Furniture,Seating,Sofa,11,4037,817.672712546786,TX
+ORD-9632,2023-04-30,Olivia,North,Electronics,Tablets,Dell XPS,19,17993,2253.1412921816373,NY
+ORD-9290,2024-04-03,James,South,Electronics,Laptops,iPhone 15,4,5456,1169.1538564971772,TX
+ORD-6431,2024-02-05,Olivia,West,Furniture,Tables,Bookshelf,1,1054,293.75612438326175,CA
+ORD-6479,2023-04-08,John,South,Electronics,Phones,Samsung S23,11,3069,340.868918710268,TX
+ORD-9257,2024-04-08,Pragathi,South,Appliances,Cleaning,Microwave,4,3596,839.28448565107,TX
+ORD-9964,2023-12-03,Sarah,North,Electronics,Audio,MacBook Air,15,2550,599.8819845030565,NY
+ORD-4283,2024-04-19,Raj,West,Appliances,Kitchen,Microwave,5,2945,808.7908625625594,CA
+ORD-4335,2023-08-09,David,West,Electronics,Tablets,Samsung S23,4,2252,233.1114812490667,CA
+ORD-1063,2023-07-17,Raj,East,Furniture,Chairs,Gaming Chair,5,6890,804.4880213453124,FL
+ORD-3473,2024-03-18,Pragathi,West,Furniture,Desks,Bookshelf,13,17953,4943.105479874116,CA
+ORD-4659,2023-07-18,David,South,Appliances,Cleaning,Heater,6,7404,2129.4320510013035,TX
+ORD-2358,2023-08-20,Raj,North,Appliances,Climate Control,Heater,7,10486,1063.809792033361,NY
+ORD-1891,2023-11-17,David,West,Appliances,Cooking,Refrigerator,12,1764,405.38288805222584,CA
+ORD-7394,2023-09-14,Pragathi,North,Electronics,Laptops,Dell XPS,21,6531,746.4128158861316,NY
+ORD-5154,2023-06-24,Alex,North,Appliances,Cleaning,Heater,13,14807,2300.356533252745,NY
+ORD-2671,2023-08-06,Raj,South,Appliances,Kitchen,Washing Machine,15,22185,3123.1082062120354,TX
+ORD-3732,2024-01-05,Sophia,North,Electronics,Tablets,iPhone 15,22,32714,8303.426084989951,NY
+ORD-8825,2023-07-17,James,North,Appliances,Kitchen,Heater,8,6472,1457.3476724213785,NY
+ORD-6326,2023-01-28,David,North,Furniture,Desks,Office Desk,7,3780,508.00962379371845,NY
+ORD-4405,2024-01-27,Sophia,North,Furniture,Storage,Sofa,19,16834,1901.2330727408287,NY
+ORD-7558,2023-08-05,Sarah,South,Electronics,Phones,Samsung S23,2,446,86.13436740307502,TX
+ORD-2607,2023-06-02,John,North,Electronics,Laptops,iPhone 15,4,4620,858.3682621829767,NY
+ORD-5158,2023-06-25,Alex,South,Appliances,Laundry,Heater,1,733,104.85898856426583,TX
+ORD-1771,2024-01-01,David,North,Furniture,Storage,Bookshelf,5,4975,761.7079275856934,NY
+ORD-4944,2023-01-21,Raj,South,Electronics,Phones,Dell XPS,15,18015,4333.668078424263,TX
+ORD-9722,2024-02-22,Raj,South,Appliances,Cooking,Heater,22,10384,2269.2334799284954,TX
+ORD-6147,2023-08-10,David,North,Appliances,Cleaning,Refrigerator,2,1160,340.17086007970073,NY
+ORD-3623,2023-08-25,Olivia,South,Appliances,Laundry,Heater,9,4248,1156.6137660254992,TX
+ORD-4460,2023-03-30,Sarah,North,Appliances,Cooking,Washing Machine,10,9340,1794.5198751195949,NY
+ORD-5815,2023-08-02,John,East,Electronics,Laptops,MacBook Air,7,3885,752.9242125395161,FL
+ORD-3066,2023-12-29,Olivia,North,Furniture,Storage,Gaming Chair,20,19640,2479.694829612607,NY
+ORD-4944,2023-05-25,John,West,Furniture,Storage,Office Desk,18,14148,2027.2473488216658,CA
+ORD-1461,2023-06-05,Alex,North,Appliances,Cleaning,Refrigerator,24,12408,2690.4557523346434,NY
+ORD-9127,2023-07-18,David,West,Furniture,Tables,Office Desk,17,8755,1278.7809966076195,CA
+ORD-9826,2023-10-10,Alex,South,Furniture,Storage,Sofa,19,12084,2787.9291780281546,TX
+ORD-9813,2024-03-07,Emma,West,Appliances,Laundry,Heater,20,29620,8209.252275923158,CA
+ORD-7895,2023-01-02,Raj,South,Furniture,Seating,Office Desk,1,339,95.29805679996737,TX
+ORD-5938,2023-07-12,David,East,Appliances,Laundry,Refrigerator,9,8685,1582.2331349707679,FL
+ORD-4685,2023-02-20,Olivia,East,Appliances,Cooking,Washing Machine,6,4140,578.2758038154532,FL
+ORD-6303,2024-01-22,John,East,Electronics,Audio,iPhone 15,2,680,125.52996468887972,FL
+ORD-4760,2023-09-25,John,South,Electronics,Audio,MacBook Air,12,4056,494.7182349211774,TX
+ORD-4683,2023-08-21,David,South,Electronics,Accessories,Dell XPS,17,2924,791.5597614453638,TX
+ORD-1862,2023-02-09,Sophia,West,Furniture,Desks,Office Desk,16,22480,6736.370988179876,CA
+ORD-1846,2023-12-29,Olivia,North,Appliances,Cooking,Refrigerator,5,6060,1227.436601985693,NY
+ORD-1471,2023-08-24,Raj,South,Furniture,Storage,Sofa,16,1088,221.89596504874936,TX
+ORD-5921,2024-04-16,James,North,Electronics,Laptops,iPhone 15,4,4260,733.9795406483228,NY
+ORD-8354,2023-07-01,Pragathi,East,Appliances,Laundry,Microwave,13,4849,1151.902289872008,FL
+ORD-6768,2023-01-08,John,North,Furniture,Desks,Gaming Chair,21,30891,9253.932823568524,NY
+ORD-6200,2023-02-15,Emma,West,Appliances,Climate Control,Heater,13,9295,1825.205862534993,CA
+ORD-6020,2023-02-19,John,North,Furniture,Storage,Office Desk,23,33373,7163.333952504903,NY
+ORD-6818,2023-11-14,Pragathi,North,Appliances,Kitchen,Air Conditioner,15,4305,922.3146724827493,NY
+ORD-1906,2023-12-01,John,East,Appliances,Climate Control,Washing Machine,15,13035,1493.768609173097,FL
+ORD-3106,2023-06-07,Sophia,East,Appliances,Kitchen,Air Conditioner,26,34086,9504.798132191325,FL
+ORD-1244,2023-12-13,Raj,West,Furniture,Storage,Bookshelf,18,25650,4948.08231788027,CA
+ORD-1087,2024-02-04,John,North,Electronics,Accessories,Dell XPS,14,19250,2741.128855077156,NY
+ORD-5298,2023-03-22,Alex,South,Electronics,Tablets,MacBook Air,14,17402,2387.426405011922,TX
+ORD-5358,2023-11-13,David,South,Appliances,Kitchen,Microwave,5,6710,1548.4058528937717,TX
+ORD-4570,2023-10-11,Sophia,West,Furniture,Seating,Sofa,11,1617,251.25000646221923,CA
+ORD-4577,2023-04-05,Olivia,South,Furniture,Chairs,Bookshelf,18,4266,1126.518366838553,TX
+ORD-6828,2023-08-14,John,East,Appliances,Cleaning,Air Conditioner,17,6698,1728.8772155400932,FL
+ORD-6914,2023-01-04,Pragathi,East,Furniture,Tables,Sofa,18,14310,2165.783510999107,FL
+ORD-9994,2023-02-01,Sophia,North,Appliances,Kitchen,Washing Machine,20,9680,1369.5239177172084,NY
+ORD-6530,2023-02-02,David,South,Appliances,Kitchen,Heater,17,17544,4508.294705913991,TX
+ORD-3422,2023-08-11,Olivia,North,Electronics,Tablets,MacBook Air,12,6204,1853.3695501156292,NY
+ORD-2486,2024-01-09,Sarah,South,Appliances,Cooking,Washing Machine,14,6986,1529.7321066441357,TX
+ORD-8055,2024-01-03,John,East,Furniture,Chairs,Office Desk,11,5555,1564.83779774061,FL
+ORD-5509,2023-05-18,Sarah,West,Appliances,Climate Control,Heater,19,5434,1576.7747227954412,CA
+ORD-8285,2023-03-05,John,West,Electronics,Accessories,Sony Headphones,15,7485,1482.7179091607595,CA
+ORD-6999,2023-03-22,James,East,Appliances,Cooking,Air Conditioner,14,15708,2926.2275878348455,FL
+ORD-8921,2023-01-03,James,West,Appliances,Climate Control,Microwave,12,15600,4618.821540405363,CA
+ORD-9046,2024-04-13,Sophia,South,Appliances,Laundry,Washing Machine,16,1552,410.4183295058838,TX
+ORD-3963,2023-08-01,James,South,Appliances,Cleaning,Microwave,23,12788,1688.7665886441514,TX
+ORD-6340,2024-04-19,Sarah,South,Electronics,Audio,Samsung S23,19,9044,2266.444851003777,TX
+ORD-7229,2023-02-27,John,North,Furniture,Storage,Dining Table,12,14412,2767.294927172398,NY
+ORD-7154,2023-12-29,Emma,South,Appliances,Cleaning,Air Conditioner,13,17966,2519.11414438094,TX
+ORD-3052,2023-02-13,Alex,West,Furniture,Storage,Bookshelf,6,8928,1077.6051424166747,CA
+ORD-2244,2024-04-02,James,South,Furniture,Seating,Gaming Chair,20,23020,4328.360445732578,TX
+ORD-8097,2023-12-20,Sarah,West,Electronics,Audio,iPhone 15,16,7456,817.541636421211,CA
+ORD-6721,2023-07-16,Raj,North,Furniture,Chairs,Sofa,24,11088,2665.3576161242763,NY
+ORD-1172,2024-02-28,Alex,West,Appliances,Kitchen,Air Conditioner,2,228,61.50237654558093,CA
+ORD-1948,2023-03-10,James,East,Appliances,Cooking,Air Conditioner,6,8766,1463.3211557866755,FL
+ORD-6087,2023-05-23,Pragathi,South,Electronics,Tablets,MacBook Air,18,10044,2125.2074317935844,TX
+ORD-3369,2023-01-14,Emma,West,Electronics,Tablets,Dell XPS,23,7383,1049.0989560697399,CA
+ORD-7732,2023-08-23,Sophia,East,Furniture,Chairs,Office Desk,4,772,218.8190065699523,FL
+ORD-9774,2023-09-26,Pragathi,South,Appliances,Cleaning,Microwave,5,1615,457.8955206677123,TX
+ORD-1637,2023-06-04,Alex,West,Furniture,Seating,Gaming Chair,1,176,51.50473296219386,CA
+ORD-8257,2023-03-30,John,North,Electronics,Audio,Sony Headphones,10,6810,1053.3488964709666,NY
+ORD-8586,2023-09-19,Alex,East,Electronics,Laptops,Dell XPS,5,3150,332.0005725971502,FL
+ORD-4434,2024-01-06,James,South,Appliances,Kitchen,Refrigerator,10,7750,1717.9955360656147,TX
+ORD-1390,2023-10-31,John,West,Furniture,Desks,Bookshelf,8,8272,1956.463941787619,CA
+ORD-8769,2024-03-12,Alex,North,Appliances,Climate Control,Washing Machine,6,2688,463.0041260764472,NY
+ORD-7240,2023-09-07,Emma,West,Electronics,Laptops,Dell XPS,3,1833,361.81246547350844,CA
+ORD-9956,2023-05-26,Alex,West,Furniture,Tables,Gaming Chair,21,24864,6150.92195418464,CA
+ORD-5633,2023-10-06,James,East,Furniture,Chairs,Office Desk,14,8848,2569.8791002717003,FL
+ORD-8597,2023-08-31,Alex,North,Furniture,Desks,Dining Table,6,3732,756.4188776752217,NY
+ORD-5925,2024-01-22,Olivia,North,Electronics,Audio,Dell XPS,5,4690,541.7116117858207,NY
+ORD-4873,2024-03-19,James,South,Furniture,Chairs,Gaming Chair,5,4380,577.4283105656608,TX
+ORD-7030,2023-06-02,Olivia,South,Electronics,Phones,iPhone 15,22,31944,8320.521088116855,TX
+ORD-6728,2024-03-21,John,East,Electronics,Accessories,iPhone 15,15,2775,424.769900279842,FL
+ORD-2401,2023-01-17,James,South,Electronics,Tablets,Sony Headphones,24,14664,3932.664530853116,TX
+ORD-1599,2024-01-26,Sarah,East,Furniture,Seating,Dining Table,8,5872,1621.0140592829723,FL
+ORD-2495,2023-06-30,Sophia,South,Appliances,Climate Control,Air Conditioner,22,3938,872.128848862185,TX
+ORD-1576,2023-12-21,James,West,Furniture,Chairs,Sofa,20,25680,5805.028344239839,CA
+ORD-3045,2024-02-17,Emma,South,Appliances,Laundry,Heater,13,8177,996.2676847183078,TX
+ORD-4563,2024-04-09,Sophia,West,Electronics,Tablets,Dell XPS,18,2736,803.7830196048016,CA
+ORD-4311,2024-03-24,Sophia,West,Furniture,Storage,Bookshelf,9,8523,2044.4612145288488,CA
+ORD-7897,2023-05-11,Olivia,West,Furniture,Seating,Sofa,4,1756,181.1120612922672,CA
+ORD-7423,2024-01-15,John,East,Appliances,Kitchen,Microwave,11,847,156.190792075265,FL
+ORD-7558,2023-11-26,Emma,North,Furniture,Chairs,Bookshelf,11,12474,1685.0160904219194,NY
+ORD-1899,2024-02-28,Sarah,East,Appliances,Cleaning,Refrigerator,7,966,118.61745479839503,FL
+ORD-9149,2023-11-24,Pragathi,South,Furniture,Chairs,Gaming Chair,2,1814,224.29681015348834,TX
+ORD-7798,2024-04-10,Sarah,South,Furniture,Seating,Bookshelf,6,2844,575.2414004344488,TX
+ORD-2982,2024-02-12,Alex,North,Furniture,Chairs,Bookshelf,9,2376,597.1375071892396,NY
+ORD-5279,2023-11-15,Olivia,South,Electronics,Audio,MacBook Air,19,12806,1555.2523354921036,TX
+ORD-6432,2023-03-22,Raj,North,Electronics,Laptops,MacBook Air,2,968,279.730515475215,NY
+ORD-7891,2023-07-23,David,West,Furniture,Tables,Dining Table,4,2464,629.6792676860154,CA
+ORD-3563,2024-03-15,John,South,Furniture,Tables,Gaming Chair,7,8806,2633.990242152992,TX
+ORD-2900,2023-01-07,David,South,Appliances,Climate Control,Heater,4,5968,874.9482524788467,TX
+ORD-2378,2023-02-05,Olivia,South,Electronics,Audio,iPhone 15,11,7557,904.9552368655038,TX
+ORD-4917,2024-02-03,Sophia,South,Electronics,Accessories,iPhone 15,17,3213,813.9800215953959,TX
+ORD-4816,2023-05-05,Alex,South,Furniture,Seating,Bookshelf,13,11336,3303.591976458302,TX
+ORD-1060,2023-01-25,Sarah,East,Appliances,Laundry,Microwave,11,6138,1290.0791632947237,FL
+ORD-3472,2023-07-04,David,South,Appliances,Climate Control,Microwave,19,11305,1150.3397211949964,TX
+ORD-9703,2024-03-25,John,North,Furniture,Storage,Dining Table,22,28864,7286.69812508849,NY
+ORD-4400,2023-09-17,David,East,Furniture,Storage,Dining Table,15,3375,933.0319560507139,FL
+ORD-6177,2023-03-03,Alex,North,Appliances,Cooking,Heater,7,2310,427.5419583539027,NY
+ORD-2432,2023-11-28,Sophia,East,Electronics,Tablets,Dell XPS,20,17740,5143.888106083186,FL
+ORD-5102,2023-10-31,Pragathi,West,Appliances,Laundry,Heater,19,7448,992.4822991419885,CA
+ORD-1838,2023-05-01,Olivia,North,Appliances,Cleaning,Microwave,22,9812,1318.4081344937565,NY
+ORD-6234,2024-03-17,Sophia,East,Electronics,Phones,Dell XPS,9,9234,2572.973927735695,FL
+ORD-2982,2023-04-08,Sophia,North,Appliances,Climate Control,Air Conditioner,24,19488,2220.492912637423,NY
+ORD-3480,2024-01-03,Alex,South,Appliances,Kitchen,Air Conditioner,10,1140,115.02182607822058,TX
+ORD-3988,2024-01-09,Alex,East,Furniture,Desks,Dining Table,22,15202,2966.812636309585,FL
+ORD-8126,2023-03-14,James,East,Appliances,Kitchen,Air Conditioner,16,17456,3274.8565612790603,FL
+ORD-2709,2023-12-12,Sarah,West,Appliances,Cooking,Microwave,10,13420,1740.14236105171,CA
+ORD-3711,2023-08-10,David,West,Electronics,Laptops,Sony Headphones,17,21233,5715.025302767577,CA
+ORD-6582,2023-12-30,John,South,Furniture,Desks,Bookshelf,23,33488,4959.653455215324,TX
+ORD-5090,2023-08-06,Sophia,South,Appliances,Climate Control,Refrigerator,15,6795,2014.8431694623887,TX
+ORD-4388,2023-11-04,Olivia,West,Appliances,Climate Control,Refrigerator,18,15318,2824.34986203351,CA
+ORD-3251,2023-09-05,Sophia,East,Appliances,Kitchen,Microwave,1,1492,442.6040711109324,FL
+ORD-2070,2024-03-08,James,East,Electronics,Audio,Samsung S23,16,19216,5213.625336054965,FL
+ORD-7045,2023-06-09,John,East,Electronics,Audio,MacBook Air,5,725,74.29940868372313,FL
+ORD-7406,2023-02-06,Sarah,East,Furniture,Tables,Office Desk,9,882,204.78188751482685,FL
+ORD-3003,2024-03-08,James,East,Electronics,Laptops,iPhone 15,9,468,75.26097865543206,FL
+ORD-3159,2023-04-18,Alex,North,Appliances,Cooking,Refrigerator,24,14424,1533.6029845152793,NY
+ORD-2354,2023-03-06,Pragathi,West,Appliances,Cooking,Washing Machine,17,5219,1345.6084563595416,CA
+ORD-9075,2023-06-16,James,West,Electronics,Audio,Samsung S23,14,5390,977.9239369320717,CA
+ORD-8257,2023-03-21,John,East,Electronics,Accessories,Sony Headphones,21,23604,4932.301179045231,FL
+ORD-5269,2023-03-30,James,East,Electronics,Audio,Samsung S23,14,8064,1890.1308633901942,FL
+ORD-1577,2023-06-15,Alex,West,Furniture,Tables,Dining Table,12,3180,374.1449307279084,CA
+ORD-1746,2023-08-30,James,South,Furniture,Seating,Bookshelf,11,8107,1512.3622591765745,TX
+ORD-2533,2024-03-10,Raj,West,Furniture,Storage,Gaming Chair,13,6929,894.6277999406361,CA
+ORD-9078,2023-08-20,Olivia,East,Furniture,Tables,Dining Table,24,9792,1308.584832224294,FL
+ORD-2928,2023-10-30,David,South,Electronics,Tablets,iPhone 15,12,7752,1412.3242182252918,TX
+ORD-6244,2023-11-24,Emma,East,Furniture,Desks,Dining Table,2,1268,188.51419248692062,FL
+ORD-1973,2023-06-06,David,North,Furniture,Storage,Dining Table,15,13860,1485.0672653885401,NY
+ORD-9497,2023-03-01,Olivia,West,Electronics,Audio,MacBook Air,6,4920,1007.6872873625972,CA
+ORD-8702,2024-03-23,John,West,Furniture,Tables,Sofa,17,17731,3119.205298357039,CA
+ORD-3599,2023-11-09,John,North,Appliances,Cleaning,Microwave,1,330,46.84277359994535,NY
+ORD-6789,2023-11-21,James,East,Electronics,Accessories,Samsung S23,5,5170,1309.1267190882406,FL
+ORD-4462,2023-05-11,Pragathi,East,Appliances,Kitchen,Washing Machine,21,1197,336.7599433924012,FL
+ORD-7849,2023-06-26,James,East,Appliances,Laundry,Air Conditioner,21,12642,1423.2319545331827,FL
+ORD-4236,2024-02-28,Alex,East,Furniture,Seating,Gaming Chair,5,3385,346.99513085089137,FL
+ORD-9842,2023-04-26,Emma,North,Appliances,Cooking,Air Conditioner,3,3495,927.1250879123279,NY
+ORD-4276,2023-10-31,Pragathi,East,Electronics,Accessories,Sony Headphones,14,10528,2680.337653525653,FL
+ORD-4326,2023-10-13,John,North,Electronics,Laptops,iPhone 15,9,7776,1707.911119871028,NY
+ORD-3156,2023-02-15,Sarah,North,Furniture,Desks,Bookshelf,6,4182,965.3463761500522,NY
+ORD-7871,2023-02-13,Raj,South,Electronics,Accessories,Samsung S23,22,21846,2690.1705930161806,TX
+ORD-4943,2023-12-27,Olivia,East,Electronics,Tablets,Samsung S23,24,6216,1846.194076111409,FL
+ORD-7270,2024-02-17,Sarah,West,Electronics,Phones,Dell XPS,6,3150,587.901540854809,CA
+ORD-6333,2023-10-01,Raj,East,Appliances,Climate Control,Washing Machine,13,2444,557.3594408570102,FL
+ORD-5553,2023-04-24,Emma,North,Electronics,Audio,Samsung S23,4,2800,837.0620653147041,NY
+ORD-2181,2024-04-12,Sophia,East,Appliances,Cooking,Microwave,18,17388,3183.372192059493,FL
+ORD-8446,2024-04-23,James,North,Appliances,Climate Control,Refrigerator,17,1921,388.2608978021931,NY
+ORD-7028,2023-11-04,Sarah,South,Furniture,Desks,Bookshelf,13,13728,2064.7316527892067,TX
+ORD-7008,2023-11-13,Alex,East,Furniture,Tables,Dining Table,2,2980,331.7350695008574,FL
+ORD-9788,2023-12-14,Emma,North,Appliances,Cleaning,Air Conditioner,15,3960,851.033869904755,NY
+ORD-3839,2023-08-30,David,East,Furniture,Seating,Dining Table,14,9352,1393.7342264731844,FL
+ORD-5102,2023-05-18,Emma,East,Electronics,Laptops,Samsung S23,22,5478,1332.7732605509234,FL
+ORD-8210,2023-05-30,James,West,Furniture,Tables,Dining Table,23,10971,2141.0867378243574,CA
+ORD-2654,2023-11-17,James,South,Appliances,Cooking,Refrigerator,3,3351,517.3859038634623,TX
+ORD-5417,2023-12-02,Pragathi,West,Furniture,Desks,Office Desk,4,3292,894.2913695283609,CA
+ORD-9108,2023-09-10,Sarah,West,Furniture,Desks,Sofa,1,1312,176.00599418140192,CA
+ORD-9041,2023-10-22,Pragathi,West,Furniture,Desks,Sofa,23,23805,2580.224671244129,CA
+ORD-1410,2024-02-11,David,South,Electronics,Audio,Samsung S23,11,5005,1262.5327010549856,TX
+ORD-6709,2023-07-23,David,South,Furniture,Storage,Bookshelf,3,2784,626.2862498434946,TX
+ORD-5197,2023-09-07,Sophia,South,Electronics,Accessories,Samsung S23,12,1476,320.1005382931197,TX
+ORD-9645,2023-03-03,James,North,Furniture,Tables,Gaming Chair,20,26280,4725.836227814562,NY
